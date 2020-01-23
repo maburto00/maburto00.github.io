@@ -14,8 +14,10 @@ I am working on similarity of tasks for Transfer Learning on Deep Reinforcement 
 - B.Eng., Computer Engineering (2008 - 2014), Facultad de Ingenieria, Universidad Nacional Autonoma de Mexico, Mexico. Thesis: “Desarrollo de aplicaciones en Java para vulcanologia”. Advisor: Ing. Carlos Alberto Roman Zamitiz.
 
 # Publications
-- Understanding Google’s AlphaGo, master’s thesis, Instituto Politecnico Nacional, Mexico City, Mexico, January 2017.
-- Desarrollo de aplicaciones en Java para vulcanologia (tr. Development of applications in Java for volcanology), bachelor’s thesis, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico, June 2014.
+- [Understanding Google’s AlphaGo][master-thesis], master’s thesis, Instituto Politecnico Nacional, Mexico City, Mexico, January 2017.
+- [Desarrollo de aplicaciones en Java para vulcanologia][bachelor-thesis] (tr. Development of applications in Java for volcanology), bachelor’s thesis, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico, June 2014.
 
 [mi-lab]: https://sites.google.com/view/milab/
 [naist]: https://www.naist.jp/en/
+[master-thesis]: https://www.saber.cic.ipn.mx/SABERv3/Repositorios/webVerArchivo/25689/1
+[bachelor-thesis]: http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/4044/Tesis.pdf?sequence=1
