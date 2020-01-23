@@ -3,6 +3,7 @@ layout: post
 title:  "Blog's purpose"
 date:   2019-12-28 18:06:06 +0900
 categories: personal
+comments: true
 ---
 
 I decided to create this blog with the following goals in mind:

@@ -27,7 +27,8 @@ url: "https://maburto00.github.io/" # the base hostname & protocol for your site
 twitter_username: MarioAburto1
 github_username:  maburto00
 google_analytics: UA-155260496-1
-
+disqus:
+  shortname: maburto00
 # Build settings
 theme: minima
 plugins:
