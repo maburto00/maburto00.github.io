@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Information Geometry?"
 date:   2020-02-05 15:13:00 +0900
-categories: information-geometry
+categories: research
 ---
 
 The motivation for this post is to  briefly explain what Information Geometry is and how it can help me on my research for defining task similarity between deep reinforcement learning tasks.  

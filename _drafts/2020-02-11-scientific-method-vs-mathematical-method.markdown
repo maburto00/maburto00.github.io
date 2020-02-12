@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Scientific Method vs Mathematical Method!"
-date:   2019-12-19 18:37:44 +0900
-categories: jekyll update
+date:   2020-02-11 22:35:00 +0900
+categories: research
 ---
 
 OUTLINE
