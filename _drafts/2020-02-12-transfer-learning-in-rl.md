@@ -16,26 +16,26 @@ Transfer Learning can be defined as the set of techniques that makes learning "b
 For Reinforcement Learning, there have been some works trying to formalize the concept of transfer and categorize the different possible types of transfer. The first work to attempt this was done in 2009 by Taylor and Stone [1] where they give a detailed categorization. A more recent study was due to Lazaric in 2012 [2], which builds on the previous one.
 
 The survey by Taylor and Stone [1], although offering a very careful study of many aspects of transfer learning, it is seems too detailed and specific to the algorithms they were surveying. These are the "dimensions" that they identified for transfer, however I exclude some details of each dimension for brevity.
-	1. Allowed task differences (on actions, states, rewards, etc)
-	2. Source task selection (all-used, one-used, human-selected, library-organized, etc)
-	3. Transferred knowledge (actions, task features, task model, policy, shaping reward, etc)
-	4. Task mappings (none, learned-by-experience, human-mapped, etc)
-	5. Allowed learners (bayesian, batch, hierarchical, linear programming,  relational RL, Temporal-Difference Learning, etc) 
-	6. TL metrics (asymtotic performance increase, jumpstart demonstrated, total reward increased, task learning time reduced)
+* Allowed task differences (on actions, states, rewards, etc)
+* Source task selection (all-used, one-used, human-selected, library-organized, etc)
+* Transferred knowledge (actions, task features, task model, policy, shaping reward, etc)
+* Task mappings (none, learned-by-experience, human-mapped, etc)
+* Allowed learners (bayesian, batch, hierarchical, linear programming,  relational RL, Temporal-Difference Learning, etc) 
+* TL metrics (asymtotic performance increase, jumpstart demonstrated, total reward increased, task learning time reduced)
 
 The work  due to Lazaric [2] makes a more broad classification than that of Taylor, which in my opinion makes it easier to grasp. Following is the list of "dimensions" that Lazaric identifies for transfer.
-    • Settings
-		○ source to target with fixed domain
-		○ across tasks with fixed domain
-		○ across tasks with different domain
-	• Knowledge
-		○ instance tr
-		○ representation tr
-		○ parameter tr
-	• Objective (analog to TL metrics from Taylor)
-		○ learning speed improvement
-		○ asymptotic improvement (improve approx. error of the func. approx.)
-		○ jumpstart improvement.
+* Settings
+	* source to target with fixed domain
+	* across tasks with fixed domain
+	* across tasks with different domain
+* Knowledge
+	* instance tr
+	* representation tr
+	* parameter tr
+* Objective (analog to TL metrics from Taylor)
+	* learning speed improvement
+	* asymptotic improvement (improve approx. error of the func. approx.)
+	* jumpstart improvement.
 
 # Relevance to research
 
