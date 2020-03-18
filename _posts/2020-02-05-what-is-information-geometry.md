@@ -28,7 +28,7 @@ In conclusion, I think studying Transfer Learning from the perspective of Inform
 
 I think the most important next steps would be:
 - Try to find a formalization of policy or Q-values in NNs as manifolds, or propose one (from the work on neuro-manifolds)
-- To replicate the results from Mansehavfor [10][11] to see the advantages and limitations. 
+- To replicate the results from Mahadevan [10][11] to see the advantages and limitations. 
 
 # References:  
 1. S. Amari, Information Geometry and Its Applications, 1st ed. Springer Publishing Company, Incorporated, 2016. 
