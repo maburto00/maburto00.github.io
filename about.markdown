@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am a research student under the supervision of Professor Kazushi Ikeda at the [Mathematical Informatics Laboratory][mi-lab] at [Nara Institute of Science and Technology][naist].
+I am a PhD student under the supervision of Professor Kazushi Ikeda at the [Mathematical Informatics Laboratory][mi-lab] at [Nara Institute of Science and Technology][naist].
 
 I am working on similarity of tasks for Transfer Learning on Deep Reinforcement Learning.
 
 # Education
-- **Research student**, Information Science (2019 - present), Nara Institute of Science and Technology, Japan. Advisor: Prof. Kazushi Ikeda.
+- **PhD student**, Information Science (2020 - present), Nara Institute of Science and Technology, Japan. Advisor: Prof. Kazushi Ikeda.
+- **Research student**, Information Science (2019 - 2020), Nara Institute of Science and Technology, Japan. Advisor: Prof. Kazushi Ikeda.
 - **M.Sc., Computer Science** (2014 - 2017), Centro de Investigacion en Computacion, Instituto Politecnico Nacional, Mexico. Thesis: “Understanding Google’s AlphaGo”. Advisors: Dr. Ricardo Menchaca Mendez, Dr. Rolando Menchaca Mendez.
 - **B.Eng., Computer Engineering** (2008 - 2014), Facultad de Ingenieria, Universidad Nacional Autonoma de Mexico, Mexico. Thesis: “Desarrollo de aplicaciones en Java para vulcanologia”. Advisor: Ing. Carlos Alberto Roman Zamitiz.
 
