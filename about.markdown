@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student under the supervision of Professor Kazushi Ikeda at the [Mathematical Informatics Laboratory][mi-lab] at [Nara Institute of Science and Technology][naist].
+I am a PhD student under the supervision of Professor Kazushi Ikeda at the [Mathematical Informatics Laboratory][mi-lab] at [Nara Institute of Science and Technology][naist], Japan.
 
 I am working on similarity of tasks for Transfer Learning on Deep Reinforcement Learning.
 

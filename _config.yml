@@ -21,7 +21,7 @@
 title: Mario Eduardo Aburto Gutierrez
 email: aburto_gutierrez.mario.ae2@is.naist.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student under the supervision of Professor Kazushi Ikeda at the Mathematical Informatics Laboratory at Nara Institute of Science and Technology.
+  PhD student at Mathematical Informatics Lab at NAIST, Japan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maburto00.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # author: Mario Eduardo Aburto Gutierrez
