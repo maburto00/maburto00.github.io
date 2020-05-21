@@ -2,7 +2,7 @@
 layout: post
 title:  "How to configure TensorFlow on Ubuntu"
 date:   2020-01-04 21:46:00 +0900
-categories: personal
+categories: research
 comments: true
 ---
 <style type="text/css">

@@ -39,28 +39,28 @@ The work  due to Lazaric [2] makes a more broad classification than that of Tayl
 
 # Relevance to research
 
-As noted by Glatt [1], the effectiveness of transfer is highly dependant on task similarity, but when done correctly, greatly improves learning; when done incorrectly, negative learning[^1] occurs. This article, in terms of Larazic classification, talks about transfer learning where 
-	• Setting: source to target with fixed domain
-	• Knowledge: representation/parameter transfer
-	• Objective: asymptotic improvement (improve approx. error of the func. approx.)
+As noted by Glatt [1], the effectiveness of transfer is highly dependant on task similarity, but when done correctly, greatly improves learning; when done incorrectly, negative learning[^1] occurs. Glatt's experiment, in terms of Larazic classification, talks about transfer learning where:
+* Setting: source to target with fixed domain
+* Knowledge: representation/parameter transfer
+* Objective: asymptotic improvement (improve approx. error of the func. approx.)
 
 I think it would be beneficial to try to replicate the results of [4] to understand how they measure the effect of task similarity on the transfer.
 
 # Conclusion
-Using Lazaric taxonomy, the kind of transfer learning that would be most helpful would defined as:
-	• Setting: source to target with fixed domain
-	• Knowledge: representation/parameter transfer
-	• Objective: asymptotic improvement (improve approx. error of the func. approx.)
+Using Lazaric taxonomy, the kind of transfer learning that would be most relevant to me would be:
+* Setting: source to target with fixed domain
+* Knowledge: representation/parameter transfer
+* Objective: asymptotic improvement (improve approx. error of the func. approx.)
 
 Some next steps I identify are:
-	• Define simplest test environment for this kind of TL (e.g. gridworld) and also identify which environment from Atari Learning Environment could help (especially for replicating [4])
+* Define simplest test environment for this kind of TL (e.g. gridworld) and also identify which environment from Atari Learning Environment could help (especially for replicating [4])
 
 # References:
-1. Glatt, R., Da Silva, F. L., & Costa, A. H. R. (2016). Towards Knowledge Transfer in Deep Reinforcement Learning. 5th Brazilian Conference on Intelligent Systems (BRACIS), 91–96. https://doi.org/10.1109/BRACIS.2016.027
-2. Pan, S. J., & Yang, Q. (2010). A survey on transfer learning. IEEE Transactions on Knowledge and Data Engineering, 22(10), 1345–1359. https://doi.org/10.1109/TKDE.2009.191
-3. Taylor, M. E., & Stone, P. (2009). Transfer Learning for Reinforcement Learning Domains : A Survey. Journal of Machine Learning Research, 10, 1633–1685. https://doi.org/10.1007/978-3-642-27645-3
-4. Lazaric, A. (2012). Transfer in reinforcement learning: A framework and a survey. In Adaptation, Learning, and Optimization. https://doi.org/10.1007/978-3-642-27645-3_5
+1. Glatt, R., Da Silva, F. L., & Costa, A. H. R. (2016). Towards Knowledge Transfer in Deep Reinforcement Learning. 5th Brazilian Conference on Intelligent Systems (BRACIS), 91–96.
+2. Pan, S. J., & Yang, Q. (2010). A survey on transfer learning. IEEE Transactions on Knowledge and Data Engineering, 22(10), 1345–1359.
+3. Taylor, M. E., & Stone, P. (2009). Transfer Learning for Reinforcement Learning Domains : A Survey. Journal of Machine Learning Research, 10, 1633–1685.
+4. Lazaric, A. (2012). Transfer in reinforcement learning: A framework and a survey. In Adaptation, Learning, and Optimization.
 
 
 # Footnotes:
-[^1]: Negative transfer. The transfer makes affects performance negatively.  
+[^1]: Negative transfer. The transfer affects performance negatively.  
