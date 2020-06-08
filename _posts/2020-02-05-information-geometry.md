@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Information Geometry?"
+title:  "Information Geometry"
 date:   2020-02-05 15:13:00 +0900
 categories: research
 ---
