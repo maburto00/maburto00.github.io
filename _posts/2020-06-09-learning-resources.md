@@ -36,9 +36,16 @@ GitHub Repos
 Books
 - [Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
 - [Szepesvari, Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)    
-- [Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
-- [Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [Bertsekas, Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
+
+# Dynamic Programming
+- [Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
+- [Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
+
+# Markov Decision Processes
+- [Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
+- [Feinberg, Handbook of Markov Decision Processes - Methods and Applications](http://www.ams.sunysb.edu/~feinberg/MDPHandBook/index.html)
+- Altman, Constrained Markov Decision Processes
 
 # Research methodology
 - [Shady Attia (YouTube)](https://www.youtube.com/user/ShadyGalal/featured)
