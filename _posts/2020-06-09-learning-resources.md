@@ -58,6 +58,8 @@ Books
 
 # Mathematics
 - Amari, Methods of Information Geometry.
+- Fischer, Introduction to the Calculus of Variations (http://www2.math.uu.se/~gunnar/varcalc.pdf)
+- Van Brunt, The calculus of variations
 
 # Computer Science
 - Sedgewick, Algorithms (4th Edition).
