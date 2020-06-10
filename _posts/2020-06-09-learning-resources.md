@@ -72,3 +72,9 @@ Books
 - [Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
 - Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+
+# Teaching
+- [Foundations of Teaching for Learning: Introduction](https://www.coursera.org/learn/teaching)
+- [University Teaching](https://www.coursera.org/learn/university-teaching)
+- [Learning to Teach Online](https://www.coursera.org/learn/teach-online)
+- [Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
