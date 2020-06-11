@@ -19,6 +19,9 @@ Books
 - [Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - [Hastie, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
+Courses
+- [Machine Learning (Andrew Ng - Stanford) Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+- [パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
 
 # Reinforcement Learning
  Courses
