@@ -10,6 +10,10 @@ comments: true
 * TOC
 {:toc}
 
+# Currently taking
+- [Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
+- [パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
+
 # Artificial Intelligence
 Books
 - [Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
@@ -22,6 +26,7 @@ Books
 Courses
 - [Machine Learning (Andrew Ng - Stanford) Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 - [パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
+- [Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
 
 # Reinforcement Learning
  Courses
