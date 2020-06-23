@@ -10,9 +10,12 @@ comments: true
 * TOC
 {:toc}
 
-# Currently taking
+# Currently using
+- [Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+- Bishop, パータン認識と機械学習
 - [Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
 - [パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
+- [Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 
 # Artificial Intelligence
 Books
@@ -21,6 +24,7 @@ Books
 # Machine Learning
 Books
 - [Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+- Bishop, パータン認識と機械学習
 - [Hastie, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 Courses
@@ -68,6 +72,11 @@ Books
 - Amari, Methods of Information Geometry.
 - Fischer, Introduction to the Calculus of Variations (http://www2.math.uu.se/~gunnar/varcalc.pdf)
 - Van Brunt, The calculus of variations
+- Stewart, Calculus
+- [Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
+
+# Information Theory
+- Cover, Elements of Information Theory
 
 # Computer Science
 - Sedgewick, Algorithms (4th Edition).
