@@ -52,13 +52,15 @@ comments: true
 - BOOK Altman, Constrained Markov Decision Processes
 
 # Research methodology
-- [YOUTUBE Shady Attia (YouTube)](https://www.youtube.com/user/ShadyGalal/featured)
 - BOOK Phillips, How to Get a PhD
 - BOOK Blaxter, How to research
 - BOOK Cryer, The Research Student's Guide to Success
 - BOOK Hofmann, Scientific Writing and Communication
 - BOOK Dunleavy, Authoring a PhD
 - [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
+- [YOUTUBE PhD Coffee Time](https://www.youtube.com/channel/UC2YqZKndK7HxCnbe06ZCEuw)
+- [YOUTUBE Shady Attia (YouTube)](https://www.youtube.com/user/ShadyGalal/featured)
+- [YOUTUBE Simon Clark](https://www.youtube.com/user/SimonOxfPhys)
 
 # Mathematics
 - BOOK Amari, Methods of Information Geometry.
@@ -90,3 +92,6 @@ comments: true
 - [COURSE University Teaching](https://www.coursera.org/learn/university-teaching)
 - [COURSE Learning to Teach Online](https://www.coursera.org/learn/teach-online)
 - [COURSE Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
+
+# PhD Tips
+- 
