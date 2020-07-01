@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student at [Mathematical Informatics Lab][mi-lab], [NAIST][naist].
+I am a PhD student at the [Mathematical Informatics Lab][mi-lab], [NAIST][naist].
 
 I am working on similarity of tasks for Transfer Learning on Deep Reinforcement Learning.
 
