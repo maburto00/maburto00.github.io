@@ -9,26 +9,26 @@ The motivation for this post is to  briefly explain what Information Geometry is
 
 # Definition 
 
-A formal definition of Information Geometry is that it defines a Riemannian[^1] metric[^2] with dually coupled affine connections in a manifold (generalization of curve and surface) of probability distributions. More informally, it is the application of concepts of differential geometry to probability theory and statistics, and more generally, to disciplines related to "Information Sciences". For example, in the case of probability distributions, they can be seen as manifolds and their geometrical properties analyzed. 
+A (somewhat) formal definition of Information Geometry is that it defines a Riemannian[^1] metric[^2] with dually coupled affine connections in a manifold (generalization of a curve and a surface to n-dimensionalal spaces) of probability distributions. More informally, it is the application of concepts of differential geometry to probability theory, statistics, and more generally, to disciplines related to "Information Sciences". For example, in the case of probability theory, probability distributions are treated as manifolds and their geometrical properties are analyzed.
 
 # Applications
 
 Information Geometry was first successfully applied to the study of the exponential family of probability distributions[^3], which includes many known distributions (e.g. discrete probability distributions, gaussian distributions, multinomial distributions, gamma distributions). An important result of this study was that the unique invariant Riemannian metric for this manifold turned out to be the Fisher Information matrix.
 
-Another important result is on Natural Policy Gradient [8][9], where Information Geometry validates theoretically that the natural gradient is the optimal direction for learning.
+Another important result is the Natural Policy Gradient [8][9], where Information Geometry validates theoretically that the natural gradient is the optimal direction for learning.
 
 # Relevance to my research
 
-Information Geometry may not be necessary to understand concepts like Natural Gradient or Fisher Information Matrix [4], but it is useful for giving a theoretical foundation to these concepts. In my case, I could extend some results to the field of Reinfocement learning by studying either a policy or a Q-value function parametrized by a Neural Network, analyzing this neural networks as manifolds. A first direction would be to study if previous results remain consistent for the Reinforcement Learning case. 
+Information Geometry is not necessary to understand concepts like Natural Gradient or Fisher Information Matrix [4], since many of the concepts have already been defined from other disciplines; however, Information Geometry has given new insights and theoretical foundations to these concepts. In my case, I would like to extend some results to the field of Reinfocement learning by studying either a policy or a Q-value function parametrized by a Neural Network, analyzing these neural networks as manifolds. A first direction would be to study if previous results remain consistent for the Reinforcement Learning case. 
 
-Some previous work using concepts from Riemmanian Geometry has been done by Sridhar Mansehavfor for Transfer Learning on Reinforcement Learning [5] and Supervised Learning [10], which is theoretically grounded but has practical application. 
+Some previous work using concepts from Riemmanian Geometry has been done by Sridhar Mahadevan for Transfer Learning on Reinforcement Learning [5] and Supervised Learning [10], which is both theoretically grounded and applicable. 
 
 # Conclusions and further questions
-In conclusion, I think studying Transfer Learning from the perspective of Information Geometry is a good first step for my research. Later it may be helpful to study deeper on concepts from Differential Geometry, Manifolds and Information Theory as I see fit. 
+In conclusion, I think studying Transfer Learning from the perspective of Information Geometry is a good first step for my research. Later it may be helpful to study deeper on concepts from Differential Geometry, Manifolds and Information Theory as needed. 
 
 I think the most important next steps would be:
-- Try to find a formalization of policy or Q-values in NNs as manifolds, or propose one (from the work on neuro-manifolds)
-- To replicate the results from Mahadevan [10][11] to see the advantages and limitations. 
+- Find a formalization of policy or Q-values in NNs as manifolds, or propose one (from the work on neuro-manifolds)
+- To replicate the results from Mahadevan [10][11] to see the advantages and limitations of 
 
 # References:  
 1. S. Amari, Information Geometry and Its Applications, 1st ed. Springer Publishing Company, Incorporated, 2016. 

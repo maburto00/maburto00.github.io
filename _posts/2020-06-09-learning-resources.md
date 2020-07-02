@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning resources"
 date:   2020-06-09 03:57:00 +0900
-categories: research general
+categories: general
 comments: true
 ---
 
@@ -15,11 +15,11 @@ comments: true
 - Bishop, パータン認識と機械学習
 - [BOOK Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 
+# Algorithms
+- BOOK Sedgewick, Algorithms (4th Edition).
+
 # Artificial Intelligence
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
-
-# Computer Science
-- BOOK Sedgewick, Algorithms (4th Edition).
 
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
@@ -41,7 +41,7 @@ comments: true
 - [BOOK Feinberg, Handbook of Markov Decision Processes - Methods and Applications](http://www.ams.sunysb.edu/~feinberg/MDPHandBook/index.html)
 - BOOK Altman, Constrained Markov Decision Processes
 
-## Partially Observable MDPs
+## Partially Observable Markov Decision Processes (POMDPs)
 - BOOK Decision making under uncertainty Stanford
 - Course Decision making under uncertainty Stanford
 - Tutorial POMDP http://pomdp.org/
