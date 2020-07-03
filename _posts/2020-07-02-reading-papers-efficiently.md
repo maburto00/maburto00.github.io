@@ -29,3 +29,5 @@ Resources from where to get interesting papers
 1. [How many papers do you read per week and what is your position in the lab?](https://www.reddit.com/r/labrats/comments/7ebwjp/how_many_papers_do_you_read_per_week_and_what_is/)
 2. [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a)
 3. [How to keep up to date with the literature but avoid information overload](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/18/how-to-keep-up-to-date-with-the-literature-but-avoid-information-overload/)
+4. [How to Read a Paper Efficiently (By Prof. Pete Carr](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+5. [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
