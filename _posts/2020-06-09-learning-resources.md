@@ -91,6 +91,7 @@ comments: true
 - [YOUTUBE Shady Attia](https://www.youtube.com/user/ShadyGalal/featured)
 - [YOUTUBE Simon Clark](https://www.youtube.com/user/SimonOxfPhys)
 - [YOUTUBE Surviving and Thriving in Higher Education](https://www.youtube.com/channel/UC4jExrOEqgZmJM6EmziU6NA)
+- [YOUTUBE Tom Nicholas - Essay tips, PhD Vlog](https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg)
 
 # Teaching
 - [COURSE Foundations of Teaching for Learning: Introduction](https://www.coursera.org/learn/teaching)
