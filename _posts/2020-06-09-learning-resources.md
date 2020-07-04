@@ -24,6 +24,7 @@ comments: true
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
+
 # Information Theory
 - BOOK Cover, Elements of Information Theory
 
@@ -42,8 +43,8 @@ comments: true
 - BOOK Altman, Constrained Markov Decision Processes
 
 ## Partially Observable Markov Decision Processes (POMDPs)
-- BOOK Decision making under uncertainty Stanford
-- Course Decision making under uncertainty Stanford
+- BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
+- [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
 - Tutorial POMDP http://pomdp.org/
 - REPO https://github.com/Svalorzen/AI-Toolbox
 
