@@ -79,6 +79,7 @@ comments: true
 - [BOOK Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
 - [BOOK Szepesvari, Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)    
 - [BOOK Bertsekas, Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
+- BOOK Sugiyama, Statistical Reinforcement Learning
 
 # Research methodology
 - BOOK Phillips, How to Get a PhD
