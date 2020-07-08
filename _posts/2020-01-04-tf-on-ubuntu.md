@@ -39,8 +39,8 @@ These are the notes I took while setting up tensorflow on my computer. The notes
     1. Change UEFI Hard Disk Drive BBS Priorities and boot order 
 8. PROBLEM The graphic card driver does not work correctly (cannot login)
     1. Edit on grub blacklist 
-    2. Update on grub blacklist 
-    3. Get name of nvidia card "lspci |grep -i nvidia" 
+    2. Update on grub blacklist
+    3. Get name of nvidia card "lspci \|grep -i nvidia" 
         1. 01:00.0 VGA compatible controller: NVIDIA Corporation GP104GLM [Quadro P3000 Mobile] (rev a1) 
     4. Software & updates -> Additional Drivers -> Using NVIDIA 435 (propietary test) [7] 
     5. Restart 
