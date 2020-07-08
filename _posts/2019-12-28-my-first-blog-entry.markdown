@@ -8,7 +8,7 @@ comments: true
 
 I decided to create this blog with the following goals in mind:
 - To learn by explaining.
-- To practice my writing in english (and hopefully also in japanese later ^_^).
-- To share what I am learning/working on and make it possible for interested people to contact me (please feel free to write comments/contact me).
+- To practice my written English (and hopefully my Japanese later ^_^).
+- To share what I am learning/working on and make it possible for interested people to contact me (comments/e-mail/etc)
 
 Thanks to my friend Felan for suggesting me to publish my personal notes on [How to configure TensorFlow on Ubuntu]({% post_url 2020-01-04-tf-on-ubuntu %}), this gave me the push I needed to start this blog.
