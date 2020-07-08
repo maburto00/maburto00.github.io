@@ -28,6 +28,11 @@ comments: true
 # Information Theory
 - BOOK Cover, Elements of Information Theory
 
+# Japanese
+- BOOK Minna no Nihongo Series
+- BOOK 日本語総まとめ　Nihongo soumatome series
+- [COURSE Connect and Enhance Your Life in Japanese - Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
+
 # Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - BOOK Bishop, パータン認識と機械学習
