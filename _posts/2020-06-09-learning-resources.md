@@ -31,7 +31,11 @@ comments: true
 # Japanese
 - BOOK Minna no Nihongo Series
 - BOOK 日本語総まとめ　Nihongo soumatome series
-- [COURSE Connect and Enhance Your Life in Japanese - Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
+- [WEBPAGE Hirogaru](https://hirogaru-nihongo.jp/en/)
+- [WEBPAGE Minato - Japan Foundation](https://minato-jf.jp/)
+- [WEBPAGE NHK Radio Podcast - やさしい日本語](https://www.nhk.or.jp/podcasts/program/lesson.html)
+- [WEBPAGE NHK World Japan - Learning Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+- [WEBPAGE Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
 
 # Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
