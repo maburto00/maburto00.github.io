@@ -65,6 +65,11 @@ comments: true
 - [CHAPTER Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
 - [YOUTUBE STrang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
 
+# Optimal Transport
+- [BOOK Peyré, Computational Optimal Transport](https://optimaltransport.github.io/book/)
+- [WEBPAGE Peyré, Code - Computational Optimal Transport](https://optimaltransport.github.io/resources/)
+- [WEBPAGE Peyré, Slides Computational Optimal Transport](https://optimaltransport.github.io/slides/)
+
 # Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
 - BOOK Meditations, Marcus Aurelius
