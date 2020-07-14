@@ -70,7 +70,9 @@ comments: true
 - BOOK Villani, Topics in Optimal Transportation
 - [WEBPAGE Peyré, Code - Computational Optimal Transport](https://optimaltransport.github.io/resources/)
 - [WEBPAGE Peyré, Slides Computational Optimal Transport](https://optimaltransport.github.io/slides/)
-
+- [YOUTUBE Cuturi, MLSS - A primer on optimal transport part 1](https://www.youtube.com/watch?v=6iR1E6t1MMQ)
+- [YOUTUBE Cuturi, MLSS - A primer on optimal transport part 2](https://www.youtube.com/watch?v=1ZiP_7kmIoc)
+- [YOUTUBE Cuturi, MLSS - A primer on optimal transport part 3](https://www.youtube.com/watch?v=SZHumKEhgtA)
 
 # Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
