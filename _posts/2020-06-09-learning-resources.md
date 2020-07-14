@@ -67,8 +67,10 @@ comments: true
 
 # Optimal Transport
 - [BOOK Peyré, Computational Optimal Transport](https://optimaltransport.github.io/book/)
+- BOOK Villani, Topics in Optimal Transportation
 - [WEBPAGE Peyré, Code - Computational Optimal Transport](https://optimaltransport.github.io/resources/)
 - [WEBPAGE Peyré, Slides Computational Optimal Transport](https://optimaltransport.github.io/slides/)
+
 
 # Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
