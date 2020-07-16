@@ -85,6 +85,9 @@ comments: true
 - [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
 - BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 
+# Reference Management
+- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
+
 # Reinforcement Learning
 - [COURSE CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
 - [COURSE CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
