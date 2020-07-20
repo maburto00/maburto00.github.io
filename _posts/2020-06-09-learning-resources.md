@@ -25,6 +25,10 @@ comments: true
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
 
+# Gaussian Processes
+- [BOOK Rasmussen, Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+- [WEBSITE The Gaussian Processes Website](The Gaussian Processes Web Site)
+
 # Information Theory
 - BOOK Cover, Elements of Information Theory
 
