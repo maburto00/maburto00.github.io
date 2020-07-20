@@ -82,6 +82,9 @@ comments: true
 - BOOK Aprende a quererte a ti mismo, Walter riso.
 - BOOK Meditations, Marcus Aurelius
 
+# Presentation skills
+- [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
+
 # Productivity
 - BOOK Young, Ultralearning
 - BOOK Allen, Getting Things Done
@@ -91,6 +94,7 @@ comments: true
 
 # Reference Management
 - [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
 
 # Reinforcement Learning
 - [COURSE CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
@@ -110,10 +114,8 @@ comments: true
 - BOOK Phillips, How to Get a PhD
 - BOOK Blaxter, How to research
 - BOOK Cryer, The Research Student's Guide to Success
-- BOOK Hofmann, Scientific Writing and Communication
 - BOOK Dunleavy, Authoring a PhD
 - [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
-- [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
 - [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
 - [YOUTUBE PhD Coffee Time](https://www.youtube.com/channel/UC2YqZKndK7HxCnbe06ZCEuw)
 - [YOUTUBE Shady Attia](https://www.youtube.com/user/ShadyGalal/featured)
@@ -126,3 +128,7 @@ comments: true
 - [COURSE University Teaching](https://www.coursera.org/learn/university-teaching)
 - [COURSE Learning to Teach Online](https://www.coursera.org/learn/teach-online)
 - [COURSE Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
+
+# Writing
+- BOOK Hofmann, Scientific Writing and Communication
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
