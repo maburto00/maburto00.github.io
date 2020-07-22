@@ -20,6 +20,7 @@ comments: true
 
 # Artificial Intelligence
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
+- [WEBSITE Lil'Log - Lilian Weng Blog](https://lilianweng.github.io/lil-log/)
 
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
