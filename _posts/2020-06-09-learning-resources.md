@@ -80,7 +80,8 @@ comments: true
 
 # Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
-- BOOK Meditations, Marcus Aurelius
+- BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
+- BOOK Meditations, Marcus Aurelius.
 
 # Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
