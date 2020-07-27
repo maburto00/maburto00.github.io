@@ -83,6 +83,7 @@ comments: true
 - BOOK Aprende a quererte a ti mismo, Walter riso.
 - BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
 - BOOK Meditations, Marcus Aurelius.
+- BOOK The subtle art of not giving a f*ck, Mark Manson.
 
 # Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
