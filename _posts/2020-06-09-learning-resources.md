@@ -119,6 +119,8 @@ comments: true
 - BOOK Cryer, The Research Student's Guide to Success
 - BOOK Dunleavy, Authoring a PhD
 - [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
+- [SLIDES Getting a PhD (in Computer Science) - Doing Good Research](https://cgi.csc.liv.ac.uk/~frans/Seminars/doingAphdSeminarAI2007.pdf)
+- [SLIDES How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 - [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
 - [YOUTUBE PhD Coffee Time](https://www.youtube.com/channel/UC2YqZKndK7HxCnbe06ZCEuw)
 - [YOUTUBE Shady Attia](https://www.youtube.com/user/ShadyGalal/featured)
