@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+list_title: ' '
+permalink: '/'
 ---
 
 I am a PhD student at the [Mathematical Informatics Lab][mi-lab], [NAIST][naist].
