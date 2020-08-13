@@ -112,6 +112,8 @@ comments: true
 - [REPO higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
 - [REPO higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
 - [REPO kevlar1818/grid-world-rl](https://github.com/kevlar1818/grid-world-rl)
+- [REPO higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+- [TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
 
 # Research methodology
 - BOOK Blaxter, How to research
