@@ -59,8 +59,8 @@ comments: true
 ## Partially Observable Markov Decision Processes (POMDPs)
 - BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
 - [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
-- Tutorial POMDP http://pomdp.org/
 - REPO https://github.com/Svalorzen/AI-Toolbox
+- WEBSITE Tutorial POMDP http://pomdp.org/
 
 # Mathematics
 - BOOK Amari, Methods of Information Geometry.
@@ -68,7 +68,7 @@ comments: true
 - BOOK Van Brunt, The calculus of variations
 - BOOK Stewart, Calculus
 - [CHAPTER Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
-- [YOUTUBE STrang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
+- [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
 
 # Optimal Transport
 - [BOOK Peyré, Computational Optimal Transport](https://optimaltransport.github.io/book/)
@@ -89,17 +89,21 @@ comments: true
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
 
 # Productivity
-- BOOK Young, Ultralearning
 - BOOK Allen, Getting Things Done
+- BOOK Young, Ultralearning
+- BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 - [COURSE Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
 - [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
-- BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 
 # Reference Management
 - [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
 
 # Reinforcement Learning
+- [BOOK Bertsekas, Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
+- BOOK Sugiyama, Statistical Reinforcement Learning
+- [BOOK Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
+- [BOOK Szepesvari, Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)    
 - [COURSE CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
 - [COURSE CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [COURSE CS 330: Deep Multi-Task and Meta Learning (Finn - Stanford)](http://web.stanford.edu/class/cs330/)
@@ -108,17 +112,13 @@ comments: true
 - [REPO higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
 - [REPO higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
 - [REPO kevlar1818/grid-world-rl](https://github.com/kevlar1818/grid-world-rl)
-- [BOOK Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
-- [BOOK Szepesvari, Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)    
-- [BOOK Bertsekas, Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
-- BOOK Sugiyama, Statistical Reinforcement Learning
 
 # Research methodology
-- BOOK Phillips, How to Get a PhD
 - BOOK Blaxter, How to research
 - BOOK Cryer, The Research Student's Guide to Success
 - BOOK Dunleavy, Authoring a PhD
 - [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
+- BOOK Phillips, How to Get a PhD
 - [SLIDES Getting a PhD (in Computer Science) - Doing Good Research](https://cgi.csc.liv.ac.uk/~frans/Seminars/doingAphdSeminarAI2007.pdf)
 - [SLIDES How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 - [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
