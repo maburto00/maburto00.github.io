@@ -10,11 +10,6 @@ comments: true
 * TOC
 {:toc}
 
-# Currently using
-- [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-- Bishop, パータン認識と機械学習
-- [BOOK Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
-
 # Algorithms
 - BOOK Sedgewick, Algorithms (4th Edition).
 
