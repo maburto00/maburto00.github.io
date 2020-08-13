@@ -41,6 +41,8 @@ comments: true
 - BOOK Axler, Linear Algebra Done Right
 - BOOK Strang, Introduction to Linear Algebra
 - BOOK Strang, Linear Algebra and Learning from Data
+- [BOOK The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
 
 # Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
