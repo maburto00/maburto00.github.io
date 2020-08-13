@@ -42,6 +42,11 @@ comments: true
 - [WEBPAGE NHK World Japan - Learning Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
 - [WEBPAGE Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
 
+# Linear Algebra
+- BOOK Axler, Linear Algebra Done Right
+- BOOK Strang, Introduction to Linear Algebra
+- BOOK Strang, Linear Algebra and Learning from Data
+
 # Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - BOOK Bishop, パータン認識と機械学習
