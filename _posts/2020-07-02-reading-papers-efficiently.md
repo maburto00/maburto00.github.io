@@ -25,8 +25,6 @@ The previous steps are very flexible, but the most important thing to keep askin
 For better advice than mine, please look at [4] and [5].
 
 # Time to spend reading papers daily
-[In progress/Draft]
-
 According to [2], there are people who spend 3 hours weekly on reading, some others 3 hours daily. 
 
 # Resources from where to get interesting papers
@@ -34,7 +32,6 @@ According to [2], there are people who spend 3 hours weekly on reading, some oth
 - Reddit, Twitter, Facebook, Discord,
 
 # Information overload
-[In progress/Draft]
 - Google Scholar Alerts is a great tool, but must be used carefully to avoid information overflow [3]
 
 # References
@@ -42,4 +39,4 @@ According to [2], there are people who spend 3 hours weekly on reading, some oth
 2. [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a)
 3. [How to keep up to date with the literature but avoid information overload](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/18/how-to-keep-up-to-date-with-the-literature-but-avoid-information-overload/)
 4. [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
-5. [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
+5. [Stanford CS230: Deep Learning Autumn 2018 Lecture 8 Career Advice Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
