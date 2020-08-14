@@ -35,7 +35,7 @@ According to [2], there are people who spend 3 hours weekly on reading, some oth
 
 # Information overload
 [In progress/Draft]
-- Google alerts is a great tool, but must be used carefully to avoid information overflow [3]
+- Google Scholar Alerts is a great tool, but must be used carefully to avoid information overflow [3]
 
 # References
 1. [How many papers do you read per week and what is your position in the lab?](https://www.reddit.com/r/labrats/comments/7ebwjp/how_many_papers_do_you_read_per_week_and_what_is/)
