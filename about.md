@@ -5,7 +5,7 @@ list_title: ' '
 permalink: '/'
 ---
 
-![My profile picture](/assets/profile_picture.jpg)
+<img src="/assets/profile_picture.jpg" alt="drawing" width="200"/>
 
 I am a PhD student at the [Mathematical Informatics Lab][mi-lab], [NAIST][naist].
 
