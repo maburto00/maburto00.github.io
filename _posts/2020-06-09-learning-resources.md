@@ -106,15 +106,16 @@ comments: true
 - BOOK Sugiyama, Statistical Reinforcement Learning
 - [BOOK Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
 - [BOOK Szepesvari, Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)    
-- [COURSE CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
-- [COURSE CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [COURSE CS 330: Deep Multi-Task and Meta Learning (Finn - Stanford)](http://web.stanford.edu/class/cs330/)
-- [COURSE Deep RL Bootcamp (Berkeley)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-- [COURSE Reinforcement Learning (Silver - UCL)](https://www.davidsilver.uk/teaching/)
+- [COURSE Berkeley - Deep RL Bootcamp (Berkeley)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [COURSE Chelsea Finn - CS 330: Deep Multi-Task and Meta Learning (Finn - Stanford)](http://web.stanford.edu/class/cs330/)
+- [COURSE David Silver - Reinforcement Learning (Silver - UCL)](https://www.davidsilver.uk/teaching/)
+- [COURSE Nan Jiang - CS498 - Reinforcement Learning (University of Illinois at Urbana-Champaign](https://nanjiang.cs.illinois.edu/cs498/)
+- [COURSE Nan Jiang - CS598 - Statistical Reinforcement Learning (University of Illinois at Urbana-Champaign](https://nanjiang.cs.illinois.edu/cs598/)
+- [COURSE Poupart - CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
+- [COURSE Sergey Levine - CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [REPO higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
 - [REPO higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
 - [REPO kevlar1818/grid-world-rl](https://github.com/kevlar1818/grid-world-rl)
-- [REPO higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
 - [TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
 
 # Research methodology
