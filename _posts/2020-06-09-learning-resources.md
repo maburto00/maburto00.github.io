@@ -75,6 +75,9 @@ comments: true
 - [CHAPTER Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
 - [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
 
+# Online Learning
+- [BOOK Orabona, A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
+
 # Optimal Transport
 - [BOOK Peyré, Computational Optimal Transport](https://optimaltransport.github.io/book/)
 - BOOK Villani, Topics in Optimal Transportation
