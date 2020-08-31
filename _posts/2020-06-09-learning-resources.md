@@ -105,6 +105,7 @@ comments: true
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
 
 # Reinforcement Learning
+- [BOOK Agarwal, Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 - [BOOK Bertsekas, Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
 - BOOK Sugiyama, Statistical Reinforcement Learning
 - [BOOK Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
