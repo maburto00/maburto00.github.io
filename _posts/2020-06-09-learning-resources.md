@@ -17,6 +17,9 @@ comments: true
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
 - [WEBSITE Lil'Log - Lilian Weng Blog](https://lilianweng.github.io/lil-log/)
 
+# Bandits
+- [BOOK WEBSITE Bandit Algorithms](https://banditalgs.com/)
+
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
