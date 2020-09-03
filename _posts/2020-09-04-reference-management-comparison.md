@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reference Management Software Comparison"
-date:   2020-07-02 02:48:00 +0900
+date:   2020-09-04 03:00:00 +0900
 categories: research general
 comments: true
 ---
