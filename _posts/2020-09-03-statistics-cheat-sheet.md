@@ -7,8 +7,9 @@ comments: true
 ---
 
 # Key concepts
-- Population
-- Sample
+- [Statistics](https://en.wikipedia.org/wiki/Statistics)
+- [Population](https://en.wikipedia.org/wiki/Statistical_population)
+- [Sample](https://en.wikipedia.org/wiki/Sample_(statistics))
 - Parameter
 - Estimator
 - Efficient estimator
