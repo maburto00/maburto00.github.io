@@ -20,6 +20,9 @@ comments: true
 # Bandits
 - [BOOK WEBSITE Bandit Algorithms](https://banditalgs.com/)
 
+# Convex Optimization
+- Bonnans, J. Frédéric. Convex and Stochastic Optimization. Springer International Publishing, 2019.
+
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
