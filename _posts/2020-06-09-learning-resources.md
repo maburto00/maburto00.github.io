@@ -55,6 +55,7 @@ comments: true
 - BOOK Bishop, パータン認識と機械学習
 - [BOOK Hastie, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [BOOK Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
+- [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [COURSE Machine Learning (Andrew Ng - Stanford) Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 - [COURSE パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
 - [COURSE Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
