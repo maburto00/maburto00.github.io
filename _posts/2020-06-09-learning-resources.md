@@ -49,6 +49,8 @@ comments: true
 - BOOK Strang, Linear Algebra and Learning from Data
 - [BOOK The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
+- [YOUTUBE Axler, Linear Algebra Done Right](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+- [YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 # Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
@@ -151,6 +153,9 @@ comments: true
 - [COURSE University Teaching](https://www.coursera.org/learn/university-teaching)
 - [COURSE Learning to Teach Online](https://www.coursera.org/learn/teach-online)
 - [COURSE Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
+
+# Topology
+- [YOUTUBE Topology](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPd3jP-k3Ed23pn3FTPHymw)
 
 # Writing
 - BOOK Hofmann, Scientific Writing and Communication
