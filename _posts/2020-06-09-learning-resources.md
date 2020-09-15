@@ -23,6 +23,11 @@ comments: true
 # Convex Optimization
 - Bonnans, J. Frédéric. Convex and Stochastic Optimization. Springer International Publishing, 2019.
 
+# Deep Learning
+- [BOOK Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
+- [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [COURSE Canzini (NYU), Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/)
+
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
@@ -56,8 +61,6 @@ comments: true
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - BOOK Bishop, パータン認識と機械学習
 - [BOOK Hastie, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [BOOK Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
-- [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [COURSE Machine Learning (Andrew Ng - Stanford) Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 - [COURSE パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
 - [COURSE Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
