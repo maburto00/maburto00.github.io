@@ -20,6 +20,15 @@ comments: true
 # Bandits
 - [BOOK WEBSITE Bandit Algorithms](https://banditalgs.com/)
 
+# Calculus
+- BOOK Stewart, Calculus
+
+# Calculus of Variations
+- BOOK Fischer, Introduction to the Calculus of Variations (http://www2.math.uu.se/~gunnar/varcalc.pdf)
+- BOOK Van Brunt, The calculus of variations
+- [CHAPTER Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
+- [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
+
 # Convex Optimization
 - Bonnans, J. Frédéric. Convex and Stochastic Optimization. Springer International Publishing, 2019.
 
@@ -35,6 +44,10 @@ comments: true
 # Gaussian Processes
 - [BOOK Rasmussen, Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 - [WEBSITE The Gaussian Processes Website](The Gaussian Processes Web Site)
+
+# Information Geometry
+- [TUTORIAL Information Geometry of the Probability Simplex: A Short Course](https://arxiv.org/abs/1911.01876)
+- BOOK Amari, Methods of Information Geometry.
 
 # Information Theory
 - BOOK Cover, Elements of Information Theory
@@ -76,14 +89,6 @@ comments: true
 - [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
 - REPO https://github.com/Svalorzen/AI-Toolbox
 - WEBSITE Tutorial POMDP http://pomdp.org/
-
-# Mathematics
-- BOOK Amari, Methods of Information Geometry.
-- BOOK Fischer, Introduction to the Calculus of Variations (http://www2.math.uu.se/~gunnar/varcalc.pdf)
-- BOOK Van Brunt, The calculus of variations
-- BOOK Stewart, Calculus
-- [CHAPTER Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
-- [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
 
 # Online Learning
 - [BOOK Orabona, A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
