@@ -111,6 +111,9 @@ comments: true
 # Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
 
+# Probability
+- [PROGRAM Probability, Geometry, and Computation in High Dimensions - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/hd20)
+
 # Productivity
 - BOOK Allen, Getting Things Done
 - BOOK Young, Ultralearning
@@ -140,6 +143,7 @@ comments: true
 - [REPO kevlar1818/grid-world-rl](https://github.com/kevlar1818/grid-world-rl)
 - [TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
 - [WORKSHOP Theory of Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/rl20)
+- [WORKSHOP Deep Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/workshops/rl-2020-1)
 
 # Research methodology
 - BOOK Blaxter, How to research
