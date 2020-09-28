@@ -24,9 +24,9 @@ comments: true
 - BOOK Stewart, Calculus
 
 # Calculus of Variations
-- BOOK Fischer, Introduction to the Calculus of Variations (http://www2.math.uu.se/~gunnar/varcalc.pdf)
+- [BOOK Fischer, Introduction to the Calculus of Variations](http://www2.math.uu.se/~gunnar/varcalc.pdf)
 - BOOK Van Brunt, The calculus of variations
-- [CHAPTER Strang, 7.2 Calculus of variations] (https://math.mit.edu/classes/18.086/2006/am72.pdf)
+- [CHAPTER Strang, 7.2 Calculus of variations](https://math.mit.edu/classes/18.086/2006/am72.pdf)
 - [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
 
 # Convex Optimization
@@ -87,8 +87,8 @@ comments: true
 ## Partially Observable Markov Decision Processes (POMDPs)
 - BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
 - [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
-- REPO https://github.com/Svalorzen/AI-Toolbox
-- WEBSITE Tutorial POMDP http://pomdp.org/
+- [REPO https://github.com/Svalorzen/AI-Toolbox](https://github.com/Svalorzen/AI-Toolbox)
+- [WEBSITE Tutorial POMDP](http://pomdp.org/)
 
 # Online Learning
 - [BOOK Orabona, A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
