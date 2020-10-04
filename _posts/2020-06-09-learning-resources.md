@@ -6,6 +6,8 @@ categories: general
 comments: true
 ---
 
+I will put here all the resources I find about the things I am currently learning (coursework, research, language, etc). Please feel free to ask me about any of them.
+
 **Contents**
 * TOC
 {:toc}
