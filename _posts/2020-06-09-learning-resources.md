@@ -114,3 +114,32 @@ comments: true
 
 # Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
+
+# Research methodology
+- BOOK Blaxter, How to research
+- BOOK Cryer, The Research Student's Guide to Success
+- BOOK Dunleavy, Authoring a PhD
+- [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
+- BOOK Phillips, How to Get a PhD
+- [SLIDES Getting a PhD (in Computer Science) - Doing Good Research](https://cgi.csc.liv.ac.uk/~frans/Seminars/doingAphdSeminarAI2007.pdf)
+- [SLIDES How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
+- [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
+- [YOUTUBE PhD Coffee Time](https://www.youtube.com/channel/UC2YqZKndK7HxCnbe06ZCEuw)
+- [YOUTUBE Shady Attia](https://www.youtube.com/user/ShadyGalal/featured)
+- [YOUTUBE Simon Clark](https://www.youtube.com/user/SimonOxfPhys)
+- [YOUTUBE Surviving and Thriving in Higher Education](https://www.youtube.com/channel/UC4jExrOEqgZmJM6EmziU6NA)
+- [YOUTUBE Tom Nicholas - Essay tips, PhD Vlog](https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg)
+
+# Teaching
+- [COURSE Foundations of Teaching for Learning: Introduction](https://www.coursera.org/learn/teaching)
+- [COURSE University Teaching](https://www.coursera.org/learn/university-teaching)
+- [COURSE Learning to Teach Online](https://www.coursera.org/learn/teach-online)
+- [COURSE Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
+
+# Topology
+- [YOUTUBE Topology](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPd3jP-k3Ed23pn3FTPHymw)
+
+# Writing
+- BOOK Hofmann, Scientific Writing and Communication
+- [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
