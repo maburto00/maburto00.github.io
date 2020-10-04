@@ -35,6 +35,7 @@ comments: true
 # Deep Learning
 - [BOOK Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 - [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [BOOK Stevens, Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
 - [COURSE Canzini (NYU), Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/)
 
 # Dynamic Programming
@@ -44,6 +45,9 @@ comments: true
 # Gaussian Processes
 - [BOOK Rasmussen, Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 - [WEBSITE The Gaussian Processes Website](The Gaussian Processes Web Site)
+
+# Go (board game - how to play)
+- [The Fundamentals of Go on 13x13](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
 # Information Geometry
 - [TUTORIAL Information Geometry of the Probability Simplex: A Short Course](https://arxiv.org/abs/1911.01876)
