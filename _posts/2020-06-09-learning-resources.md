@@ -115,6 +115,9 @@ comments: true
 # Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
 
+# Probability
+- [PROGRAM Probability, Geometry, and Computation in High Dimensions - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/hd20)
+
 # Productivity
 - BOOK Allen, Getting Things Done
 - BOOK Young, Ultralearning
