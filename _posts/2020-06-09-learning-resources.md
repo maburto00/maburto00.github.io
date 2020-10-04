@@ -115,6 +115,13 @@ comments: true
 # Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
 
+# Productivity
+- BOOK Allen, Getting Things Done
+- BOOK Young, Ultralearning
+- BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+- [COURSE Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
+- [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
+
 # Reference Management
 - [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
