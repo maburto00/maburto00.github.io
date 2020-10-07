@@ -40,6 +40,9 @@ I will put here all the resources I find about the things I am currently learnin
 - [BOOK Stevens, Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
 - [COURSE Canzini (NYU), Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/)
 
+# Deep Reinforcement Learning
+- [BLOGPOST Reproducing Deep RL - Amid Fish](http://amid.fish/reproducing-deep-rl)
+
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
