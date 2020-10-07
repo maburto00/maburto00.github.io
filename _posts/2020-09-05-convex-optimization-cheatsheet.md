@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Convex Optimization Cheat Sheet"
+title:  "Convex Optimization Cheatsheet"
 date:   2020-09-05 02:13:00 +0900
 categories: research general
 comments: true
