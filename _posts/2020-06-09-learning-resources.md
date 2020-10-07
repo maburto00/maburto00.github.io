@@ -92,6 +92,7 @@ I will put here all the resources I find about the things I am currently learnin
 - [BOOK Feinberg, Handbook of Markov Decision Processes - Methods and Applications](http://www.ams.sunysb.edu/~feinberg/MDPHandBook/index.html)
 - BOOK Altman, Constrained Markov Decision Processes
 - [CHEATSHEET MDP Cheatsheet Reference](http://rail.eecs.berkeley.edu/deeprlcourse-fa15/docs/mdp-cheatsheet.pdf)
+- [COURSE STP425 Stochastic Processes - Jay Talor, Arizona State University](https://math.la.asu.edu/~jtaylor/teaching/Fall2012/STP425/STP425.html)
 - [ANNOTATED BIBLIOGRAPHY on Regret Analysis of Markov Decision Processes (MDPs)](https://github.com/ambujtewari/rl20/blob/master/bootcamp/README.md)
 
 
