@@ -178,6 +178,9 @@ I will put here all the resources I find about the things I am currently learnin
 # Topology
 - [YOUTUBE Topology](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPd3jP-k3Ed23pn3FTPHymw)
 
+# Unsupervised Learning
+- [COURSE Deep Unsupervised Learning - Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
 # Writing
 - BOOK Hofmann, Scientific Writing and Communication
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
