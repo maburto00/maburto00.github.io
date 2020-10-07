@@ -91,7 +91,9 @@ I will put here all the resources I find about the things I am currently learnin
 - [BOOK Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 - [BOOK Feinberg, Handbook of Markov Decision Processes - Methods and Applications](http://www.ams.sunysb.edu/~feinberg/MDPHandBook/index.html)
 - BOOK Altman, Constrained Markov Decision Processes
+- [CHEATSHEET MDP Cheatsheet Reference](http://rail.eecs.berkeley.edu/deeprlcourse-fa15/docs/mdp-cheatsheet.pdf)
 - [ANNOTATED BIBLIOGRAPHY on Regret Analysis of Markov Decision Processes (MDPs)](https://github.com/ambujtewari/rl20/blob/master/bootcamp/README.md)
+
 
 ## Partially Observable Markov Decision Processes (POMDPs)
 - BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
