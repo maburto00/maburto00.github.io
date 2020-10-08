@@ -66,6 +66,7 @@ I will put here all the resources I find about the things I am currently learnin
 - BOOK 日本語総まとめ　Nihongo soumatome series
 - [CHROME-EXTENSION Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 - [CHROME-EXTENSION Language Learning with YouTube](https://chrome.google.com/webstore/detail/language-learning-with-yo/jkhhdcaafjabenpmpcpgdjiffdpmmcjb?hl=en)
+- [TUTORIAL-YOUTUBE How to Learn Japanese with Netflix + Anki](https://www.youtube.com/watch?v=CfvDKgNUSi8)
 - [WEBPAGE Hirogaru](https://hirogaru-nihongo.jp/en/)
 - [WEBPAGE Minato - Japan Foundation](https://minato-jf.jp/)
 - [WEBPAGE NHK Radio Podcast - やさしい日本語](https://www.nhk.or.jp/podcasts/program/lesson.html)
