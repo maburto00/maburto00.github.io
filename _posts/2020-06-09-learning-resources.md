@@ -31,6 +31,11 @@ I will put here all the resources I find about the things I am currently learnin
 - [CHAPTER Strang, 7.2 Calculus of variations](https://math.mit.edu/classes/18.086/2006/am72.pdf)
 - [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
 
+# Competitive Programming
+- [AtCoder](https://atcoder.jp/)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+
 # Convex Optimization
 - Bonnans, J. Frédéric. Convex and Stochastic Optimization. Springer International Publishing, 2019.
 
