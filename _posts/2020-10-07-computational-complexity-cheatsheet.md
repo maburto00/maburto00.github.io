@@ -5,6 +5,9 @@ date:   2020-10-07 14:43:00 +0900
 categories: research
 ---
 
+# Quick overview
+- [What are the differences between NP, NP-Complete and NP-Hard?](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard)
+
 # Concepts
 - [Computational Complexity Theory](https://en.wikipedia.org/wiki/Computational_complexity_theory)
 - [Decision Problem](https://en.wikipedia.org/wiki/Decision_problem)
