@@ -86,6 +86,8 @@ I will put here all the resources I find about the things I am currently learnin
 - [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
 - [YOUTUBE Axler, Linear Algebra Done Right](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 - [YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [YOUTUBE James Cook (Liberty University), Linear Algebra Courses (2019,2018,2016) and others](https://www.youtube.com/channel/UCfYSpKDLTjNDcoOyPoMFIsA/playlists)
+   - There is a Lecture about cosets, a topic that I could not find in the books I have for Linear Algebra
 
 # Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
