@@ -2,7 +2,7 @@
 layout: post
 title:  "Software for Learning Japanese"
 date:   2020-12-14 16:57:00 +0900
-categories: general
+categories: japanese
 comments: true
 ---
 
