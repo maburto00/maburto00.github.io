@@ -48,6 +48,9 @@ I will put here all the resources I find about the things I am currently learnin
 # Deep Reinforcement Learning
 - [BLOGPOST Reproducing Deep RL - Amid Fish](http://amid.fish/reproducing-deep-rl)
 
+# Differential Geometry
+- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+
 # Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
@@ -80,6 +83,8 @@ I will put here all the resources I find about the things I am currently learnin
 
 # Linear Algebra
 - BOOK Axler, Linear Algebra Done Right
+    - Recommended in this [video](https://www.youtube.com/watch?v=fo-alw2q-BU) with recommendations for self-studying pure mathematics.
+    - Also recommended by a former student of my laboratory (who is a legend in my Lab).
 - BOOK Strang, Introduction to Linear Algebra
 - BOOK Strang, Linear Algebra and Learning from Data
 - [BOOK The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
@@ -97,6 +102,9 @@ I will put here all the resources I find about the things I am currently learnin
 - [COURSE パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
 - [COURSE Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
 
+# Manifolds
+- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+
 # Markov Decision Processes (MDPs)
 - [BOOK Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 - [BOOK Feinberg, Handbook of Markov Decision Processes - Methods and Applications](http://www.ams.sunysb.edu/~feinberg/MDPHandBook/index.html)
@@ -111,6 +119,9 @@ I will put here all the resources I find about the things I am currently learnin
 - [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
 - [REPO https://github.com/Svalorzen/AI-Toolbox](https://github.com/Svalorzen/AI-Toolbox)
 - [WEBSITE Tutorial POMDP](http://pomdp.org/)
+
+# Pure Mathematics
+- [VIDEO How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU)
 
 # Online Learning
 - [BOOK Orabona, A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
@@ -142,6 +153,10 @@ I will put here all the resources I find about the things I am currently learnin
 - BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 - [COURSE Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
 - [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
+
+# Real Analysis
+- BOOK Abbott, Understanding analysis
+     - Recommended in this [video](https://www.youtube.com/watch?v=fo-alw2q-BU) with recommendations for self-studying pure mathematics.
 
 # Reference Management
 - [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
@@ -192,6 +207,7 @@ I will put here all the resources I find about the things I am currently learnin
 
 # Topology
 - [YOUTUBE Topology](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPd3jP-k3Ed23pn3FTPHymw)
+- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
 
 # Unsupervised Learning
 - [COURSE Deep Unsupervised Learning - Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
