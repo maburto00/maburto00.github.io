@@ -183,12 +183,12 @@ I will put here all the resources I find about the things I am currently learnin
 - [WORKSHOP Theory of Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/rl20)
 - [WORKSHOP Deep Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/workshops/rl-2020-1)
 
-# Research methodology
+# Research Methodology
 - BOOK Blaxter, How to research
 - BOOK Cryer, The Research Student's Guide to Success
 - BOOK Dunleavy, Authoring a PhD
 - [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
-- BOOK Phillips, How to Get a PhD
+- ★BOOK Phillips, How to Get a PhD
 - [SLIDES Getting a PhD (in Computer Science) - Doing Good Research](https://cgi.csc.liv.ac.uk/~frans/Seminars/doingAphdSeminarAI2007.pdf)
 - [SLIDES How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 - [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
