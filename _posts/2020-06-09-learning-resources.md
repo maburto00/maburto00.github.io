@@ -14,7 +14,7 @@ I will put here all the resources I find about the things I am currently learnin
 
 # Algorithms
 - BOOK Sedgewick, Algorithms (4th Edition).
-- [YOUTUBE Rolando Menchaca, Algoritmos (Course in Spanish)](https://www.youtube.com/playlist?list=PLELqJa6pG1QbsiB_04MnP_nKzptRfrBlz)
+- [COURSE Curso de Análisis y Diseño de Algoritmos (Rolando Menchaca - IPN CIC)](https://www.youtube.com/playlist?list=PLELqJa6pG1QbsiB_04MnP_nKzptRfrBlz)
 
 # Artificial Intelligence
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
@@ -102,6 +102,7 @@ I will put here all the resources I find about the things I am currently learnin
 - [COURSE Machine Learning (Andrew Ng - Stanford) Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 - [COURSE パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
 - [COURSE Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
+- [COURSE Curso de Introducción al Aprendizaje de Máquina (Ricardo Menchaca - IPN CIC](https://www.youtube.com/playlist?list=PLELqJa6pG1QbDCzV2JWsS5Orm92ShRA28)
 
 # Manifolds
 - [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
