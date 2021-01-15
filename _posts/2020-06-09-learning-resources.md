@@ -14,7 +14,7 @@ I will put here all the resources I find about the things I am currently learnin
 
 # Algorithms
 - BOOK Sedgewick, Algorithms (4th Edition).
-- [YOUTUBE Rolando Menchaca, Algoritmos (Course in Spanish)](https://www.youtube.com/watch?v=MTi6jLLCo3I&list=PLELqJa6pG1QbsiB_04MnP_nKzptRfrBlz)
+- [YOUTUBE Rolando Menchaca, Algoritmos (Course in Spanish)](https://www.youtube.com/playlist?list=PLELqJa6pG1QbsiB_04MnP_nKzptRfrBlz)
 
 # Artificial Intelligence
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
