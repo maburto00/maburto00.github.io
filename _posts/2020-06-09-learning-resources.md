@@ -115,6 +115,8 @@ I will put here all the resources I find about the things I am currently learnin
 - [COURSE STP425 Stochastic Processes - Jay Talor, Arizona State University](https://math.la.asu.edu/~jtaylor/teaching/Fall2012/STP425/STP425.html)
 - [ANNOTATED BIBLIOGRAPHY on Regret Analysis of Markov Decision Processes (MDPs)](https://github.com/ambujtewari/rl20/blob/master/bootcamp/README.md)
 
+# Measure theory
+- [YOUTUBE Measure Theory (The Bright Side of Mathematics)](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 
 ## Partially Observable Markov Decision Processes (POMDPs)
 - BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
