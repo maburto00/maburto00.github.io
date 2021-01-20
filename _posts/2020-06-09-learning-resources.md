@@ -62,6 +62,7 @@ I will put here all the resources I find about the things I am currently learnin
 
 # Go (board game - how to play)
 - [The Fundamentals of Go on 13x13](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
+- [KaTrain - Tool for analyzing and playing go with AI feedback from KataGo](https://github.com/sanderland/katrain)
 
 # Information Geometry
 - [TUTORIAL Information Geometry of the Probability Simplex: A Short Course](https://arxiv.org/abs/1911.01876)
