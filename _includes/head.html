@@ -1,9 +1,4 @@
 <head>
-  {% if page.usemathjax %}
-  <script type="text/javascript" async
-    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
-  {% end if %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,4 +9,9 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico?" | relative_url }}">
+  {%- if page.usemathjax -%}
+  <script type="text/javascript" async
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  {%- endif -%}
 </head>
