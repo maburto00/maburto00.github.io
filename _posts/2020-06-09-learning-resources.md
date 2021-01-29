@@ -70,6 +70,7 @@ I will put here all the resources I find about the things I am currently learnin
 
 # Information Theory
 - BOOK Cover, Elements of Information Theory
+- [BOOK MacKey, Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html)
 
 # Japanese
 - BOOK Minna no Nihongo Series
