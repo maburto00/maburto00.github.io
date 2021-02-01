@@ -6,98 +6,47 @@ categories: general
 comments: true
 ---
 
-I will put here all the resources I find about the things I am currently learning (coursework, research, language, etc). Please feel free to ask me about any of them.
+Helpful resources about the things I am currently learning (coursework, research, language, etc). Please feel free to ask me about any of them.
+
+NOTE: I use ★ to indicate the special usefulness, completeness, or importance for me of a resource or section. 
 
 **Contents**
 * TOC
 {:toc}
 
-# Algorithms
+## Computer Science
+
+### Algorithms
 - BOOK Sedgewick, Algorithms (4th Edition).
 - [COURSE Curso de Análisis y Diseño de Algoritmos (Rolando Menchaca - IPN CIC)](https://www.youtube.com/playlist?list=PLELqJa6pG1QbsiB_04MnP_nKzptRfrBlz)
 
-# Artificial Intelligence
+### Artificial Intelligence
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
 - [WEBSITE Lil'Log - Lilian Weng Blog](https://lilianweng.github.io/lil-log/)
 
-# Bandits
+### Bandits
 - [BOOK WEBSITE Bandit Algorithms](https://banditalgs.com/)
 
-# Calculus
-- BOOK Stewart, Calculus
-
-# Calculus of Variations
-- [BOOK Fischer, Introduction to the Calculus of Variations](http://www2.math.uu.se/~gunnar/varcalc.pdf)
-- BOOK Van Brunt, The calculus of variations
-- [CHAPTER Strang, 7.2 Calculus of variations](https://math.mit.edu/classes/18.086/2006/am72.pdf)
-- [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
-
-# Competitive Programming
+### Competitive Programming
 - [AtCoder](https://atcoder.jp/)
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
 
-# Convex Optimization
-- Bonnans, J. Frédéric. Convex and Stochastic Optimization. Springer International Publishing, 2019.
-
-# Deep Learning
+### Deep Learning
 - [BOOK Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 - [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [BOOK Stevens, Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
 - [COURSE Canzini (NYU), Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/)
 
-# Deep Reinforcement Learning
-- [BLOGPOST Reproducing Deep RL - Amid Fish](http://amid.fish/reproducing-deep-rl)
-
-# Differential Geometry
-- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
-
-# Dynamic Programming
+### Dynamic Programming
 - [BOOK Bertsekas, Dynamic Programming and Optimal Control](http://athenasc.com/dpbook.html)
 - [BOOK Powell, Approximate Dynamic Programming: Solving the Curses of Dimensionality, Second Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118029176)
 
-# Gaussian Processes
+### Gaussian Processes
 - [BOOK Rasmussen, Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 - [WEBSITE The Gaussian Processes Website](The Gaussian Processes Web Site)
 
-# Go (board game - how to play)
-- [The Fundamentals of Go on 13x13](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
-- [KaTrain - Tool for analyzing and playing go with AI feedback from KataGo](https://github.com/sanderland/katrain)
-
-# Information Geometry
-- [TUTORIAL Information Geometry of the Probability Simplex: A Short Course](https://arxiv.org/abs/1911.01876)
-- BOOK Amari, Methods of Information Geometry.
-
-# Information Theory
-- BOOK Cover, Elements of Information Theory
-- [BOOK MacKey, Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html)
-
-# Japanese
-- BOOK Minna no Nihongo Series
-- BOOK 日本語総まとめ　Nihongo soumatome series
-- [CHROME-EXTENSION Language Learning with Netflix](https://languagelearningwithnetflix.com/)
-- [CHROME-EXTENSION Language Learning with YouTube](https://chrome.google.com/webstore/detail/language-learning-with-yo/jkhhdcaafjabenpmpcpgdjiffdpmmcjb?hl=en)
-- [TUTORIAL-YOUTUBE How to Learn Japanese with Netflix + Anki](https://www.youtube.com/watch?v=CfvDKgNUSi8)
-- [WEBPAGE Hirogaru](https://hirogaru-nihongo.jp/en/)
-- [WEBPAGE Minato - Japan Foundation](https://minato-jf.jp/)
-- [WEBPAGE NHK Radio Podcast - やさしい日本語](https://www.nhk.or.jp/podcasts/program/lesson.html)
-- [WEBPAGE NHK World Japan - Learning Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
-- [WEBPAGE Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
-
-# Linear Algebra
-- BOOK Axler, Linear Algebra Done Right
-    - Recommended in this [video](https://www.youtube.com/watch?v=fo-alw2q-BU) with recommendations for self-studying pure mathematics.
-    - Also recommended by a former student of my laboratory (who is a legend in my Lab).
-- BOOK Strang, Introduction to Linear Algebra
-- BOOK Strang, Linear Algebra and Learning from Data
-- [BOOK The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-- [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
-- [YOUTUBE Axler, Linear Algebra Done Right](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
-- [YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [YOUTUBE James Cook (Liberty University), Linear Algebra Courses (2019,2018,2016) and others](https://www.youtube.com/channel/UCfYSpKDLTjNDcoOyPoMFIsA/playlists)
-   - There is a Lecture about cosets, a topic that I could not find in the books I have for Linear Algebra
-
-# Machine Learning
+### Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - BOOK Bishop, パータン認識と機械学習
 - [BOOK Hastie, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
@@ -106,10 +55,7 @@ I will put here all the resources I find about the things I am currently learnin
 - [COURSE Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
 - [COURSE Curso de Introducción al Aprendizaje de Máquina (Ricardo Menchaca - IPN CIC](https://www.youtube.com/playlist?list=PLELqJa6pG1QbDCzV2JWsS5Orm92ShRA28)
 
-# Manifolds
-- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
-
-# Markov Decision Processes (MDPs)
+### Markov Decision Processes (MDPs)
 - [BOOK Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 - [BOOK Feinberg, Handbook of Markov Decision Processes - Methods and Applications](http://www.ams.sunysb.edu/~feinberg/MDPHandBook/index.html)
 - BOOK Altman, Constrained Markov Decision Processes
@@ -117,22 +63,10 @@ I will put here all the resources I find about the things I am currently learnin
 - [COURSE STP425 Stochastic Processes - Jay Talor, Arizona State University](https://math.la.asu.edu/~jtaylor/teaching/Fall2012/STP425/STP425.html)
 - [ANNOTATED BIBLIOGRAPHY on Regret Analysis of Markov Decision Processes (MDPs)](https://github.com/ambujtewari/rl20/blob/master/bootcamp/README.md)
 
-# Measure theory
-- [YOUTUBE Measure Theory (The Bright Side of Mathematics)](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
-
-## Partially Observable Markov Decision Processes (POMDPs)
-- BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
-- [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
-- [REPO https://github.com/Svalorzen/AI-Toolbox](https://github.com/Svalorzen/AI-Toolbox)
-- [WEBSITE Tutorial POMDP](http://pomdp.org/)
-
-# Pure Mathematics
-- [VIDEO How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU)
-
-# Online Learning
+### Online Learning
 - [BOOK Orabona, A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
 
-# Optimal Transport
+### Optimal Transport
 - [BOOK Peyré, Computational Optimal Transport](https://optimaltransport.github.io/book/)
 - BOOK Villani, Topics in Optimal Transportation
 - [WEBPAGE Peyré, Code - Computational Optimal Transport](https://optimaltransport.github.io/resources/)
@@ -141,39 +75,19 @@ I will put here all the resources I find about the things I am currently learnin
 - [YOUTUBE Cuturi, MLSS - A primer on optimal transport part 2](https://www.youtube.com/watch?v=1ZiP_7kmIoc)
 - [YOUTUBE Cuturi, MLSS - A primer on optimal transport part 3](https://www.youtube.com/watch?v=SZHumKEhgtA)
 
-# Personal Development
-- BOOK Aprende a quererte a ti mismo, Walter riso.
-- BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
-- BOOK Meditations, Marcus Aurelius.
-- BOOK The subtle art of not giving a f*ck, Mark Manson.
+### Partially Observable Markov Decision Processes (POMDPs)
+- BOOK Kochenderfer, Decision Making Under Uncertainty: Theory and Application
+- [COURSE Kochenderfer, Decision Making Under Uncertainty](https://web.stanford.edu/class/aa228/cgi-bin/wp/)
+- [REPO https://github.com/Svalorzen/AI-Toolbox](https://github.com/Svalorzen/AI-Toolbox)
+- [WEBSITE Tutorial POMDP](http://pomdp.org/)
 
-# Presentation skills
-- [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
-
-# Probability
-- [PROGRAM Probability, Geometry, and Computation in High Dimensions - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/hd20)
-
-# Productivity
-- BOOK Allen, Getting Things Done
-- BOOK Young, Ultralearning
-- BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
-- [COURSE Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
-- [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
-
-# Real Analysis
-- BOOK Abbott, Understanding analysis
-     - Recommended in this [video](https://www.youtube.com/watch?v=fo-alw2q-BU) with recommendations for self-studying pure mathematics.
-
-# Reference Management
-- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
-- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
-
-# Reinforcement Learning
+### ★Reinforcement Learning
 - [BOOK Agarwal, Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 - [BOOK Bertsekas, Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
 - BOOK Sugiyama, Statistical Reinforcement Learning
 - [BOOK Sutton, Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
 - [BOOK Szepesvari, Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)    
+- [BLOGPOST Reproducing Deep RL - Amid Fish](http://amid.fish/reproducing-deep-rl)
 - [COURSE Berkeley - Deep RL Bootcamp (Berkeley)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [COURSE Chelsea Finn - CS 330: Deep Multi-Task and Meta Learning (Finn - Stanford)](http://web.stanford.edu/class/cs330/)
 - [COURSE David Silver - Reinforcement Learning (Silver - UCL)](https://www.davidsilver.uk/teaching/)
@@ -189,7 +103,116 @@ I will put here all the resources I find about the things I am currently learnin
 - [WORKSHOP Theory of Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/rl20)
 - [WORKSHOP Deep Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/workshops/rl-2020-1)
 
-# Research Methodology
+<!---
+SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
+-->
+
+## Mathematics
+
+### Calculus
+- BOOK Stewart, Calculus
+
+### Calculus of Variations
+- [BOOK Fischer, Introduction to the Calculus of Variations](http://www2.math.uu.se/~gunnar/varcalc.pdf)
+- BOOK Van Brunt, The calculus of variations
+- [CHAPTER Strang, 7.2 Calculus of variations](https://math.mit.edu/classes/18.086/2006/am72.pdf)
+- [YOUTUBE Strang, Calculus of variations](https://www.youtube.com/watch?v=94nmfDkTL-E)
+
+### Convex Optimization
+- Bonnans, J. Frédéric. Convex and Stochastic Optimization. Springer International Publishing, 2019.
+
+### Differential Geometry
+- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+
+### Information Geometry
+- BOOK Amari, Methods of Information Geometry.
+- [TUTORIAL Information Geometry of the Probability Simplex: A Short Course](https://arxiv.org/abs/1911.01876)
+
+### Information Theory
+- BOOK Cover, Elements of Information Theory
+- [BOOK MacKey, Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html)
+
+### ★Linear Algebra
+- BOOK Axler, Linear Algebra Done Right
+    - Recommended in this [video](https://www.youtube.com/watch?v=fo-alw2q-BU) with recommendations for self-studying pure mathematics.
+    - Also recommended by a former student of my laboratory (who is a legend in my Lab).
+- BOOK Strang, Introduction to Linear Algebra
+- BOOK Strang, Linear Algebra and Learning from Data
+- [BOOK The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
+- [YOUTUBE Axler, Linear Algebra Done Right](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+- [YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [YOUTUBE James Cook (Liberty University), Linear Algebra Courses (2019,2018,2016) and others](https://www.youtube.com/channel/UCfYSpKDLTjNDcoOyPoMFIsA/playlists)
+   - There is a Lecture about cosets, a topic that I could not find in the books I have for Linear Algebra
+
+### Manifolds
+- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+
+### Measure theory
+- [YOUTUBE Measure Theory (The Bright Side of Mathematics)](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
+
+### Probability
+- [PROGRAM Probability, Geometry, and Computation in High Dimensions - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/hd20)
+
+### Pure Mathematics
+- [VIDEO How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU)
+
+### Real Analysis
+- BOOK Abbott, Understanding analysis
+     - Recommended in this [video](https://www.youtube.com/watch?v=fo-alw2q-BU) with recommendations for self-studying pure mathematics.
+
+### Topology
+- [YOUTUBE Topology](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPd3jP-k3Ed23pn3FTPHymw)
+- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+
+<!---
+SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
+--->
+
+## Languages
+### ★Japanese
+- BOOK Minna no Nihongo Series
+- BOOK 日本語総まとめ　Nihongo soumatome series
+- [CHROME-EXTENSION Language Learning with Netflix](https://languagelearningwithnetflix.com/)
+- [CHROME-EXTENSION Language Learning with YouTube](https://chrome.google.com/webstore/detail/language-learning-with-yo/jkhhdcaafjabenpmpcpgdjiffdpmmcjb?hl=en)
+- [TUTORIAL-YOUTUBE How to Learn Japanese with Netflix + Anki](https://www.youtube.com/watch?v=CfvDKgNUSi8)
+- [WEBPAGE Hirogaru](https://hirogaru-nihongo.jp/en/)
+- [WEBPAGE Minato - Japan Foundation](https://minato-jf.jp/)
+- [WEBPAGE NHK Radio Podcast - やさしい日本語](https://www.nhk.or.jp/podcasts/program/lesson.html)
+- [WEBPAGE NHK World Japan - Learning Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+- [WEBPAGE Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
+
+<!---
+SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
+--->
+
+## Others
+
+### Go (board game - how to play)
+- [The Fundamentals of Go on 13x13](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
+- [KaTrain - Tool for analyzing and playing go with AI feedback from KataGo](https://github.com/sanderland/katrain)
+
+### Personal Development
+- BOOK Aprende a quererte a ti mismo, Walter riso.
+- BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
+- BOOK Meditations, Marcus Aurelius.
+- BOOK The subtle art of not giving a f*ck, Mark Manson.
+
+### Presentation skills
+- [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
+s
+### Productivity
+- BOOK Allen, Getting Things Done
+- BOOK Young, Ultralearning
+- BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+- [COURSE Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
+- [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
+
+### Reference Management
+- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+
+### Research Methodology
 - BOOK Blaxter, How to research
 - BOOK Cryer, The Research Student's Guide to Success
 - BOOK Dunleavy, Authoring a PhD
@@ -205,20 +228,15 @@ I will put here all the resources I find about the things I am currently learnin
 - [YOUTUBE Tom Nicholas - Essay tips, PhD Vlog](https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg)
 - [WEBSITE Attending an academic conference - Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html)
 
-# Teaching
+### Teaching
 - [COURSE Foundations of Teaching for Learning: Introduction](https://www.coursera.org/learn/teaching)
 - [COURSE University Teaching](https://www.coursera.org/learn/university-teaching)
 - [COURSE Learning to Teach Online](https://www.coursera.org/learn/teach-online)
 - [COURSE Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
 
-# Topology
-- [YOUTUBE Topology](https://www.youtube.com/playlist?list=PLO1y6V1SXjjPd3jP-k3Ed23pn3FTPHymw)
-- [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
-
-# Unsupervised Learning
-- [COURSE Deep Unsupervised Learning - Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
-
-# Writing
+### Writing
 - BOOK Hofmann, Scientific Writing and Communication
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+
+
