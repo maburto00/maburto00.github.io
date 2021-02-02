@@ -94,7 +94,7 @@ NOTE: I use ★ to indicate the special usefulness, completeness, or importance 
 - [COURSE Nan Jiang - CS498 - Reinforcement Learning (University of Illinois at Urbana-Champaign](https://nanjiang.cs.illinois.edu/cs498/)
 - [COURSE Nan Jiang - CS598 - Statistical Reinforcement Learning (University of Illinois at Urbana-Champaign](https://nanjiang.cs.illinois.edu/cs598/)
 - [COURSE Poupart - CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
-- [★COURSE A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+- [★COURSE A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 - [COURSE Sergey Levine - CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [REPO RL Adventure - higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
 - [REPO RL Adventure 2 - higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
