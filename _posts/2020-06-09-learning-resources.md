@@ -46,6 +46,10 @@ NOTE: I use ★ to indicate the special usefulness, completeness, or importance 
 - [BOOK Rasmussen, Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 - [WEBSITE The Gaussian Processes Website](The Gaussian Processes Web Site)
 
+### Kalman Filter
+- [TUTORIAL KalmanFilter.NET, Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
+- [YOUTUBE Understanding Kalman Filter, MATLAB Channel](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
+
 ### Machine Learning
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - BOOK Bishop, パータン認識と機械学習
