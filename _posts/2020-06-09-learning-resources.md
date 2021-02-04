@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning resources"
+title:  "★Learning resources"
 date:   2020-06-09 03:57:00 +0900
 categories: general
 comments: true
