@@ -145,10 +145,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - BOOK Strang, Linear Algebra and Learning from Data
 - [BOOK The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
+- ★[YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [YOUTUBE Axler, Linear Algebra Done Right](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
-- [YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [YOUTUBE James Cook (Liberty University), Linear Algebra Courses (2019,2018,2016) and others](https://www.youtube.com/channel/UCfYSpKDLTjNDcoOyPoMFIsA/playlists)
    - There is a Lecture about cosets, a topic that I could not find in the books I have for Linear Algebra
+- ★[YOUTUBE Strang, MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 ### Manifolds
 - [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
