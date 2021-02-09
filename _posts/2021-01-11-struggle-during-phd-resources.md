@@ -22,6 +22,6 @@ This is a combination of the advice I have been given, the resources I have cons
 
 # Resources
 
-See the resources in [Research Methodology](https://github.com/maburto00/maburto00.github.io/blob/master/_posts/2020-06-09-learning-resources.md#research-methodology).
+See the resources in [Research Methodology](https://maburto00.github.io/general/2021/02/03/learning-resources.html#research-methodology).
 
 I highly recommend the book "How to get a PhD", since it mentions a lot of common problems and their solution/prevention, so it is a good lecture even when you are just thinking about doing a PhD. 
