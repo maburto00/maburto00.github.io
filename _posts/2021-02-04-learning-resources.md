@@ -322,6 +322,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
 - BOOK Meditations, Marcus Aurelius.
 - BOOK The subtle art of not giving a f*ck, Mark Manson.
+- ★BOOK Get out of your mind and into your life, Hayes
+  - This was recommended to me by my theraphist. The author is has a PhD in psychology and he is a researcher. I really recommend anyone having a hard time to give it a check, I think you will not regret it.
 
 <!---separator separator separator separator -->-----
 
