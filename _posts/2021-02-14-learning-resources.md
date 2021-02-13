@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "★Learning resources"
-date:   2021-02-04 03:57:00 +0900
+date:   2021-02-14 03:57:00 +0900
 categories: general
 comments: true
 ---
@@ -87,6 +87,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [COURSE パターン認識と機械学習入門 (中村晃一・東京大学)](https://www.youtube.com/watch?v=yRO3qUsfvt0&list=PLzJWjr7AvxH034sWifYwVsUybKWra7iHf)
 - [COURSE Statistical Machine Learning (Russ Salakhutdinov - UToronto)](http://www.fields.utoronto.ca/video-archive/event/323/2014)
 - [COURSE Curso de Introducción al Aprendizaje de Máquina (Ricardo Menchaca - IPN CIC](https://www.youtube.com/playlist?list=PLELqJa6pG1QbDCzV2JWsS5Orm92ShRA28)
+- [★YOUTUBE ROC and AUC, Clearly Explained! (Channel: StatQuest with Josh Starmer](https://www.youtube.com/watch?v=4jRBRDbJemM)
 
 <!---separator separator separator separator -->-----
 
