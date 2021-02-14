@@ -73,6 +73,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 <!---separator separator separator separator -->-----
 
 ### Kalman Filter
+- BOOK SECTION Bertsekas, Dynamic Programming and Optimal Control Vol I, Appendix E Kalman Filtering
 - [TUTORIAL KalmanFilter.NET, Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 - [YOUTUBE Understanding Kalman Filter, MATLAB Channel](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
 
