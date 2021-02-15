@@ -3,6 +3,7 @@ layout: post
 title:  "★Learning resources"
 date:   2021-02-15 03:47:00 +0900
 categories: general
+permalink: learning-resources
 comments: true
 ---
 
