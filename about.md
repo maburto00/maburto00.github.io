@@ -11,6 +11,16 @@ I am a PhD student at the [Mathematical Informatics Lab][mi-lab], [NAIST][naist]
 
 I am working on similarity of tasks for Transfer Learning on Deep Reinforcement Learning.
 
+## ★Group Activities on Zoom (Please contact me if you want to join)
+- RL Study Group
+  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+  - Start: January 2021 (currently ongoing)
+  - Finish: Around June 2021 (to complete the 9 papers mentioned in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
+- Japanese Study Group
+  - We meet on weekdays from 8-9pm to study japanese (each one selects its own books/resources)
+  - Start: January 2021 (currently ongoing)
+  - Finish: Undefined
+
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
 - **Research student, Information Science** (2019 - 2020), Nara Institute of Science and Technology, Japan.
