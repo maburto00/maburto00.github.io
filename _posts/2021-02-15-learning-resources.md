@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "★Learning resources"
-date:   2021-02-14 03:57:00 +0900
+date:   2021-02-15 13:47:00 +0900
 categories: general
 comments: true
 ---
@@ -327,6 +327,21 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - BOOK The subtle art of not giving a f*ck, Mark Manson.
 - ★BOOK Get out of your mind and into your life, Hayes
   - This was recommended to me by my theraphist. The author is has a PhD in psychology and he is a researcher. I really recommend anyone having a hard time to give it a check, I think you will not regret it.
+- [COURSERA De-Mystifying Mindfulness](https://www.coursera.org/learn/mindfulness)
+
+<!---separator separator separator separator -->-----
+
+### Philosophy
+- [COURSERA Introduction to Philosophy, The University of Edinburgh](https://www.coursera.org/learn/philosophy)
+- [COURSERA Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences)
+- [YOUTUBE ContraPoints](https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA)
+  - Mainly topics on Transgender but also on other topics based on Philosophical Thinking
+  - [TRANSCRIPT ](https://www.contrapoints.com/transcripts/archives/quit-academia)
+  - [YOUTUBE The Apocalypse | ContraPoints (Topic: Climate Change)](https://www.youtube.com/watch?v=S6GodWn4XMM)
+- [YOUTUBE Philosophy Tube](https://www.youtube.com/user/thephilosophytube)
+  - This is the description inside the channel: "I'm giving away a philosophy degree for free! Subscribe to learn and boost your brain power!"
+  - Great variety of topics including intro to famous philosophers/philosophy topics and reflections on current issues from a philosophical perspective (if I may say so)
+  - [Foucault: Crime, Police, & Power | Philosophy Tube](https://www.youtube.com/watch?v=EFaxgB5TygE)
 
 <!---separator separator separator separator -->-----
 
