@@ -146,8 +146,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [★COURSE Nan Jiang - CS598 - Statistical Reinforcement Learning (University of Illinois at Urbana-Champaign](https://nanjiang.cs.illinois.edu/cs598/)
   - Course on Theory of Reinforcement Learning to understand the mathematical foundations.
 - [COURSE Poupart - CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
-- [★COURSE A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
+- [COURSE A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 - [COURSE Sergey Levine - CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [★SPECIALIZATION Reinforcement Learning, Martha&Adam White, University of Alberta, Coursera](https://www.coursera.org/specializations/reinforcement-learning)
 
 **GitHub Repositories**
 - [REPO RL Adventure - higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
@@ -338,7 +339,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [YOUTUBE ContraPoints](https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA)
   - Mainly topics on Transgender but also on other topics based on Philosophical Thinking
   - [TRANSCRIPT Archives: Why I Quit Academia](https://www.contrapoints.com/transcripts/archives/quit-academia)
-  - [YOUTUBE The Apocalypse | ContraPoints (Topic: Climate Change)](https://www.youtube.com/watch?v=S6GodWn4XMM)
+  - [YOUTUBE The Apocalypse ContraPoints (Topic: Climate Change)](https://www.youtube.com/watch?v=S6GodWn4XMM)
 - [YOUTUBE Philosophy Tube](https://www.youtube.com/user/thephilosophytube)
   - This is the description inside the channel: "I'm giving away a philosophy degree for free! Subscribe to learn and boost your brain power!"
   - Great variety of topics including intro to famous philosophers/philosophy topics and reflections on current issues from a philosophical perspective (if I may say so)
