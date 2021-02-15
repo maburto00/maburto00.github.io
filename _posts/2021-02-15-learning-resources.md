@@ -336,7 +336,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [COURSERA Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences)
 - [YOUTUBE ContraPoints](https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA)
   - Mainly topics on Transgender but also on other topics based on Philosophical Thinking
-  - [TRANSCRIPT ](https://www.contrapoints.com/transcripts/archives/quit-academia)
+  - [TRANSCRIPT Archives: Why I Quit Academia](https://www.contrapoints.com/transcripts/archives/quit-academia)
   - [YOUTUBE The Apocalypse | ContraPoints (Topic: Climate Change)](https://www.youtube.com/watch?v=S6GodWn4XMM)
 - [YOUTUBE Philosophy Tube](https://www.youtube.com/user/thephilosophytube)
   - This is the description inside the channel: "I'm giving away a philosophy degree for free! Subscribe to learn and boost your brain power!"
