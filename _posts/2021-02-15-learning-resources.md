@@ -43,7 +43,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 ### Bandits
 - [BOOK WEBSITE Bandit Algorithms](https://banditalgs.com/)
-
+- [★DEMO Can you beat the bandit?, Ian Osband](http://iosband.github.io/2015/07/28/Beat-the-bandit.html)
+  - Interactive demo to understanding what bandits are all about.
 <!---separator separator separator separator -->-----
 
 ### Competitive Programming
