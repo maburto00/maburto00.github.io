@@ -82,6 +82,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 <!---separator separator separator separator -->-----
 
 ### Machine Learning
+- [BLOGPOST An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms)
 - [BOOK Bishop, Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 - BOOK Bishop, パータン認識と機械学習
 - ★[BOOK Hardt and Recht, Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/index.html)
