@@ -172,10 +172,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 <!---separator separator separator separator -->-----
 
 ### Web Development
+- GitHub Pages
+  - [YOUTUBE GitHub Pages and Jekyll](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq)
+  - [WEBSITE Working with GitHub Pages](https://docs.github.com/en/github/working-with-github-pages)
 - Google Sites
   - [YOUTUBE Top 10 Tips for Google Sites for Beginner and Power User](https://www.youtube.com/watch?v=8dGdjh-usy4)
-- GitHub Pages
-  - [Working with GitHub Pages](https://docs.github.com/en/github/working-with-github-pages)
 - Jekyll
   - [YOUTUBE Jekyll - Static Site Generator | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
