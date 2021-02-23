@@ -103,6 +103,10 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [COURSE STP425 Stochastic Processes - Jay Talor, Arizona State University](https://math.la.asu.edu/~jtaylor/teaching/Fall2012/STP425/STP425.html)
 - ★[ANNOTATED BIBLIOGRAPHY on Regret Analysis of Markov Decision Processes (MDPs)](https://github.com/ambujtewari/rl20/blob/master/bootcamp/README.md)
 
+### Neural Networks
+- [COURSE CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [CS231 Spring 2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 
+
 <!---separator separator separator separator -->-----
 
 ### Online Learning
