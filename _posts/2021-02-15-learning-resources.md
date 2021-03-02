@@ -106,6 +106,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 ### Neural Networks
 - [COURSE CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - [CS231 Spring 2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 
+- [YOUTUBE 3Blue1Brown, Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 <!---separator separator separator separator -->-----
 
