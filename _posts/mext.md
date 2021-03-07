@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Beca MEXT para estudios de Posgrado en Japón para mexicanos - Mi experiencia y algunos tips"
-date:   2021-02-15 03:47:00 +0900
+date:   2021-03-09 14:37:00 +0900
 categories: general
-permalink: learning-resources
+permalink: general
 comments: true
 ---
 
