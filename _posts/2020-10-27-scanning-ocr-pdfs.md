@@ -39,6 +39,7 @@ NOTE: when using Ubuntu from windows, the hard drive will be mounted on /mnt/c/ 
 I haven't tried in Mac, but must be possible. As for Windows, you can install the Ubuntu terminal from the Windows Store and execute the same steps as for Ubuntu (actually that is what I did).
 1. Open a terminal
 2. Execute (replace BIGFILE.pdf and SMALLFILE.pdf with the appropiate names)
+   
    `ps2pdf -dPDFSETTINGS=/ebook BIGFILE.pdf SMALLFILE.pdf`
 
 
