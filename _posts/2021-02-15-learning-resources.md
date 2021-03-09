@@ -37,6 +37,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 ### Artificial Intelligence
 - [BOOK Russel, Artificial Intelligence: A Modern Approach](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html)
+- [BOOK Artificial Intelligence and Games, Yannakakis and Togelius](http://gameaibook.org/)
+- [SUMMER SCHOOL Artificial Intelligence and Games](https://school.gameaibook.org/)
 - [WEBSITE Lil'Log - Lilian Weng Blog](https://lilianweng.github.io/lil-log/)
 
 <!---separator separator separator separator -->-----
