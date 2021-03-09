@@ -360,7 +360,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [YOUTUBE Philosophy Tube](https://www.youtube.com/user/thephilosophytube)
   - This is the description inside the channel: "I'm giving away a philosophy degree for free! Subscribe to learn and boost your brain power!"
   - Great variety of topics including intro to famous philosophers/philosophy topics and reflections on current issues from a philosophical perspective (if I may say so)
-  - [Foucault: Crime, Police, & Power | Philosophy Tube](https://www.youtube.com/watch?v=EFaxgB5TygE)
+  - [Foucault: Crime, Police, & Power - Philosophy Tube](https://www.youtube.com/watch?v=EFaxgB5TygE)
 
 <!---separator separator separator separator -->-----
 
