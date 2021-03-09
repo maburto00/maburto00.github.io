@@ -270,6 +270,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  eventmachine
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-include-cache
