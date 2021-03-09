@@ -179,7 +179,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - Google Sites
   - [YOUTUBE Top 10 Tips for Google Sites for Beginner and Power User](https://www.youtube.com/watch?v=8dGdjh-usy4)
 - Jekyll
-  - [YOUTUBE Jekyll - Static Site Generator | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+  - [YOUTUBE Jekyll - Static Site Generator - Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
