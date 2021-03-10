@@ -188,6 +188,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - [YOUTUBE Top 10 Tips for Google Sites for Beginner and Power User](https://www.youtube.com/watch?v=8dGdjh-usy4)
 - Jekyll
   - [YOUTUBE Jekyll - Static Site Generator - Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+- Katex (Latex in the web)
+  - [WEBSITE Katex](https://katex.org/)
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
