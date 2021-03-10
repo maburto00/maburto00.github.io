@@ -137,6 +137,12 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
+### Quantum Computing
+- [BOOTCAMP The Quantum Wave in Computing Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/quantum-2020-boot-camp)
+  - [TALK Ewin Tang, Quantum-Inspired Classical Linear Algebra](https://www.youtube.com/watch?v=5yBtrX_jUIs)
+
+<!---separator separator separator separator -->-----
+
 ### ★Reinforcement Learning
 **Books**
 - [Agarwal, Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
@@ -182,6 +188,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - [YOUTUBE Top 10 Tips for Google Sites for Beginner and Power User](https://www.youtube.com/watch?v=8dGdjh-usy4)
 - Jekyll
   - [YOUTUBE Jekyll - Static Site Generator - Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+- Katex (Latex in the web)
+  - [WEBSITE Katex](https://katex.org/)
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
