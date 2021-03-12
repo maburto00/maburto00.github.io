@@ -35,7 +35,10 @@ disqus:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-katex
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 # Exclude from processing.
 # The following items will not be processed, by default.
