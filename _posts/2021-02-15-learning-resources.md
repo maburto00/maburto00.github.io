@@ -176,7 +176,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [★CHEATSHEET Reinforcement Learning Cheat Sheet](https://github.com/FrancescoSaverioZuppichini/Reinforcement-Learning-Cheat-Sheet/blob/master/rl_cheatsheet.pdf)
 - [WORKSHOP Theory of Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/programs/rl20)
 - [WORKSHOP Deep Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/workshops/rl-2020-1)
-- [TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
+- [★TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
 
 <!---separator separator separator separator -->-----
 
