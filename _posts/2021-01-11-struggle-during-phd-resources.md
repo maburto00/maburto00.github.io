@@ -6,7 +6,7 @@ categories: research
 comments: true
 ---
 
-Even before starting my PhD I read that it is normal to get demotivated, and specially while studying abroad, which I have now experience on my own. I have consulted many resources which have help me prepare first and now overcome those bad times when they have come. I cannot say I have managed them very well but I have learned a lot on the way. So here I want to share my own advice, and a list of resoruces to consult when struggling during a PhD (or in preparation of).
+Even before starting my PhD I read that it is normal to get demotivated, and specially while studying abroad, which I have now experience on my own. I have consulted many resources which have help me prepare first and now overcome those bad times when they have come. I cannot say I have managed them very well but I have learned a lot on the way. So here I want to share my own advice, and a list of resources to consult when struggling during a PhD (or in preparation of).
 
 # My advice
 
@@ -22,6 +22,6 @@ This is a combination of the advice I have been given, the resources I have cons
 
 # Resources
 
-See the resources in [Research Methodology](https://maburto00.github.io/general/2021/02/03/learning-resources.html#research-methodology).
+See the resources in [Research Methodology](https://maburto00.github.io/learning-resources.html#research-methodology).
 
 I highly recommend the book "How to get a PhD", since it mentions a lot of common problems and their solution/prevention, so it is a good lecture even when you are just thinking about doing a PhD. 

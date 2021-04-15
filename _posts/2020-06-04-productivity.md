@@ -14,4 +14,4 @@ I want to share some of the techniques/courses/books I have tried (or plan to tr
 - Pomodoro
 
 # Resources
-- [Learning resources - Productivity](https://maburto00.github.io/general/2020/06/08/learning-resources.html#productivity)
+- [Learning resources - Productivity](https://maburto00.github.io/learning-resources.html#productivity)
