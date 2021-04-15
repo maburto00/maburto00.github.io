@@ -9,17 +9,14 @@ permalink: '/'
 
 I am a PhD student at the [Mathematical Informatics Lab][mi-lab], [NAIST][naist].
 
-I am working on similarity of tasks for Transfer Learning on Deep Reinforcement Learning.
+My research topic is on similarity of tasks for Transfer Learning on Deep Reinforcement Learning. For this, I have been studying multiple topics like Information Geometry, Information Theory, Markov Decision Processes (MDPs) and Partially Observable MPDs (POMDPs), Hidden Markov Models (HMMs), and notions of equivalence and similarity for MDPs, POMDPs and HMMs. Send me a message if you are interested in any of these ^_^.
 
-**★Group Activities on Zoom (please contact me if you want to join)**
+# Group Activities on Zoom (please contact me if you want to join)
 - RL Study Group
-  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
   - Start: January 2021 (currently ongoing)
   - Finish: Around June 2021 (to complete the 9 papers mentioned in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
-- Japanese Study Group
-  - We meet on weekdays from 8-9pm JST to study japanese (each one selects its own books/resources)
-  - Start: January 2021 (currently ongoing)
-  - Finish: Undefined
+  - Website: [NAIST RL Study Group](https://sites.google.com/view/naist-rl-study-group/home)
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
