@@ -4,15 +4,23 @@ title: About
 list_title: ' '
 permalink: '/'
 ---
+<img src="/assets/profile_picture.jpg" align="left"  height=250px alt="profile_picture" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
+<!-- ![](/assets/profile_picture.jpg) -->
 
-<img src="/assets/profile_picture.jpg" alt="drawing" width="200"/>
+I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [NAIST][naist].
 
-I am a PhD student at the [Mathematical Informatics Lab][mi-lab], [NAIST][naist].
+My research topic is on similarity of tasks for Transfer Learning on Deep Reinforcement Learning. 
 
-My research topic is on similarity of tasks for Transfer Learning on Deep Reinforcement Learning. For this, I have been studying multiple topics like Information Geometry, Information Theory, Markov Decision Processes (MDPs) and Partially Observable MPDs (POMDPs), Hidden Markov Models (HMMs), and notions of equivalence and similarity for MDPs, POMDPs and HMMs. Send me a message if you are interested in any of these ^_^.
+For this, I have been studying Information Geometry, Information Theory, Markov Decision Processes (MDPs) and Partially Observable MPDs (POMDPs), Hidden Markov Models (HMMs), and notions of equivalence and similarity for MDPs, POMDPs and HMMs. 
 
-# Group Activities on Zoom (please contact me if you want to join)
-- RL Study Group
+Send me a message if you are interested in any of these ^_^.
+<br>
+<br>
+<br>
+
+
+# Group Activities on Zoom (contact me if you want to join)
+- **RL Study Group**
   - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
   - Start: January 2021 (currently ongoing)
   - Finish: Around June 2021 (to complete the 9 papers mentioned in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
