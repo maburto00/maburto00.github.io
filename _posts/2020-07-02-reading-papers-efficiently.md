@@ -16,11 +16,11 @@ The summary is probably more helpful to me than to anybody else, but I think you
 
 # How to read a paper
 There are many videos and resources talking about this but I would summarize the method in these steps:
-1. Read title, abstract, pass quickly through the figures and subtitles and read the conclusion. Check if you are still interested to continue to read.
-2. Read the rest of the paper in the order most interest you (introduction for previous work, methods for techniques used, results for results ^_^). Check if you want to continue reading or this level of understanding is enough for now.
-3. Read again the parts that you want to understand better (maybe it is the math, maybe the algorithms, etc; now you can work out the math or try to implement the algorithms to improve your understanding). Check again if you want to continue reading.
+1. Read **title, abstract**, pass quickly through the **figures** and **subtitles** and read the **conclusion**. Check if you are still interested to continue to read.
+2. Read the **rest of the paper** in the order most interest you (introduction for previous work, methods for techniques used, results for results ^_^). Check if you want to continue reading or this level of understanding is enough for now.
+3. Read again the **parts that you want to understand better** (maybe it is the math, maybe the algorithms, etc; now you can work out the math or try to implement the algorithms to improve your understanding). Check again if you want to continue reading.
 
-The previous steps are very flexible, but the most important thing to keep asking yourself while reading is "How will this paper help me in my research?".
+The previous steps are very flexible, but the **most important thing** to keep asking yourself while reading is **"How will this paper help me in my research?"**.
 
 For better advice than mine, please look at [4] and [5].
 
