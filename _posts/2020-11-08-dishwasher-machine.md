@@ -21,9 +21,9 @@ I put the materials (bought on Amazon JP) and some pictures of the setup in case
 
 # How it looks
 
-<img src="/assets/dish1front.jpg" alt="Dishwasher FRONT" width="350"/>
-<img src="/assets/dish2back.jpg" alt="Dishwasher BACK" width="350"/>
-<img src="/assets/dish3faucet.jpg" alt="Dishwasher FAUCET" width="400"/>
-<img src="/assets/dish4bottom.jpg" alt="Dishwasher BOTTOM" width="400"/>
-<img src="/assets/dish5top.jpg" alt="Dishwasher TOP" width="450"/>
-<img src="/assets/dish6jar.jpg" alt="Dishwasher JAR" width="450"/>
+<img src="/assets/dish1front.jpg" alt="Dishwasher FRONT" width="350" style="vertical-align:middle;margin:5px"/>
+<img src="/assets/dish2back.jpg" alt="Dishwasher BACK" width="350" style="vertical-align:middle;margin:5px"/>
+<img src="/assets/dish3faucet.jpg" alt="Dishwasher FAUCET" width="350" style="vertical-align:middle;margin:5px"/>
+<img src="/assets/dish4bottom.jpg" alt="Dishwasher BOTTOM" width="350" style="vertical-align:middle;margin:5px"/>
+<img src="/assets/dish5top.jpg" alt="Dishwasher TOP" width="350" style="vertical-align:middle;margin:5px"/>
+<img src="/assets/dish6jar.jpg" alt="Dishwasher JAR" width="350" style="vertical-align:middle;margin:5px"/>
