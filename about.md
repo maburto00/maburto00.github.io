@@ -19,12 +19,19 @@ Send me a message if you are interested in any of these ^_^.
 <br>
 
 
-# Group Activities on Zoom (contact me if you want to join)
+# Group activities (contact me if you want to join)
 - **RL Study Group**
   - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
   - Start: January 2021 (currently ongoing)
   - Finish: Around June 2021 (to complete the 9 papers mentioned in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
-  - Website: [NAIST RL Study Group](https://sites.google.com/view/naist-rl-study-group/home)
+  - Website: https://sites.google.com/view/naist-rl-study-group/home
+- **IEEE Student Branch Officer (Treasurer)**
+  - We organize events related to science and technology
+  - IEEEXtreme is a competitive programming contest which is supported locally by the Student Branch for students to compete
+  - Website: https://ieee-sb-naist.github.io/home
+- ***NAIST GSK (Global Student Network)**
+  - We organize events and support international and japanese students
+  - Website: https://sites.google.com/view/naistgsk
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
