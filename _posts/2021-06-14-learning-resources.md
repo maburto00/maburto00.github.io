@@ -57,6 +57,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
+### Computer Graphics
+- [Blender Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
+
 ### Deep Learning
 - [BOOK Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 - [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
