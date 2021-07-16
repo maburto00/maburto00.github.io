@@ -10,14 +10,20 @@ These tools have been very useful while learning japaneseI put here the software
 
 # Android
 - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en&gl=US)
+  - Useful to Translate Japanese to English or English to Japanese. Specially useful is the camera tool to translate live or to "scan" and translate by selecting the text. Another useful tool is the writing tool, which permits to write kanji directly, and even if not written too accurately the system is able to recognize it and offers some suggestions too.
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto&hl=en&gl=US) (Japanese-English Dictionary)
+  - Japanese English Dictionary that searches for the words while you are typing, which makes it very convenient to search quicly for words. It permits to search both in English and in Japanese (using romaji, kana or kanji).
 - [Kaku - Floating Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku&hl=en_US&gl=US)
+  - OCR (Optical Character Recognition) system to capture and translate text in Japanese. Specially useful for manga in Kindle or PDF where you cannot select the text, or for slides in Japanese shown on Zoom or Youtube videos. See also Windows->Capture2Text for a similar tool for Windows.
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US)
   - AnkiDroid is the app for using Anki on Android, so as with Anki I would suggest: use in moderation (See Windows->Anki below too).
 
 # Chrome Extensions
 - [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en)
+  - This extension shows the hiragana and meaning of the word where the cursor is positioned on. It is useful for reading quickly when you already have a good level of japanese but not enough vocabulary. There are some options worth exploring (like pressing C to copy the translation to clipboard). However, since the translation is made word by word, if the sentence is too complex it may be useful to complement with Google Translate to get the full sentence translations.
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
+  - Very useful for quick translation when you don't have enough vocabulary and grammar knowledge to understand complex sentences. You can select the text you want to translate and a pop up will appear to make the translation.
+
 
 # Windows
 - [Capture2Text](https://sourceforge.net/projects/capture2text/)
