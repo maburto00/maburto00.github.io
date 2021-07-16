@@ -44,9 +44,7 @@ As noted by (Glatt et al., 2016), the effectiveness of transfer is highly depend
 * Knowledge: representation/parameter transfer
 * Objective: asymptotic improvement (improve approx. error of the func. approx.)
 
-I think it would be beneficial to try to replicate the results of (Glatt et al., 2016) to understand how they measure the effect of task similarity on the transfer.
-
-UPDATE: The measure is kind of naive. They compare the transfer when they tasks are the same, when they are "similar" and when they are "different", deciding that visually.
+In the work by (Glatt et al., 2016) they compare the transfer when the tasks are the same, when they are "similar" and when they are "different" to get their results. However, the similarity is measured visually only, so proposing a similarity metric capturing how "similar" the tasks are in terms of effective transfer seems important, which I am attempting to propose during my PhD.
 
 # Conclusion
 Using Lazaric taxonomy, the kind of transfer learning that would be most relevant to me would be:
