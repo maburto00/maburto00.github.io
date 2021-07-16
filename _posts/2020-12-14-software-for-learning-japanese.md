@@ -21,3 +21,7 @@ These tools have been very useful while learning japaneseI put here the software
 - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto&hl=en&gl=US) (Japanese-English Dictionary)
 - [Kaku - Floating Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku&hl=en_US&gl=US)
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US)
+
+# Chrome Extensions
+- [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en)
+- [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
