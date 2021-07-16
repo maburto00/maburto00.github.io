@@ -8,6 +8,17 @@ comments: true
 
 These tools have been very useful while learning japaneseI put here the software I have use for learning japanese.
 
+# Android
+- [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en&gl=US)
+- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto&hl=en&gl=US) (Japanese-English Dictionary)
+- [Kaku - Floating Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku&hl=en_US&gl=US)
+- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US)
+  - AnkiDroid is the app for using Anki on Android, so as with Anki I would suggest: use in moderation (See Windows->Anki below too).
+
+# Chrome Extensions
+- [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en)
+- [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
+
 # Windows
 - [Capture2Text](https://sourceforge.net/projects/capture2text/)
   - I really recommmend reading the [documentation](http://capture2text.sourceforge.net/) completely (it should take about 30minutes) to be able to use this app effectively, since it relies on the use of hotkeys. This is an OCR app so you can capture text from images, but it also has the option to translate directly and even pronounce with text-to-speech.
@@ -15,13 +26,3 @@ These tools have been very useful while learning japaneseI put here the software
   - This app starts searching even when you haven't finished writing, so it is very good specially to use in class where you have to find the words as fast as possible to continue paying attention to the professor.
 - [Anki](https://apps.ankiweb.net/)
   - I recommend to use this in moderation, since learning must be fun and Anki can drag the fun out of it very quickly. However, it is a very good alternative for physical flash cards, and you can download Shared Decks for classic resources (e.g. Minna No Nihongo, JLPT preparation, Soumatome books, etc).
-
-# Android
-- [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en&gl=US)
-- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto&hl=en&gl=US) (Japanese-English Dictionary)
-- [Kaku - Floating Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku&hl=en_US&gl=US)
-- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US)
-
-# Chrome Extensions
-- [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en)
-- [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
