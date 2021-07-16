@@ -20,10 +20,10 @@ Send me a message if you are interested in any of these ^_^.
 
 
 # Group activities (contact me if you want to join)
-- **RL Study Group**
+- **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
   - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
   - Start: January 2021 (currently ongoing)
-  - Finish: Around June 2021 (to complete the 9 papers mentioned in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
+  - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
   - Website: <https://sites.google.com/view/naist-rl-study-group/home>
 - **IEEE Student Branch Officer (Treasurer)**
   - We organize events related to science and technology
@@ -44,7 +44,7 @@ Send me a message if you are interested in any of these ^_^.
     - Optimization of Big Data platforms (Confluent, Elasticsearch, Greenplum, Hortonworks) 
     - Collaborated on Data Science projects implemented on these platforms.
 - **REDCONTEL, Mexico. Software Engineer**, part-time (September 2009 - August 2013), full-time (September 2013 - July 2014). 
-    - Lead programmer of SSH module for a network security system. 
+    - Lead programmer (mainly using C in Linux) of SSH module for a network security system. 
     - Collaborated to other modules using SFTP and VNC protocols.
 
 # Publications
