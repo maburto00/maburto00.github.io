@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Statistics Cheat Sheet"
+title:  "Statistics Cheatsheet"
 date:   2020-09-03 06:51:00 +0900
 categories: research general
 comments: true
