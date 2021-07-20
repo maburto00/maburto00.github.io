@@ -191,6 +191,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [★TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
 - [★TUTORIAL LearnDataSci - Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
 - [Stable Baselines 3 Suggested RL Resources](https://stable-baselines3.readthedocs.io/en/master/guide/rl.html)
+- [Danny Britz list of resources and code for RL](https://github.com/dennybritz/reinforcement-learning)
 
 <!---separator separator separator separator -->-----
 
