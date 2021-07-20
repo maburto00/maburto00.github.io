@@ -175,6 +175,14 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [REPO grid-world-rl - Gridkevlar1818/grid-world-rl](https://github.com/kevlar1818/grid-world-rl)
 - [REPO MiniWorld - maximecb/gym-miniworld](https://github.com/maximecb/gym-miniworld)
 
+**Frameworks**
+- Stable Baselines 3 [Repo](https://github.com/DLR-RM/stable-baselines3) [Docs](https://stable-baselines3.readthedocs.io/en/master/)
+  - Reliable implementations of RL algorithms in PyTorch.
+- RL Baselines3 Zoo [Repo](https://github.com/DLR-RM/rl-baselines3-zoo)
+  - Training framework for Stable Baselines 3
+- Stable Baselines Contrib [Repo](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib)
+  - Implementations of latest RL algorithms in PyTorch.
+
 **Others**
 - [BLOGPOST Reproducing Deep RL - Amid Fish](http://amid.fish/reproducing-deep-rl)
 - [★CHEATSHEET Reinforcement Learning Cheat Sheet](https://github.com/FrancescoSaverioZuppichini/Reinforcement-Learning-Cheat-Sheet/blob/master/rl_cheatsheet.pdf)
@@ -182,6 +190,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [WORKSHOP Deep Reinforcement Learning - Simons Institute, UC Berkeley](https://simons.berkeley.edu/workshops/rl-2020-1)
 - [★TUTORIAL Google Colab - Introduction to Reinforcement Learning - Pablo Samuel Castro](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb#scrollTo=D9BvzpGnRwH8)
 - [★TUTORIAL LearnDataSci - Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
+- [Stable Baselines 3 Suggested RL Resources](https://stable-baselines3.readthedocs.io/en/master/guide/rl.html)
 
 <!---separator separator separator separator -->-----
 
