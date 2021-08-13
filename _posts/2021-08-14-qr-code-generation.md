@@ -6,9 +6,9 @@ categories: personal
 comments: true
 ---
 
-The easiest way I found to generate a QR Code for an URL is using the google api like this:
+The easiest way I found to generate a QR Code for an URL is using the google api like this (substitute RESOLUTION and URL for your desired values):
 
-  https://chart.googleapis.com/chart?chs=<RESOLUTION>&cht=qr&choe=UTF-8&chl=<URL>
+  https://chart.googleapis.com/chart?chs=RESOLUTION&cht=qr&choe=UTF-8&chl=URL
   
 For example, I can generate a 75 by 75 pixels QR Code for my personal website:
 
