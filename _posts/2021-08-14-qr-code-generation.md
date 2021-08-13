@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "QR Code generation for URLs"
-date:   2019-12-28 18:06:06 +0900
+date:   2021-08-14 04:40:00 +0900
 categories: personal
 comments: true
 ---
