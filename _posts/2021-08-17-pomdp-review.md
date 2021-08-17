@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Partially Observable Decision Process (POMDP): Review"
-date:   2020-02-12 22:31:00 +0900
+date:   2021-08-17 18:49:00 +0900
 categories: research
 ---
 
