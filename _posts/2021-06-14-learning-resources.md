@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "★Learning resources"
-date:   2021-06-14 02:04:00 +0900
+date:   2021-08-29 15:33:00 +0900
 categories: general
 permalink: learning-resources
 comments: true
@@ -386,7 +386,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - This is the description inside the channel: "I'm giving away a philosophy degree for free! Subscribe to learn and boost your brain power!"
   - Great variety of topics including intro to famous philosophers/philosophy topics and reflections on current issues from a philosophical perspective (if I may say so)
   - [Foucault: Crime, Police, & Power - Philosophy Tube](https://www.youtube.com/watch?v=EFaxgB5TygE)
-
+- [YOUTUBE Carefree Wandering](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ)
+  - Philosophy professor that has made some critiques of Philosophy Tube's video. I still love Philosophy Tube videos, but these critiques are great, really on point, and bring out some very interesting concepts.
 <!---separator separator separator separator -->-----
 
 ### Presentation skills
@@ -438,6 +439,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - Reflection on queer, straight and bisexual identities, and its ambiguity.
 - [(**WARNING: A little bit NSFW**) YOUTUBE Men, Contrapoints](https://www.youtube.com/watch?v=S1xxcKCGljY)
   - A very interesting reflection on masculinity in the current age from the perspective of a trans woman. She discusses some identity issues men have given the "toxicity" associated to masculanity, and the need to redefine it for the current age. Really recommended!
+- [YOUTUBE Identity After Authenticity: Abigail Thorn's Profile](https://www.youtube.com/watch?v=-QMHOsfjHq0&t=27s)
+  - Interesting analysis about the coming out video of Abigail Thorn, and how identity formation works in current times.
 
 ### Teaching
 - [COURSE Foundations of Teaching for Learning: Introduction](https://www.coursera.org/learn/teaching)
