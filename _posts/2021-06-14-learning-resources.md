@@ -439,7 +439,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - Reflection on queer, straight and bisexual identities, and its ambiguity.
 - [(**WARNING: A little bit NSFW**) YOUTUBE Men, Contrapoints](https://www.youtube.com/watch?v=S1xxcKCGljY)
   - A very interesting reflection on masculinity in the current age from the perspective of a trans woman. She discusses some identity issues men have given the "toxicity" associated to masculanity, and the need to redefine it for the current age. Really recommended!
-- [YOUTUBE Identity After Authenticity: Abigail Thorn's Profile](https://www.youtube.com/watch?v=-QMHOsfjHq0&t=27s)
+- [YOUTUBE Identity After Authenticity: Abigail Thorn's Profile, Carefree Wandering](https://www.youtube.com/watch?v=-QMHOsfjHq0&t=27s)
   - Interesting analysis about the coming out video of Abigail Thorn, and how identity formation works in current times.
 
 ### Teaching
