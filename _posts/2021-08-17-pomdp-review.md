@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Partially Observable Decision Process (POMDP): Review"
+title:  "Partially Observable Markov Decision Process (POMDP): Review"
 date:   2021-08-17 18:49:00 +0900
 categories: research
 ---
