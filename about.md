@@ -7,11 +7,11 @@ permalink: '/'
 <img src="/assets/profile_picture_11.jpg" align="left"  height=250px alt="profile_picture_11" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
 <!-- ![](/assets/profile_picture_11.jpg) -->
 
-I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology][naist].
+I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology (NAIST)][naist].
 
-My research topic is on similarity of tasks for Transfer Learning on Deep Reinforcement Learning. 
+My research topic is on Task Similarity for Transfer Learning in Reinforcement Learning. 
 
-For this, I have been studying Information Geometry, Information Theory, Markov Decision Processes (MDPs) and Partially Observable MPDs (POMDPs), Hidden Markov Models (HMMs), and notions of equivalence and similarity for MDPs, POMDPs and HMMs. 
+For this, I have been studying Information Geometry, Information Theory, Markov Decision Processes (MDPs) and Partially Observable MPDs (POMDPs), Hidden Markov Models (HMMs), and notions of equivalence and similarity for MDPs, POMDPs and HMMs.
 
 Send me a message if you are interested in any of these ^_^.
 <br>
@@ -20,22 +20,29 @@ Send me a message if you are interested in any of these ^_^.
 
 
 # Activities (contact me if you want to join)
-- **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
-  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
-  - Start: January 2021 (currently ongoing)
-  - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
-  - Website: <https://sites.google.com/view/naist-rl-study-group/home>
-- **IEEE Student Branch Officer (Treasurer)**
+- **IEEE Student Branch**
+  - I am the Treasurer. 
   - We organize events related to science and technology with the support of IEEE.
   - Currently I am also helping as IEEEXtreme Ambassador. [IEEEXtreme](https://ieeextreme.org/) is a competitive programming contest which is supported locally by the Student Branch for students to compete.
   - Website: <https://ieee-sb-naist.github.io/home>
 - **NAIST GSK (Global Student Network)**
+  - I am a member.
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
 - **NAIST International Student Ambassador**
+  - I am a member.
   - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
   - Website: <https://www.facebook.com/AmbassadorNAIST>
-- **Japanese Study Group (PAUSED - Starting again around November 2021 for JLPT study**
+- **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
+  - I am the organizer.
+  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
+  - Start: January 2021
+  - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
+  - Website: <https://sites.google.com/view/naist-rl-study-group/home>
+- **Japanese Study Group (PAUSED - Starting again probably around November 2021 for JLPT study**
+  - I am the organizer.
+  - We meet to study together and comment what we learned at the end. This helps provide some routine, accountability and review with others.
+  - Website: <https://www.facebook.com/groups/japanesestudygroupmario>
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
