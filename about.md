@@ -7,7 +7,7 @@ permalink: '/'
 <img src="/assets/profile_picture_11.jpg" align="left"  height=250px alt="profile_picture_11" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
 <!-- ![](/assets/profile_picture_11.jpg) -->
 
-I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [NAIST][naist].
+I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology][naist].
 
 My research topic is on similarity of tasks for Transfer Learning on Deep Reinforcement Learning. 
 
@@ -32,7 +32,7 @@ Send me a message if you are interested in any of these ^_^.
 - **NAIST GSK (Global Student Network)**
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
-- **NAIST International Student Ambassador
+- **NAIST International Student Ambassador**
   - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
   - Website: <https://www.facebook.com/AmbassadorNAIST>
 - **Japanese Study Group (PAUSED - Starting again around November 2021 for JLPT study**
