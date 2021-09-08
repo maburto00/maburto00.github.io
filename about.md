@@ -19,19 +19,23 @@ Send me a message if you are interested in any of these ^_^.
 <br>
 
 
-# Group activities (contact me if you want to join)
+# Activities (contact me if you want to join)
 - **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
   - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
   - Start: January 2021 (currently ongoing)
   - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
   - Website: <https://sites.google.com/view/naist-rl-study-group/home>
 - **IEEE Student Branch Officer (Treasurer)**
-  - We organize events related to science and technology
-  - IEEEXtreme is a competitive programming contest which is supported locally by the Student Branch for students to compete
+  - We organize events related to science and technology with the support of IEEE.
+  - Currently I am also helping as IEEEXtreme Ambassador. [IEEEXtreme](https://ieeextreme.org/) is a competitive programming contest which is supported locally by the Student Branch for students to compete.
   - Website: <https://ieee-sb-naist.github.io/home>
 - **NAIST GSK (Global Student Network)**
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
+- **NAIST International Student Ambassador
+  - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
+  - Website: <https://www.facebook.com/AmbassadorNAIST>
+- **Japanese Study Group (PAUSED - Starting again around November 2021 for JLPT study**
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
