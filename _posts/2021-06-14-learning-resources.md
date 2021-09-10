@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "★Learning resources"
-date:   2021-08-29 15:33:00 +0900
+date:   2021-09-10 18:49:00 +0900
 categories: general
 permalink: learning-resources
 comments: true
@@ -454,6 +454,12 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - BOOK Hofmann, Scientific Writing and Communication
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+
+### Job Interview
+- BOOK Laakmaan, Cracking the coding interview
+- BOOK Guiness, Ace the programming interview
+- BOOK Mongan, Programming Interviews Exposed
+- [WEBSITE Pramp - Practice Interviewing Skills](https://www.pramp.com)
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
