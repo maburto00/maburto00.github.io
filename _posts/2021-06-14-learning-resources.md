@@ -364,6 +364,14 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
+### Job Interview
+- BOOK Laakmaan, Cracking the coding interview
+- BOOK Guiness, Ace the programming interview
+- BOOK Mongan, Programming Interviews Exposed
+- [WEBSITE Pramp - Practice Interviewing Skills](https://www.pramp.com)
+
+<!---separator separator separator separator -->-----
+
 ### Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
 - BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
@@ -388,6 +396,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - [Foucault: Crime, Police, & Power - Philosophy Tube](https://www.youtube.com/watch?v=EFaxgB5TygE)
 - [YOUTUBE Carefree Wandering](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ)
   - Philosophy professor that has made some critiques of Philosophy Tube's video. I still love Philosophy Tube videos, but these critiques are great, really on point, and bring out some very interesting concepts.
+
 <!---separator separator separator separator -->-----
 
 ### Presentation skills
@@ -442,6 +451,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [YOUTUBE Identity After Authenticity: Abigail Thorn's Profile, Carefree Wandering](https://www.youtube.com/watch?v=-QMHOsfjHq0&t=27s)
   - Interesting analysis about the coming out video of Abigail Thorn, and how identity formation works in current times.
 
+<!---separator separator separator separator -->-----
+
 ### Teaching
 - [COURSE Foundations of Teaching for Learning: Introduction](https://www.coursera.org/learn/teaching)
 - [COURSE University Teaching](https://www.coursera.org/learn/university-teaching)
@@ -454,12 +465,6 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - BOOK Hofmann, Scientific Writing and Communication
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
-
-### Job Interview
-- BOOK Laakmaan, Cracking the coding interview
-- BOOK Guiness, Ace the programming interview
-- BOOK Mongan, Programming Interviews Exposed
-- [WEBSITE Pramp - Practice Interviewing Skills](https://www.pramp.com)
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
