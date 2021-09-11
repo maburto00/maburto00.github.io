@@ -401,6 +401,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 ### Presentation skills
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
+- [WEBPAGE Beautiful AI - Software guided formatting for slides to make them look cool](https://www.beautiful.ai/)
 
 <!---separator separator separator separator -->-----
 
