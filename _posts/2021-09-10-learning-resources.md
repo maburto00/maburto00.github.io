@@ -358,6 +358,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 -----
 -----
 
+### Entrepreneurship
+- [WEBSITE Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
+
+<!---separator separator separator separator -->-----
+
 ### Go (board game)
 - [The Fundamentals of Go on 13x13](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 - [KaTrain - Tool for analyzing and playing go with AI feedback from KataGo](https://github.com/sanderland/katrain)
@@ -418,6 +423,10 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
 
+<!---separator separator separator separator -->-----
+
+### Sustainable Development Goals
+[WEBSITE SDG Official Website](https://sdgs.un.org/)
 <!---separator separator separator separator -->-----
 
 ### Research Methodology
