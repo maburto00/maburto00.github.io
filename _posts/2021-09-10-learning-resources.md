@@ -425,10 +425,6 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
-### Sustainable Development Goals
-[WEBSITE SDG Official Website](https://sdgs.un.org/)
-<!---separator separator separator separator -->-----
-
 ### Research Methodology
 **Books**
 - BOOK Blaxter, How to research
@@ -460,6 +456,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
   - A very interesting reflection on masculinity in the current age from the perspective of a trans woman. She discusses some identity issues men have given the "toxicity" associated to masculanity, and the need to redefine it for the current age. Really recommended!
 - [YOUTUBE Identity After Authenticity: Abigail Thorn's Profile, Carefree Wandering](https://www.youtube.com/watch?v=-QMHOsfjHq0&t=27s)
   - Interesting analysis about the coming out video of Abigail Thorn, and how identity formation works in current times.
+
+<!---separator separator separator separator -->-----
+
+### Sustainable Development Goals
+[WEBSITE SDG Official Website](https://sdgs.un.org/)
 
 <!---separator separator separator separator -->-----
 
