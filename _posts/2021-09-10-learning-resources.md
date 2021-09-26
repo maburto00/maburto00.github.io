@@ -369,10 +369,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
-### Job Interview
+### Job Interview / Job Hunting
 - BOOK Laakmaan, Cracking the coding interview
 - BOOK Guiness, Ace the programming interview
 - BOOK Mongan, Programming Interviews Exposed
+- [VIDEO Indeed - Job Cast: Get Hired in Tech](https://www.indeed.com/career-advice/resumes-cover-letters/job-cast-tech?from=jobseeker_marketing_email&isid=mkt_email&ikw=jobcast_ghit_post_2_jsx_for_jc_us_template&utm_campaign=jsx_for_jc&utm_source=jobseeker_email&utm_medium=email)
 - [WEBSITE Pramp - Practice Interviewing Skills](https://www.pramp.com)
 
 <!---separator separator separator separator -->-----
