@@ -363,6 +363,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 ### Entrepreneurship
 - [WEBSITE Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
+- [YOUTUBE Justin Kan - Twitch Founder (sold for $1M to Amazon), gives advice about pitch presentations, entrepreneurship, etc, in a very casual funny way](https://www.youtube.com/channel/UCfRtwc6K_VU9N4OjNnU2P7g)
 
 <!---separator separator separator separator -->-----
 
