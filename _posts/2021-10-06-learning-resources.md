@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "★Learning resources"
-date:   2021-09-10 18:49:00 +0900
+date:   2021-10-06 10:53:00 +0900
 categories: general
 permalink: learning-resources
 comments: true
