@@ -410,6 +410,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 <!---separator separator separator separator -->-----
 
 ### Presentation skills
+- [WEBPAGE Irasutoya - Illustrations commonly used in slides in Japan](https://www.irasutoya.com/)
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
 - [WEBPAGE Beautiful AI - Software guided formatting for slides to make them look cool](https://www.beautiful.ai/)
 
