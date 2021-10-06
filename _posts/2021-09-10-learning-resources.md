@@ -274,6 +274,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 **YouTube**
 - ★[YOUTUBE 3Blue1Brown, Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [YOUTUBE Axler, Linear Algebra Done Right](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+- [YOUTUBE Dr Peyam - Math videos](https://www.youtube.com/channel/UCoOjTxz-u5zU0W38zMkQIFw)
+  - [YOUTUBE Dr Peyam - Dual Space](https://www.youtube.com/watch?v=OGO3HGlOQO4)
+  - [YOUTUBE Dr Peyam - Dual Basis](https://www.youtube.com/watch?v=tnVkVJpn-BE)
 
 **Others**
 - [WEBSITE ベクトルや行列を含む微分について](https://qiita.com/takseki/items/b9a7115eb22040877922)
