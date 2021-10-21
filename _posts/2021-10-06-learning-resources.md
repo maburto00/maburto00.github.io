@@ -346,7 +346,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [WEBPAGE Hirogaru](https://hirogaru-nihongo.jp/en/)
 - [WEBPAGE Minato - Japan Foundation](https://minato-jf.jp/)
 - [WEBPAGE NHK Radio Podcast - やさしい日本語](https://www.nhk.or.jp/podcasts/program/lesson.html)
-- [WEBPAGE NHK World Japan - Learning Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+- [★ WEBPAGE NHK World Japan - Learning Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/)
+  - [Easy Japanese for Work](http://www3.nhk.or.jp/nhkworld/en/tv/easyjapaneseforwork/)
 - [WEBPAGE Website for Foreign Nationals as Residents to Learn Japanese Language](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
 
 <!---
