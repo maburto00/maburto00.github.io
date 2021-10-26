@@ -20,6 +20,10 @@ Send me a message if you are interested in any of these ^_^.
 
 
 # Activities (contact me if you want to join)
+- **JLPT Study Club**
+  - We meet online on Gathertown on weekdays from 8am to 9am to study for JLTP exam to be held on December 5, 2021. 
+  - Start: October 27, 2021
+  - Finish: December 3, 2021
 - **IEEE Student Branch**
   - I am the Treasurer. 
   - We organize events related to science and technology with the support of IEEE.
