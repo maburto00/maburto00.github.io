@@ -21,30 +21,30 @@ Send me a message if you are interested in any of these ^_^.
 
 # Activities (contact me if you want to join)
 - **JLPT Study Club**
+  - Organizer.
   - We meet online on Gathertown on weekdays from 8am to 9am to study for JLTP exam to be held on December 5, 2021. 
   - Start: October 27, 2021
   - Finish: December 3, 2021
 - **IEEE Student Branch**
-  - I am the Treasurer. 
+  - Treasurer. 
   - We organize events related to science and technology with the support of IEEE.
-  - Currently I am also helping as IEEEXtreme Ambassador. [IEEEXtreme](https://ieeextreme.org/) is a competitive programming contest which is supported locally by the Student Branch for students to compete.
   - Website: <https://ieee-sb-naist.github.io/home>
 - **NAIST GSK (Global Student Network)**
-  - I am a member.
+  - Member.
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
 - **NAIST International Student Ambassador**
-  - I am a member.
+  - Member.
   - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
   - Website: <https://www.facebook.com/AmbassadorNAIST>
 - **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
-  - I am the organizer.
+  - Organizer.
   - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
   - Start: January 2021
   - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
   - Website: <https://sites.google.com/view/naist-rl-study-group/home>
 - **Japanese Study Group (PAUSED - Starting again probably around November 2021 for JLPT study**
-  - I am the organizer.
+  - Organizer.
   - We meet to study together and comment what we learned at the end. This helps provide some routine, accountability and review with others.
   - Website: <https://www.facebook.com/groups/japanesestudygroupmario>
 
