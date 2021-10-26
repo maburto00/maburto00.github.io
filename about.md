@@ -4,7 +4,7 @@ title: About
 list_title: ' '
 permalink: '/'
 ---
-<img src="/assets/profile_picture_11.jpg" align="left"  height=250px alt="profile_picture_9_sq" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
+<img src="/assets/profile_picture_9_sq.jpg" align="left"  height=250px alt="profile_picture_9_sq" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
 <!-- ![](/assets/profile_picture_11.jpg) -->
 
 I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology (NAIST)][naist].
