@@ -391,6 +391,10 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - ★BOOK Get out of your mind and into your life, Hayes
   - This was recommended to me by my theraphist. The author is has a PhD in psychology and he is a researcher. I really recommend anyone having a hard time to give it a check, I think you will not regret it.
 - [COURSERA De-Mystifying Mindfulness](https://www.coursera.org/learn/mindfulness)
+- [WEBSITE Greater Good Science Center (GGSC)](https://ggsc.berkeley.edu/). Institute in Berkeley that studies happiness.
+  - [MAGAZINE GGSC Greater Good Magazine](https://greatergood.berkeley.edu/). Articles explaining diverse ways "science-based" ways to achieve happiness/overcome problems/etc.
+  - [PRACTICES GGSC In Action](https://ggia.berkeley.edu/). Guides for mindfulness practices and related practices.
+  - [PODCAST GGSC The Science of Happiness](https://greatergood.berkeley.edu/podcasts). Podcast where interviewed people have done the practices of GGSC and tell their experience
 
 <!---separator separator separator separator -->-----
 
@@ -456,6 +460,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 <!---separator separator separator separator -->-----
 
 ### Sex, Gender and Orientation
+- [WEBSITE CrossYaas Podcast](https://crossyaaspodcast.com/).Podcast related to crossdressing where the host interviews other people as them that crossdress, and discuss about their experience, why they do it, what fears and problems they face.
+  - [INSTAGRAM CrossYaas Podcast](https://www.instagram.com/crossyaaspodcast/). 
+  - [YOUTUBE CrossYass Podcast](https://www.youtube.com/c/crossyaaspodcast)
 - [YOUTUBE Sex vs Gender vs Orientation, Psych2Go](https://www.youtube.com/watch?v=XN-wD8O9tRI)
 - [YOUTUBE Queer, PhilosophyTube](https://www.youtube.com/watch?v=5Hi6j2UXEZM&t=421s)
   - Reflection on queer, straight and bisexual identities, and its ambiguity.
