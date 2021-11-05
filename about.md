@@ -43,10 +43,6 @@ Send me a message if you are interested in any of these ^_^.
   - Start: January 2021
   - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
   - Website: <https://sites.google.com/view/naist-rl-study-group/home>
-- **Japanese Study Group (PAUSED - Starting again probably around November 2021 for JLPT study**
-  - Organizer.
-  - We meet to study together and comment what we learned at the end. This helps provide some routine, accountability and review with others.
-  - Website: <https://www.facebook.com/groups/japanesestudygroupmario>
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
