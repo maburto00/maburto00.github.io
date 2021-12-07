@@ -20,6 +20,7 @@ Send me a message if you are interested in any of these ^_^.
 
 
 # Activities (contact me if you want to join)
+For previous finished activities look HERE.
 - **JLPT Study Club**
   - Organizer.
   - We meet online on Gathertown on weekdays from 8am to 9am to study for JLTP exam to be held on December 5, 2021. 
