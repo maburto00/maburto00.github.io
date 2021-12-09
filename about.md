@@ -20,7 +20,7 @@ Send me a message if you are interested in any of these ^_^.
 
 
 # Activities (contact me if you want to join)
-For previous finished activities look HERE.
+For previous finished activities look [HERE](https://maburto00.github.io/previous-activities).
 - **JLPT Study Club**
   - Organizer.
   - We meet online on Gathertown on weekdays from 8am to 9am to study for JLTP exam to be held on December 5, 2021. 
@@ -38,12 +38,6 @@ For previous finished activities look HERE.
   - Member.
   - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
   - Website: <https://www.facebook.com/AmbassadorNAIST>
-- **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
-  - Organizer.
-  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
-  - Start: January 2021
-  - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
-  - Website: <https://sites.google.com/view/naist-rl-study-group/home>
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
