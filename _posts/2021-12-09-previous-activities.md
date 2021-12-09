@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Previous Activities I have participated in"
+date:   2019-12-28 18:06:06 +0900
+categories: personal
+comments: true
+---
+
+In my About page I put the activities I am currently participating on so that people can join if they are interested. I will put in this post the activities that have finished so that I can keep a record and keep the About page clean. 
+
+- **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
+  - Organizer.
+  - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
+  - Start: January 2021
+  - Finish: June 2021 (discussed the 9 papers and code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure) repository)
+  - Website: <https://sites.google.com/view/naist-rl-study-group/home>
+- **Japanese Study Group (PAUSED - Starting again probably around November 2021 for JLPT study**
+  - Organizer.
+  - We meet to study together and comment what we learned at the end. This helps provide some routine, accountability and review with others.
+  - Website: <https://www.facebook.com/groups/japanesestudygroupmario>
