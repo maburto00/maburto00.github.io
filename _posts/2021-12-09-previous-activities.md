@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Previous Activities I have participated in"
-date:   2019-12-28 18:06:06 +0900
+date:   2021-12-09 18:56:00 +0900
 categories: personal
+permalink: previous-activities
 comments: true
 ---
 
