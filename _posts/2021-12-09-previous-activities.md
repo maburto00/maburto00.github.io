@@ -9,6 +9,11 @@ comments: true
 
 In my About page I put the activities I am currently participating on so that people can join if they are interested. I will put in this post the activities that have finished so that I can keep a record and keep the About page clean. 
 
+- **JLPT Study Club**
+  - Organizer.
+  - We meet online on Gathertown on weekdays from 8am to 9am to study for JLTP exam to be held on December 5, 2021. 
+  - Start: October 27, 2021
+  - Finish: December 3, 2021
 - **RL Study Group (FINISHED - Starting again (probably) in October 2021 to review [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2))**
   - Organizer.
   - We meet every Tuesday 1pm JST to discuss an important RL paper and its implementation in Python using the code in [RL-Adventure](https://github.com/higgsfield/RL-Adventure).
