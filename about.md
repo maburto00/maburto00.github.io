@@ -5,7 +5,7 @@ list_title: ' '
 permalink: '/'
 ---
 <!-- <img src="/assets/profile_picture_11.jpg" align="left"  height=250px alt="profile_picture_11" style="vertical-align:middle;margin:0px 50px 0px 0px"/> -->
-<img src="/assets/profile_picture_9_sq.jpg" align="left"  height=250px alt="profile_picture_11" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
+<img src="/assets/profile_picture_9.jpg" align="left"  height=250px alt="profile_picture_11" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
 <!-- ![](/assets/profile_picture_11.jpg) -->
 
 I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology (NAIST)][naist].
@@ -22,11 +22,6 @@ Send me a message if you are interested in any of these ^_^.
 
 # Activities (contact me if you want to join)
 For previous finished activities look [HERE](https://maburto00.github.io/previous-activities).
-- **JLPT Study Club**
-  - Organizer.
-  - We meet online on Gathertown on weekdays from 8am to 9am to study for JLTP exam to be held on December 5, 2021. 
-  - Start: October 27, 2021
-  - Finish: December 3, 2021
 - **IEEE Student Branch**
   - Treasurer. 
   - We organize events related to science and technology with the support of IEEE.
