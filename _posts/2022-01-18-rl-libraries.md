@@ -10,12 +10,35 @@ In this post I want to list the libraries I know for Reinforcement Learning. I a
 For other resources (books, courses, videos, etc), please see the resources that I listed [here](https://maburto00.github.io/learning-resources#reinforcement-learning).
 
 # List of libraries
-- . RL library for TensorFlow developed by 
-- Dopamine. RL libra
-- SB3. Stable Baselines 3. It contains many of the current algorithms.
+- **TF Agents**. Agents is a library for reinforcement learning in TensorFlow.
+  - https://www.tensorflow.org/agents
+- **Dopamine**. RL libra
+  - https://github.com/google/dopamine
+- **Stable-Baselines3** - Reliable Reinforcement Learning Implementations
+  - https://stable-baselines3.readthedocs.io/en/master/
+- **RL Baselines3 Zoo**: A Training Framework for Stable Baselines3 Reinforcement Learning Agents
+  - https://github.com/DLR-RM/rl-baselines3-zoo
+- OpenAI Gym. Gym is a toolkit for developing and comparing reinforcement learning algorithms
+  - https://gym.openai.com/envs
+- Unity Machine Learning Agents
+  - https://unity.com/products/machine-learning-agents
+- Ray RLlib: Industry-Grade Reinforcement Learning (distributed computing)
+  - https://docs.ray.io/en/master/rllib/
+- MineRL: Towards AI in Minecraft
+  - https://minerl.io/
+- PySC2 - StarCraft II Learning Environment
+  - https://github.com/deepmind/pysc2
+- Minimalistic Gridworld Environment (MiniGrid)
+  - https://github.com/maximecb/gym-minigrid
 
+
+<!---
 | Library      | Description |
 | ----------- | ----------- |
 | TF Agents      | Title       |
 | Dopamine   | Text        |
 | SB3| | 
+
+your comment goes here
+and here
+-->
