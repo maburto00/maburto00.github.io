@@ -36,7 +36,7 @@ For other resources (books, courses, videos, etc), please see the resources that
   - Horizon
   - Decision Service (uses Vowpal Wabbit internally)
   - Ray RLlib: Industry-Grade Reinforcement Learning (distributed computing)
-  - https://docs.ray.io/en/master/rllib/
+    - https://docs.ray.io/en/master/rllib/
 - https://github.com/david-cortes/contextualbandits/
 - https://github.com/HCDM/BanditLib
 - Vowpal Wabbit 
