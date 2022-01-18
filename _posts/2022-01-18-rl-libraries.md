@@ -31,6 +31,17 @@ For other resources (books, courses, videos, etc), please see the resources that
 - Minimalistic Gridworld Environment (MiniGrid)
   - https://github.com/maximecb/gym-minigrid
 
+## For contextual bandits
+- Mentioned in [^1]:
+  - Horizon
+  - Decision Service (uses Vowpal Wabbit internally)
+
+  - Ray RLlib: Industry-Grade Reinforcement Learning (distributed computing)
+  - https://docs.ray.io/en/master/rllib/
+- https://github.com/david-cortes/contextualbandits/
+- https://github.com/HCDM/BanditLib
+- Vowpal Wabbit 
+
 
 <!---
 | Library      | Description |
@@ -42,3 +53,8 @@ For other resources (books, courses, videos, etc), please see the resources that
 your comment goes here
 and here
 -->
+## References:
+# Footnotes: 
+[^1]: Karampatziakis, Nikos, Sebastian Kochman, Jade Huang, Paul Mineiro, Kathy Osborne, and Weizhu Chen. “Lessons from Contextual Bandit Learning in a Customer Support Bot.” ArXiv:1905.02219 [Cs, Stat], June 18, 2019. http://arxiv.org/abs/1905.02219.
+
+
