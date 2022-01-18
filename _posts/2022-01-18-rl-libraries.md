@@ -18,28 +18,28 @@ For other resources (books, courses, videos, etc), please see the resources that
   - https://stable-baselines3.readthedocs.io/en/master/
 - **RL Baselines3 Zoo**: A Training Framework for Stable Baselines3 Reinforcement Learning Agents
   - https://github.com/DLR-RM/rl-baselines3-zoo
-- OpenAI Gym. Gym is a toolkit for developing and comparing reinforcement learning algorithms
+- **OpenAI Gym**. Gym is a toolkit for developing and comparing reinforcement learning algorithms
   - https://gym.openai.com/envs
-- Unity Machine Learning Agents
+- **Unity Machine Learning Agents**
   - https://unity.com/products/machine-learning-agents
-- Ray RLlib: Industry-Grade Reinforcement Learning (distributed computing)
+- **Ray RLlib**: Industry-Grade Reinforcement Learning (distributed computing)
   - https://docs.ray.io/en/master/rllib/
-- MineRL: Towards AI in Minecraft
+- **MineRL**: Towards AI in Minecraft
   - https://minerl.io/
-- PySC2 - StarCraft II Learning Environment
+- **PySC2** - StarCraft II Learning Environment
   - https://github.com/deepmind/pysc2
-- Minimalistic Gridworld Environment (MiniGrid)
+- **MiniGrid**: Minimalistic Gridworld Environment
   - https://github.com/maximecb/gym-minigrid
 
 ## For contextual bandits
 - Mentioned in [^1]:
-  - Horizon
-  - Decision Service (uses Vowpal Wabbit internally)
-  - Ray RLlib: Industry-Grade Reinforcement Learning (distributed computing)
+  - **Horizon**
+  - **Decision Service** (uses Vowpal Wabbit internally)
+  - **Ray RLlib**: Industry-Grade Reinforcement Learning (distributed computing)
     - https://docs.ray.io/en/master/rllib/
 - https://github.com/david-cortes/contextualbandits/
 - https://github.com/HCDM/BanditLib
-- Vowpal Wabbit 
+- **Vowpal Wabbit**
 
 
 <!---
