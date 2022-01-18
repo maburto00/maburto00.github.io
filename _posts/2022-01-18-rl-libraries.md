@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reinforcement Learning Libraries"
-date:   2020-02-12 22:31:00 +0900
+date:   2022-01-19 00:40:00 +0900
 categories: research
 ---
 
