@@ -10,6 +10,8 @@ In this post I want to list the libraries I know for Reinforcement Learning. I a
 For other resources (books, courses, videos, etc), please see the resources that I listed [here](https://maburto00.github.io/learning-resources#reinforcement-learning).
 
 # List of libraries
+- **Garage**. Toolkit for developing and evaluating reinforcement learning algorithms.
+  - https://github.com/rlworkgroup/garage
 - **TF Agents**. Agents is a library for reinforcement learning in TensorFlow.
   - https://www.tensorflow.org/agents
 - **Dopamine**. RL libra
@@ -30,6 +32,7 @@ For other resources (books, courses, videos, etc), please see the resources that
   - https://github.com/deepmind/pysc2
 - **MiniGrid**: Minimalistic Gridworld Environment
   - https://github.com/maximecb/gym-minigrid
+
 
 ## For contextual bandits
 - Mentioned in [^1]:
