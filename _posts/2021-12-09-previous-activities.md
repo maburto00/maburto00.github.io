@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Previous Activities I have participated in"
+title:  "Previous Activities"
 date:   2021-12-09 18:56:00 +0900
 categories: personal
 permalink: previous-activities
 comments: true
 ---
 
-In my About page I put the activities I am currently participating on so that people can join if they are interested. I will put in this post the activities that have finished so that I can keep a record and keep the About page clean. 
+I will put the activities from the About page that I have finished in this post. The purpose is to keep a record and keep the About page clean. 
 
 - **JLPT Study Club**
   - Organizer.
