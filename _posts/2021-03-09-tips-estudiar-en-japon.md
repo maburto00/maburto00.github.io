@@ -7,7 +7,7 @@ permalink: general
 comments: true
 ---
 
-Esta es una serie de tips para venir a estudiar a Japón. No están escritos en un orden específico, es más lo primero que me vino a la mente que otra cosa. Escribí esto después de participar en la feria de estudios de Japón "Ingenieria & Programación y Computación".
+Esta es una serie de tips para venir a estudiar a Japón. No están escritos en un orden específico, es más lo primero que me vino a la mente que otra cosa. Escribí esto después de participar en la feria de estudios de Japón ["Ingenieria & Programación y Computación"](https://www.youtube.com/watch?v=YFwM5Jfv1lg).
 
 1. Estudiar japonés en una escuela, las herramientas en línea ayudan, pero ir a una escuela (en linea or presencial) ayuda a tener un progreso más constante.
 2. Aplicar a la beca MEXT de la embajada, pero no olvidar que también existe la opción de aplicar a la misma beca directamente desde la universidad a la que se quiere entrar en Japón.
