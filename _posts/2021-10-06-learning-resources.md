@@ -167,6 +167,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [COURSE Poupart - CS885 Spring 2020 - Reinforcement Learning (Poupart - University of Waterloo)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html)
 - [COURSE A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/)
 - [COURSE Sergey Levine - CS286: Deep Reinforcement Learning (Levine - Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [★EDUCATIONAL RESOURCE Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html)
+  - Educational Resource by OpenAI about Deep RL.
 - [★SPECIALIZATION Reinforcement Learning, Martha&Adam White, University of Alberta, Coursera](https://www.coursera.org/specializations/reinforcement-learning)
 
 **GitHub Repositories**
@@ -175,13 +177,15 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [REPO grid-world-rl - Gridkevlar1818/grid-world-rl](https://github.com/kevlar1818/grid-world-rl)
 - [REPO MiniWorld - maximecb/gym-miniworld](https://github.com/maximecb/gym-miniworld)
 
-**Frameworks**
+**Libraries**
 - Stable Baselines 3 [Repo](https://github.com/DLR-RM/stable-baselines3) [Docs](https://stable-baselines3.readthedocs.io/en/master/)
   - Reliable implementations of RL algorithms in PyTorch.
 - RL Baselines3 Zoo [Repo](https://github.com/DLR-RM/rl-baselines3-zoo)
   - Training framework for Stable Baselines 3
 - Stable Baselines Contrib [Repo](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib)
   - Implementations of latest RL algorithms in PyTorch.
+- Garage [Repo](https://github.com/rlworkgroup/garage)
+  - Implementations of state-of-the-art RL algorithms, including Meta-RL.
 
 **Others**
 - [BLOGPOST Reproducing Deep RL - Amid Fish](http://amid.fish/reproducing-deep-rl)
