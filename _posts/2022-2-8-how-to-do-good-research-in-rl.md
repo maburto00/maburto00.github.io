@@ -5,9 +5,7 @@ date:   2022-02-08 14:58:00 +0900
 categories: research
 ---
 
-I was inspired to write this post after reading the [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html) post. 
-
-I am not the best person to tell anyone how to do good research, but these are references are very insightful. However, if I may say, getting (and actively asking for) guidance from professors and other student is the best way to do (or try to do) good research.
+I was very inspired when I read the [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html) post, so I want to share it for anyone interested. I recommend to read the additional references they mention at the bottom too. I put the links for them here.
 
 - Spinning Up as a Deep RL Researcher
   - https://spinningup.openai.com/en/latest/spinningup/spinningup.html
