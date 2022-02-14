@@ -32,6 +32,8 @@ For other resources (books, courses, videos, etc), please see the resources that
   - https://github.com/deepmind/pysc2
 - **MiniGrid**: Minimalistic Gridworld Environment
   - https://github.com/maximecb/gym-minigrid
+- **Rliable** - Reliable evaluation on reinforcement learning and machine learnings benchmarks.
+  - https://github.com/google-research/rliable
 
 
 ## For contextual bandits
