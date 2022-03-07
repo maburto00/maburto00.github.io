@@ -12,9 +12,9 @@ For other resources (books, courses, videos, etc), please see the resources that
 # List of libraries
 - **Garage**. Toolkit for developing and evaluating reinforcement learning algorithms.
   - https://github.com/rlworkgroup/garage
-- **TF Agents**. Agents is a library for reinforcement learning in TensorFlow.
+- **TF Agents**. Agents is a library for reinforcement learning in Tensorflow.
   - https://www.tensorflow.org/agents
-- **Dopamine**. RL libra
+- **Dopamine**. RL library from Google (
   - https://github.com/google/dopamine
 - **Stable-Baselines3** - Reliable Reinforcement Learning Implementations
   - https://stable-baselines3.readthedocs.io/en/master/
@@ -60,5 +60,7 @@ and here
 ## References:
 # Footnotes: 
 [^1]: Karampatziakis, Nikos, Sebastian Kochman, Jade Huang, Paul Mineiro, Kathy Osborne, and Weizhu Chen. “Lessons from Contextual Bandit Learning in a Customer Support Bot.” ArXiv:1905.02219 [Cs, Stat], June 18, 2019. http://arxiv.org/abs/1905.02219.
+2: Phil Winder, [A Comparison of Reinforcement Learning Frameworks: Dopamine, RLLib, Keras-RL, Coach, TRFL, Tensorforce, Coach and More.](https://winder.ai/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/#google-dopamine-https-github-com-google-dopamine)
+
 
 
