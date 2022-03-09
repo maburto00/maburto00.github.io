@@ -170,6 +170,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [★EDUCATIONAL RESOURCE Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html)
   - Educational Resource by OpenAI about Deep RL.
 - [★SPECIALIZATION Reinforcement Learning, Martha&Adam White, University of Alberta, Coursera](https://www.coursera.org/specializations/reinforcement-learning)
+- [YOUTUBE Pieter Abbeel - Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 
 **GitHub Repositories**
 - [REPO RL Adventure - higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
