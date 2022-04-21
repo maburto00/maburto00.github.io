@@ -23,11 +23,11 @@ Send me a message if you are interested in any of these ^_^.
 # Activities (contact me if you want to join)
 For previous finished activities look [HERE](https://maburto00.github.io/previous-activities).
 - **IEEE Student Branch**
-  - Treasurer. 
+  - Chair. 
   - We organize events related to science and technology with the support of IEEE.
   - Website: <https://ieee-sb-naist.github.io/home>
 - **NAIST GSK (Global Student Network)**
-  - Member.
+  - President.
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
 - **NAIST International Student Ambassador**
