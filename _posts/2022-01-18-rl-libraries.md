@@ -10,7 +10,7 @@ In this post I want to list the libraries I know for Reinforcement Learning. I a
 For other resources (books, courses, videos, etc), please see the resources that I listed [here](https://maburto00.github.io/learning-resources#reinforcement-learning).
 
 # List of libraries
-- [**Garage**](https://github.com/rlworkgroup/garage). Toolkit for developing and evaluating reinforcement learning algorithms.
+- [**Garagee**](https://github.com/rlworkgroup/garage "Toolkit for developing and evaluating reinforcement learning algorithms"). Toolkit for developing and evaluating reinforcement learning algorithms.
 - [**TF Agents**](https://www.tensorflow.org/agents). Agents is a library for reinforcement learning in Tensorflow.
 - [**Dopamine**](https://github.com/google/dopamine). RL library from Google (
 - [**Stable-Baselines3**](https://stable-baselines3.readthedocs.io/en/master/) - Reliable Reinforcement Learning Implementations
