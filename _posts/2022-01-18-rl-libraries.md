@@ -33,6 +33,5 @@ For other resources (books, courses, videos, etc), please see the resources that
 - [**Vowpal Wabbit**](https://vowpalwabbit.org/)
 
 ## References:
-# Footnotes: 
 [^1]: Karampatziakis, Nikos, Sebastian Kochman, Jade Huang, Paul Mineiro, Kathy Osborne, and Weizhu Chen. “Lessons from Contextual Bandit Learning in a Customer Support Bot.” ArXiv:1905.02219 [Cs, Stat], June 18, 2019. http://arxiv.org/abs/1905.02219.
-2: Phil Winder, [A Comparison of Reinforcement Learning Frameworks: Dopamine, RLLib, Keras-RL, Coach, TRFL, Tensorforce, Coach and More.](https://winder.ai/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/#google-dopamine-https-github-com-google-dopamine)
+[^2]: Phil Winder, [A Comparison of Reinforcement Learning Frameworks: Dopamine, RLLib, Keras-RL, Coach, TRFL, Tensorforce, Coach and More.](https://winder.ai/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/#google-dopamine-https-github-com-google-dopamine)
