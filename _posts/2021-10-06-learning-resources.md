@@ -496,6 +496,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - BOOK Hofmann, Scientific Writing and Communication
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+- [SLIDES - Effective Written Communication: Storyboarding a Technical Report - Mya Poe](http://web.mit.edu/me-ugoffice/communication/writing_process.pdf)
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
