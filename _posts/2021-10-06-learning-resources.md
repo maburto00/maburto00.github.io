@@ -291,6 +291,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 ### Manifolds
 - [YOUTUBE Topology, Manifolds & Differential Geometry](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+- [An introduction to optimization on smooth manifolds. ](https://www.nicolasboumal.net/book/)
 
 <!---separator separator separator separator -->-----
 
