@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Software for Learning Japanese"
+title:  "Software for Japanese Language Learners"
 date:   2020-12-14 16:57:00 +0900
 categories: japanese
 comments: true
@@ -19,6 +19,7 @@ These tools have been very useful while learning japaneseI put here the software
   - AnkiDroid is the app for using Anki on Android, so as with Anki I would suggest: use in moderation (See Windows->Anki below too).
 
 # Chrome Extensions
+- [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) Similar to Rikaikun but even better, however setting it up takes longer the first time. By holding Shift key and positioning the cursor over a work you can see the furigana, the meaning in English and the meaning of individual Kanji.
 - [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en)
   - This extension shows the hiragana and meaning of the word where the cursor is positioned on. It is useful for reading quickly when you already have a good level of japanese but not enough vocabulary. There are some options worth exploring (like pressing C to copy the translation to clipboard). However, since the translation is made word by word, if the sentence is too complex it may be useful to complement with Google Translate to get the full sentence translations.
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
