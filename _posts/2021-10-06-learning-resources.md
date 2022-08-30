@@ -390,6 +390,10 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
+### Latex
+- [YOUTUBE 
+Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+
 ### Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
 - BOOK Boundaries: When to Say Yes, How to Say No to Take Control of Your Life, Henry Cloud, John Townsend.
