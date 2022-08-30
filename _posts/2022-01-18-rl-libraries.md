@@ -12,6 +12,7 @@ For other resources (books, courses, videos, etc), please see the resources that
 ## Frameworks
 
 ### Reinforcement Learning
+- [**CleanRL**](https://github.com/vwxyzjn/cleanrl)
 - [**Garage**](https://github.com/rlworkgroup/garage "Toolkit for developing and evaluating reinforcement learning algorithms.")
 - [**TF Agents**](https://www.tensorflow.org/agents "Agents is a library for reinforcement learning in Tensorflow.")
 - [**Dopamine**](https://github.com/google/dopamine "RL library from Google.")
