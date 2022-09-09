@@ -21,6 +21,7 @@ For other resources (books, courses, videos, etc), please see the resources that
 - [**Unity Machine Learning Agents**](https://unity.com/products/machine-learning-agents)
 - [**Ray RLlib**](https://docs.ray.io/en/master/rllib/ "Industry-Grade Reinforcement Learning (distributed computing)")
 - [**Rliable**](https://github.com/google-research/rliable "Reliable evaluation on reinforcement learning and machine learnings benchmarks.")
+- [**ChainerRL - PFRL**](https://github.com/pfnet/pfrl "PFRL is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using PyTorch.")
 
 ### Contextual bandits
 - Mentioned in [^1]:
