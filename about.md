@@ -25,15 +25,11 @@ For previous finished activities look [HERE](https://maburto00.github.io/previou
 - **IEEE Student Branch**
   - Chair. 
   - We organize events related to science and technology with the support of IEEE.
-  - Website: <https://ieee-sb-naist.github.io/home>
+  - Website: <https://ieee-sb-naist.github.io>
 - **NAIST GSK (Global Student Network)**
   - President.
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
-- **NAIST International Student Ambassador**
-  - Member.
-  - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
-  - Website: <https://www.facebook.com/AmbassadorNAIST>
 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.

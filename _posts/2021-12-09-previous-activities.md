@@ -24,3 +24,7 @@ I will put the activities from the About page that I have finished in this post.
   - Organizer.
   - We meet to study together and comment what we learned at the end. This helps provide some routine, accountability and review with others.
   - Website: <https://www.facebook.com/groups/japanesestudygroupmario>
+- **NAIST International Student Ambassador**
+  - Member.
+  - We provide peer counseling and help in events and activities organized by the [Center for International Students and Scholars](http://www.naist.jp/en/ciss/) in NAIST. 
+  - Website: <https://www.facebook.com/AmbassadorNAIST>
