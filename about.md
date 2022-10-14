@@ -30,7 +30,10 @@ For previous finished activities look [HERE](https://maburto00.github.io/previou
   - President.
   - We organize events and support international and japanese students
   - Website: <https://sites.google.com/view/naistgsk>
-
+- **RL Reading Club**
+  - Co-organizer.
+  - We read and discuss a section of [Sutton's Reinforcement Leaning book](http://incompleteideas.net/book/the-book-2nd.html) every week.
+ 
 # Education
 - **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
 - **Research student, Information Science** (2019 - 2020), Nara Institute of Science and Technology, Japan.
