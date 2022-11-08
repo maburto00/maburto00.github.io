@@ -33,7 +33,12 @@ NOTE: when using Ubuntu from windows, the hard drive will be mounted on /mnt/c/ 
 
 2. Execute OCRmyPDF with the following command (replace a.pdf and o.pdf with the appropiate names):
     
-   `ocrmypdf a.pdf --output-type pdf o.pdf`
+   `ocrmypdf input.pdf --output-type pdf output.pdf`
+
+3. For Japanese (or other languages) just add the option -l with the appropiate option
+
+   `ocrmypdf -l jpn input.pdf --output-type pdf output.pdf`
+
 
 ## Reducing size of scanned PDFs (pdf2ps in Ubuntu)
 I haven't tried in Mac, but must be possible. As for Windows, you can install the Ubuntu terminal from the Windows Store and execute the same steps as for Ubuntu (actually that is what I did).
