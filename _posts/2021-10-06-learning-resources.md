@@ -113,7 +113,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [COURSE CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   - [CS231 Spring 2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 
 - [YOUTUBE 3Blue1Brown, Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-
+- [TOOL: NN-SVG Publication-ready NN-architecture schematics](https://alexlenail.me/NN-SVG/AlexNet.html)
+- 
 <!---separator separator separator separator -->-----
 
 ### Online Learning
