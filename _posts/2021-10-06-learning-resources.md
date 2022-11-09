@@ -65,7 +65,8 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [BOOK Nielsen, Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [BOOK Stevens, Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
 - [COURSE Canzini (NYU), Deep Learning (with PyTorch)](https://atcold.github.io/pytorch-Deep-Learning/)
-
+- [TOOL: NN-SVG Publication-ready NN-architecture schematics](https://alexlenail.me/NN-SVG/AlexNet.html)
+- 
 <!---separator separator separator separator -->-----
 
 ### Dynamic Programming
