@@ -12,9 +12,6 @@ I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Insti
 
 My research topic is on Task Similarity for Transfer Learning in Reinforcement Learning. 
 
-For this, I have been studying Information Geometry, Information Theory, Markov Decision Processes (MDPs) and Partially Observable MPDs (POMDPs), Hidden Markov Models (HMMs), and notions of equivalence and similarity for MDPs, POMDPs and HMMs.
-
-Send me a message if you are interested in any of these ^_^.
 <br>
 <br>
 <br>
