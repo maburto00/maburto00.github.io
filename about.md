@@ -24,11 +24,11 @@ Interests: Machine Learning, Reinforcement Learning, Information Geometry, Infor
 For previous finished activities look [HERE](https://maburto00.github.io/previous-activities).
 - **IEEE Student Branch**
   - Chair. 
-  - We organize events related to science and technology with the support of IEEE.
+  - We participate in events related to science and technology with the support of IEEE.
   - Website: <https://ieee-sb-naist.github.io>
 - **NAIST GSK (Global Student Network)**
-  - President.
-  - We organize events and support international and japanese students
+  - Chair.
+  - We organize the recycling market every semester to support graduating and new students
   - Website: <https://sites.google.com/view/naistgsk>
 - **RL Reading Club**
   - Co-organizer.
