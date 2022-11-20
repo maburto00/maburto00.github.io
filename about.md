@@ -12,6 +12,7 @@ I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Insti
 
 My research topic is on Task Similarity for Transfer Learning in Reinforcement Learning. 
 
+Interests: Machine Learning, Reinforcement Learning, Information Geometry, Information Theory, Competitive Programming.
 <br>
 <br>
 <br>
