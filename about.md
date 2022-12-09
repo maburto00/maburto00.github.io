@@ -48,10 +48,6 @@ For previous finished activities look [HERE](https://maburto00.github.io/previou
     - Lead programmer (mainly using C in Linux) of SSH module for a network security system. 
     - Collaborated to other modules using SFTP and VNC protocols.
 
-# Publications
-- [Understanding Google’s AlphaGo][master-thesis], master’s thesis, Instituto Politecnico Nacional, Mexico City, Mexico, January 2017.
-- [Desarrollo de aplicaciones en Java para vulcanologia][bachelor-thesis] (tr. Development of applications in Java for volcanology), bachelor’s thesis, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico, June 2014.
-
 [mi-lab]: https://sites.google.com/view/milab/
 [naist]: https://www.naist.jp/en/
 [master-thesis]: https://www.saber.cic.ipn.mx/SABERv3/Repositorios/webVerArchivo/25689/1
