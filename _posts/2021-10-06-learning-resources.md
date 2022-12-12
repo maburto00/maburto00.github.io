@@ -372,6 +372,10 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 -----
 -----
 
+### Latex
+- [YOUTUBE 
+Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+
 ### Presentation skills
 - [WEBPAGE Irasutoya - Illustrations commonly used in slides in Japan](https://www.irasutoya.com/)
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
@@ -379,6 +383,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
+### Reference Management
+- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+
+<!---separator separator separator separator -->-----
 
 ### Research Methodology
 **Books**
@@ -403,27 +412,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
-### Reference Management
-- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
-- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
-
-<!---separator separator separator separator -->-----
-
 ### Writing
 - BOOK Hofmann, Scientific Writing and Communication
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
 - [SLIDES - Effective Written Communication: Storyboarding a Technical Report - Mya Poe](http://web.mit.edu/me-ugoffice/communication/writing_process.pdf)
-
-<!---
-SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
---->
-
-
-### Latex
-- [YOUTUBE 
-Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
-
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
