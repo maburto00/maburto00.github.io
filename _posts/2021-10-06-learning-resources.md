@@ -375,6 +375,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 ### Latex
 - [YOUTUBE 
 Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+- [Ph3 Latex Week - Handouts for using latex for research](http://pmaweb.caltech.edu/~phy003/handout_source/latex/current/)
+- [WEBSITE Katex](https://katex.org/)
+- [PAPER How To Write a Paper and Format it Using LATEX](https://hoffman.physics.harvard.edu/Hoffman-example-paper.pdf)
 
 ### Presentation skills
 - [WEBPAGE Irasutoya - Illustrations commonly used in slides in Japan](https://www.irasutoya.com/)
@@ -414,6 +417,7 @@ Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9
 
 ### Writing
 - BOOK Hofmann, Scientific Writing and Communication
+- [PAPER The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7?source=techstories.org)
 - [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
 - [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
 - [SLIDES - Effective Written Communication: Storyboarding a Technical Report - Mya Poe](http://web.mit.edu/me-ugoffice/communication/writing_process.pdf)
