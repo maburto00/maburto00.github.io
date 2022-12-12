@@ -372,6 +372,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 -----
 -----
 
+### Figures
+[SLIDES Preparing figures for publication and presentations](https://www.mrl.ucsb.edu/~seshadri/PreparingFigures.pdf)
+
 ### Latex
 - [YOUTUBE 
 Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
