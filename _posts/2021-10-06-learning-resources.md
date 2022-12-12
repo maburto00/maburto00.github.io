@@ -364,6 +364,73 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 -->-----
 -----
 -----
+
+## Research Methodology
+<!---
+SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
+-->-----
+-----
+-----
+
+### Presentation skills
+- [WEBPAGE Irasutoya - Illustrations commonly used in slides in Japan](https://www.irasutoya.com/)
+- [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
+- [WEBPAGE Beautiful AI - Software guided formatting for slides to make them look cool](https://www.beautiful.ai/)
+
+<!---separator separator separator separator -->-----
+
+
+### Research Methodology
+**Books**
+- BOOK Blaxter, How to research
+- BOOK Cryer, The Research Student's Guide to Success
+- BOOK Dunleavy, Authoring a PhD
+- [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
+- ★BOOK Phillips, How to Get a PhD
+
+**YouTube**
+- [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
+- [YOUTUBE PhD Coffee Time](https://www.youtube.com/channel/UC2YqZKndK7HxCnbe06ZCEuw)
+- [YOUTUBE Shady Attia](https://www.youtube.com/user/ShadyGalal/featured)
+- [YOUTUBE Simon Clark](https://www.youtube.com/user/SimonOxfPhys)
+- [YOUTUBE Surviving and Thriving in Higher Education](https://www.youtube.com/channel/UC4jExrOEqgZmJM6EmziU6NA)
+- [YOUTUBE Tom Nicholas - Essay tips, PhD Vlog](https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg)
+
+**Others**
+- [SLIDES Getting a PhD (in Computer Science) - Doing Good Research](https://cgi.csc.liv.ac.uk/~frans/Seminars/doingAphdSeminarAI2007.pdf)
+- [SLIDES How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
+- [WEBSITE Attending an academic conference - Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html)
+
+<!---separator separator separator separator -->-----
+
+### Reference Management
+- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+
+<!---separator separator separator separator -->-----
+
+### Writing
+- BOOK Hofmann, Scientific Writing and Communication
+- [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
+- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
+- [SLIDES - Effective Written Communication: Storyboarding a Technical Report - Mya Poe](http://web.mit.edu/me-ugoffice/communication/writing_process.pdf)
+
+<!---
+SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
+--->
+
+
+### Latex
+- [YOUTUBE 
+Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
+
+
+<!---
+SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
+-->-----
+-----
+-----
+
 ## Others
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
@@ -392,9 +459,6 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
-### Latex
-- [YOUTUBE 
-Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73)
 
 ### Personal Development
 - BOOK Aprende a quererte a ti mismo, Walter riso.
@@ -427,48 +491,12 @@ Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9
 
 <!---separator separator separator separator -->-----
 
-### Presentation skills
-- [WEBPAGE Irasutoya - Illustrations commonly used in slides in Japan](https://www.irasutoya.com/)
-- [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
-- [WEBPAGE Beautiful AI - Software guided formatting for slides to make them look cool](https://www.beautiful.ai/)
-
-<!---separator separator separator separator -->-----
-
 ### Productivity
 - BOOK Allen, Getting Things Done
 - BOOK Young, Ultralearning
 - BOOK Oakley, A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
 - [COURSE Learning how to learn(Oakley - McMaster University)](https://www.coursera.org/learn/learning-how-to-learn)
 - [COURSE Mindshift (Oakley - McMaster University](https://www.coursera.org/learn/mindshift)
-
-<!---separator separator separator separator -->-----
-
-### Reference Management
-- [TUTORIAL The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage)
-- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
-
-<!---separator separator separator separator -->-----
-
-### Research Methodology
-**Books**
-- BOOK Blaxter, How to research
-- BOOK Cryer, The Research Student's Guide to Success
-- BOOK Dunleavy, Authoring a PhD
-- [BOOK JSPS, For the sound development of science](https://www.jsps.go.jp/j-kousei/data/rinri_e.pdf)
-- ★BOOK Phillips, How to Get a PhD
-
-**YouTube**
-- [YOUTUBE James Hayton Phd](https://www.youtube.com/channel/UCHpMmk47IxdZc2tnc3TbuaQ)
-- [YOUTUBE PhD Coffee Time](https://www.youtube.com/channel/UC2YqZKndK7HxCnbe06ZCEuw)
-- [YOUTUBE Shady Attia](https://www.youtube.com/user/ShadyGalal/featured)
-- [YOUTUBE Simon Clark](https://www.youtube.com/user/SimonOxfPhys)
-- [YOUTUBE Surviving and Thriving in Higher Education](https://www.youtube.com/channel/UC4jExrOEqgZmJM6EmziU6NA)
-- [YOUTUBE Tom Nicholas - Essay tips, PhD Vlog](https://www.youtube.com/channel/UCxt2r57cLastdmrReiQJkEg)
-
-**Others**
-- [SLIDES Getting a PhD (in Computer Science) - Doing Good Research](https://cgi.csc.liv.ac.uk/~frans/Seminars/doingAphdSeminarAI2007.pdf)
-- [SLIDES How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
-- [WEBSITE Attending an academic conference - Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html)
 
 <!---separator separator separator separator -->-----
 
@@ -499,12 +527,4 @@ Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9
 
 <!---separator separator separator separator -->-----
 
-### Writing
-- BOOK Hofmann, Scientific Writing and Communication
-- [WEBSITE Strunk, The Elements of Style](https://www.bartleby.com/141/index.html)
-- [WEBSITE MIT - Citation Management and Writing Tools: Home](https://libguides.mit.edu/c.php?g=695148&p=4928673)
-- [SLIDES - Effective Written Communication: Storyboarding a Technical Report - Mya Poe](http://web.mit.edu/me-ugoffice/communication/writing_process.pdf)
 
-<!---
-SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
---->
