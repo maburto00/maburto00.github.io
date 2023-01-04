@@ -383,7 +383,7 @@ Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9
 - [PAPER How To Write a Paper and Format it Using LATEX](https://hoffman.physics.harvard.edu/Hoffman-example-paper.pdf)
 
 ### Literature Research
-- [Paper digest](https://www.paper-digest.com/)
+- [Paper digest](https://www.paperdigest.org/)
 - [Elicit](https://elicit.org/)
 - [Litmaps](https://www.litmaps.com/)
 - [Research Rabbit](https://www.researchrabbit.ai/)
