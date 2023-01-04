@@ -382,6 +382,13 @@ Dr. Trefor Bazett - Latex Tutorial](https://www.youtube.com/playlist?list=PLHXZ9
 - [WEBSITE Katex](https://katex.org/)
 - [PAPER How To Write a Paper and Format it Using LATEX](https://hoffman.physics.harvard.edu/Hoffman-example-paper.pdf)
 
+### Literature Research
+- [Paper digest](https://www.paper-digest.com/)
+- [Elicit](https://elicit.org/)
+- [Litmaps](https://www.litmaps.com/)
+- [Research Rabbit](https://www.researchrabbit.ai/)
+- [Connected Papers](https://www.connectedpapers.com/)
+
 ### Presentation skills
 - [WEBPAGE Irasutoya - Illustrations commonly used in slides in Japan](https://www.irasutoya.com/)
 - [WEBPAGE How To Use Precision Questioning and Answering for Better Results](http://sourcesofinsight.com/precision-questions-and-precision-answers/)
