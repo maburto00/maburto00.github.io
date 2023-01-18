@@ -10,39 +10,40 @@ comments: true
     ol ol ol { list-style-type: lower-roman; }
 </style>
 
-These are the notes I took while setting up tensorflow on my computer. The notes are very messy since they were originally not intended for publication. If I find some time I will polish them a little bit. Having said so, I hope someone find them useful.
+These are the notes I took while setting up TensorFlow in Ubuntu on my computer, so probably are more useful to me than anyone else. I also include the steps for installing Ubuntu alongside Windows with Dual Boot. The notes are very messy since they were originally not intended for publication. If I find some time I will polish them a little bit. 
+
   
 # Preparation on Windows before installing Ubuntu
-1. Create recovery USB with BurnRecovery program
+1. Create a recovery USB (using BurnRecovery program in pa
 2. Disable Fast startup (https://www.tenforums.com/tutorials/4189-turn-off-fast-startup-windows-10-a.html)
     1. Configure with graphic interface 
-3. Liberate space from C disk for Ubuntu (100GB)
+3. Liberate space from the C disk for Ubuntu (100GB)
 4. Change boot order in BIOS
 
 # Ubuntu Installation
 1. Install ubuntu using a bootable USB.
     1. PROBLEM: There was a problem with the graphics card drivers while installing that prevented the installation program to continue. To fix temporarily to be able to finish the installation:
-        1. Shutdown and start the computer again with the USB attached.
-        2. When grub screen appears, select "Grub Ubuntu option" (BUT DONT PRESS ENTER), press 'e', find the line that starts with 'linux' and add 'modprobe.blacklist=nouveau after: quiet splash'. 
+        1. Shut down and start the computer again with the USB attached.
+        2. When the grub screen appears, select "Grub Ubuntu option" (BUT DONT PRESS ENTER), press 'e', find the line that starts with 'linux' and add 'modprobe.blacklist=nouveau after: quiet splash'. 
 2. Partitions configuration (configure manually to prevent accidentally erasing Windows):  
-    1. swap 6144MB primary - end of the parition 
+    1. swap 6144MB primary - end of the partition 
     1. root / (all space left) primary - beginning of the partition 
 3. Restart 
-4. PROBLEM Error shows when stargint Ubuntu: Couldn't get size: 0x800000000000000e. 
-5. PROBLEM Booted directly to windows, so fix the efi [3] 
-    1. Note: If after installing Ubuntu, you boot directly in Windows, check in UEFI settings to change the boot order. If you see no option to set the boot to Ubuntu, you need to fix it from within Windows. When you are in Windows desktop, hover the mouse in left corner, right click and select administrator’s command prompt. Then run the following command: 
+4. PROBLEM Error shows when starting Ubuntu: Couldn't get size: 0x800000000000000e. 
+5. PROBLEM Booted directly to windows, so fix the EFI [3] 
+    1. Note: If after installing Ubuntu, you boot directly in Windows, check in UEFI settings to change the boot order. If you see no option to set the boot to Ubuntu, you need to fix it from within Windows. When you are on the Windows desktop, hover the mouse to the left corner, right-click, and select administrator’s command prompt. Then run the following command: 
     1. bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi 
-6. PROBLEM After trying to start Ubuntu a error appears (invalid key) 
+6. PROBLEM After trying to start Ubuntu an error appears (invalid key) 
     1. Enroll MOK in BIOS (or disable MOK at all, less secure but way easier)
-    1. Put password
-7. PROBLEM After restart again a violation error appears  
+    1. Put the password
+7. PROBLEM After restarting again a violation error appears  
     1. Change UEFI Hard Disk Drive BBS Priorities and boot order 
-8. PROBLEM The graphic card driver does not work correctly (cannot login)
+8. PROBLEM The graphic card driver does not work correctly (cannot log in)
     1. Edit on grub blacklist 
     2. Update on grub blacklist
-    3. Get name of nvidia card "lspci \|grep -i nvidia" 
+    3. Get the name of the nvidia card using "lspci \|grep -i nvidia" 
         1. 01:00.0 VGA compatible controller: NVIDIA Corporation GP104GLM [Quadro P3000 Mobile] (rev a1) 
-    4. Software & updates -> Additional Drivers -> Using NVIDIA 435 (propietary test) [7] 
+    4. Software & updates -> Additional Drivers -> Using NVIDIA 435 (proprietary test) [7] 
     5. Restart 
 
 # Setup TF with Docker
