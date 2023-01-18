@@ -508,16 +508,15 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 <!---separator separator separator separator -->-----
 
 ### Sex, Gender and Orientation
-- [WEBSITE CrossYaas Podcast](https://crossyaaspodcast.com/).Podcast related to crossdressing where the host interviews other people as them that crossdress, and discuss about their experience, why they do it, what fears and problems they face.
-  - [INSTAGRAM CrossYaas Podcast](https://www.instagram.com/crossyaaspodcast/). 
-  - [YOUTUBE CrossYass Podcast](https://www.youtube.com/c/crossyaaspodcast)
-- [YOUTUBE Sex vs Gender vs Orientation, Psych2Go](https://www.youtube.com/watch?v=XN-wD8O9tRI)
+- [WEBSITE The Genderbread Person](https://www.genderbread.org/) Visual tool to explain difference between Anatomical Sex, Gender Identity, Gender Expression and Sexual Attraction and Romantic Attraction. 
+- [YOUTUBE Sex vs Gender vs Orientation, Psych2Go](https://www.youtube.com/watch?v=XN-wD8O9tRI) 5 minute explanation of the difference between sex, gender and orientation.
 - [YOUTUBE Queer, PhilosophyTube](https://www.youtube.com/watch?v=5Hi6j2UXEZM&t=421s)
   - Reflection on queer, straight and bisexual identities, and its ambiguity.
-- [(**WARNING: A little bit NSFW**) YOUTUBE Men, Contrapoints](https://www.youtube.com/watch?v=S1xxcKCGljY)
-  - A very interesting reflection on masculinity in the current age from the perspective of a trans woman. She discusses some identity issues men have given the "toxicity" associated to masculanity, and the need to redefine it for the current age. Really recommended!
+- [YOUTUBE Men, Contrapoints](https://www.youtube.com/watch?v=S1xxcKCGljY)
+  - Interesting reflection on masculinity in the current age from the perspective of a transgender woman. She discusses some identity issues men have given the "toxicity" associated with masculinity, and the need to redefine it for the current age. Really recommended!
 - [YOUTUBE Identity After Authenticity: Abigail Thorn's Profile, Carefree Wandering](https://www.youtube.com/watch?v=-QMHOsfjHq0&t=27s)
   - Interesting analysis about the coming out video of Abigail Thorn, and how identity formation works in current times.
+- [YOUTUBE CrossYass Podcast](https://www.youtube.com/c/crossyaaspodcast) Podcast where the host interviews crossdresser and ask about their experience, why they do it, and what fears and problems they face. I found it insightful as an alternative perspective to gender identity and expression.
 
 <!---separator separator separator separator -->-----
 
