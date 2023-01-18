@@ -5,7 +5,7 @@ date:   2022-12-12 13:14:00 +0900
 categories: atcoder
 ---
 
-Solution and explanations in my own words of some of AtCoder problems.
+The idea is to write here brief explanation of the solutions of some of AtCoder problems. The goal is to have a reference for the future of past problems, and also improve my own understanding by writing down the explanations.
 
 **Contents**
 * TOC
@@ -13,8 +13,17 @@ Solution and explanations in my own words of some of AtCoder problems.
 
 
 ## DP educational contest
-
 [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
+
+### A - 
+### B - 
+### C - 
+### D - 
+### E - 
+### F - 
+### G - 
+### H - 
+### I - 
 
 
 ## References
