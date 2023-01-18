@@ -15,15 +15,15 @@ The idea is to write here brief explanation of the solutions of some of AtCoder 
 ## DP educational contest
 [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
-### A - 
-### B - 
-### C - 
-### D - 
-### E - 
-### F - 
-### G - 
-### H - 
-### I - 
+### A - Frog 1
+### B - Frog 2
+### C - Vacation
+### D - Knapsack 1
+### E - Knapsack 2
+### F - LCS
+### G - Longest Path
+### H - Grid 1
+### I - Coins
 
 
 ## References
