@@ -8,9 +8,9 @@ permalink: '/'
 <img src="/assets/profile_picture_12.jpg" align="left"  height=250px alt="profile_picture_9_copy" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
 <!-- ![](/assets/profile_picture_11.jpg) -->
 
-I am a PhD student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology (NAIST)][naist].
+I am a doctoral student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology (NAIST)][naist].
 
-My research topic is on Task Similarity for Transfer Learning in Reinforcement Learning. 
+My research topic is Task Similarity for Transfer Learning in Reinforcement Learning. 
 
 Interests: Machine Learning, Reinforcement Learning, Information Geometry, Information Theory, Competitive Programming.
 <br>
@@ -32,10 +32,10 @@ For previous finished activities look [HERE](https://maburto00.github.io/previou
   - Website: <https://sites.google.com/view/naistgsk>
 - **RL Reading Club**
   - Co-organizer.
-  - We read and discuss a section of [Sutton's Reinforcement Leaning book](http://incompleteideas.net/book/the-book-2nd.html) every week.
+  - We read and discuss a section of [Sutton's Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html) every week.
  
 # Education
-- **PhD student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
+- **Ph.D. student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
 - **Research student, Information Science** (2019 - 2020), Nara Institute of Science and Technology, Japan.
 - **M.Sc., Computer Science** (2014 - 2017), Centro de Investigacion en Computacion, Instituto Politecnico Nacional, Mexico.
 - **B.Eng., Computer Engineering** (2008 - 2014), Facultad de Ingenieria, Universidad Nacional Autonoma de Mexico, Mexico.
@@ -46,7 +46,7 @@ For previous finished activities look [HERE](https://maburto00.github.io/previou
     - Collaborated on Data Science projects implemented on these platforms.
 - **REDCONTEL, Mexico. Software Engineer**, part-time (September 2009 - August 2013), full-time (September 2013 - July 2014). 
     - Lead programmer (mainly using C in Linux) of SSH module for a network security system. 
-    - Collaborated to other modules using SFTP and VNC protocols.
+    - Collaborated with other modules using SFTP and VNC protocols.
 
 [mi-lab]: https://sites.google.com/view/milab/
 [naist]: https://www.naist.jp/en/
