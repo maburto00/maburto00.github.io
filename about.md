@@ -5,7 +5,7 @@ list_title: ' '
 permalink: '/'
 ---
 <!-- <img src="/assets/profile_picture_11.jpg" align="left"  height=250px alt="profile_picture_11" style="vertical-align:middle;margin:0px 50px 0px 0px"/> -->
-<img src="/assets/profile_picture_12.jpg" align="left"  height=200px alt="profile_picture_9_copy" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
+<img src="/assets/profile_picture_12.jpg" align="left"  height=175px alt="profile_picture_9_copy" style="vertical-align:middle;margin:0px 50px 0px 0px"/>
 <!-- ![](/assets/profile_picture_11.jpg) -->
 
 I am a doctoral student at the [Mathematical Informatics Lab][mi-lab], at [Nara Institute of Science and Technology (NAIST)][naist].
@@ -13,10 +13,6 @@ I am a doctoral student at the [Mathematical Informatics Lab][mi-lab], at [Nara 
 My research topic is Task Similarity for Transfer Learning in Reinforcement Learning. 
 
 Interests: Machine Learning, Reinforcement Learning, Information Geometry, Information Theory, Competitive Programming.
-<br>
-<br>
-<br>
-<br>
 <br>
 
 # Education
