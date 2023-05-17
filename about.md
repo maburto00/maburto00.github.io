@@ -19,21 +19,6 @@ Interests: Machine Learning, Reinforcement Learning, Information Geometry, Infor
 <br>
 <br>
 
-
-# Activities (contact me if you want to join)
-For previous finished activities look [HERE](https://maburto00.github.io/previous-activities).
-- **IEEE Student Branch**
-  - Chair. 
-  - We participate in events related to science and technology with the support of IEEE.
-  - Website: <https://ieee-sb-naist.github.io>
-- **NAIST GSK (Global Student Network)**
-  - Chair.
-  - We organize the recycling market every semester to support graduating and new students
-  - Website: <https://sites.google.com/view/naistgsk>
-- **RL Reading Club**
-  - Co-organizer.
-  - We read and discuss a section of [Sutton's Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html) every week.
- 
 # Education
 - **Ph.D. student, Information Science** (2020 - present), Nara Institute of Science and Technology, Japan.
 - **Research student, Information Science** (2019 - 2020), Nara Institute of Science and Technology, Japan.
