@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "★Learning resources"
-date:   2021-10-06 10:53:00 +0900
+date:   2023-07-09 13:00:00 +0900
 categories: general
 permalink: learning-resources
 comments: true
@@ -54,7 +54,7 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 - [AtCoder](https://atcoder.jp/)
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
-
+- [アルゴ式](https://algo-method.com/)
 <!---separator separator separator separator -->-----
 
 ### Computer Graphics
