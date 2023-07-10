@@ -261,6 +261,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 ### Information Theory
 - BOOK Cover, Elements of Information Theory
 - [BOOK MacKey, Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html)
+- [BOOK Polyanskiy, Information Theory: From Coding to Learning](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
+- BOOK Hans and Kobayashi, Mathematics of Information and Coding
+- BOOK Csiszar, Information Theory - Coding Theorems for Discrete Memoryless Systems
+- BOOK Raginsky and Sason, Concentration of Measure Inequalities in Information Theory, Communications, and Coding
+- BOOK Chaitin, Algorithmic Information Theory
 
 <!---separator separator separator separator -->-----
 
