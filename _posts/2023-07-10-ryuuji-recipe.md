@@ -23,6 +23,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 ### Infinite Cabbage
 https://www.youtube.com/watch?v=6Uj6tN9vH_o
+- kyabetsu
+- shirasu
+- shio/goma abura/ aji no moto/black pepper
 <!---separator separator separator separator -->-----
 
 ### Cabbage and bacon
