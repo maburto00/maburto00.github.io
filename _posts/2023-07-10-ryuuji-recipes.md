@@ -6,7 +6,7 @@ categories: general
 comments: true
 ---
 
-I put here the recipes from Ryuuji Channel that I have tried. This is mainly for my convenience since I can easily know the ingredients needed when I go to the supermarket.
+I put here the recipes from Ryuuji Channel that I have tried. This is mainly for my convenience since I can easily know the ingredients needed at the supermarket.
 
 **Contents**
 * TOC
@@ -22,10 +22,11 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 ## Vegetables
 
 ### Infinite Cabbage
-https://www.youtube.com/watch?v=6Uj6tN9vH_o
-- kyabetsu
-- shirasu
-- shio/goma abura/ aji no moto/black pepper
+[Video](https://www.youtube.com/watch?v=6Uj6tN9vH_o)
+Ingredients
+- キャベツ
+- しらす　（またはベーコン）
+- 塩・ごま油・味の素・黒胡椒
 <!---separator separator separator separator -->-----
 
 ### Cabbage and bacon
