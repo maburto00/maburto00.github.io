@@ -47,9 +47,9 @@ Ingredients
 [Video](https://www.youtube.com/watch?v=8xGLL4b2W1M)
 
 Ingredients:
--
--
--
+- a
+- b
+- c
 <!---separator separator separator separator -->-----
 
 ### Lettuce 
@@ -59,9 +59,9 @@ Ingredients:
 Video
 
 Ingredients:
--
--
--
+- a
+- b
+- c
 
 <!---separator separator separator separator -->-----
 
@@ -72,9 +72,9 @@ Ingredients:
 [Video](https://www.youtube.com/watch?v=QOTtp0Fi4pQ)
 
 Ingredients:
--
--
--
+- a
+- b
+- c
 
 <!---separator separator separator separator -->-----
 
@@ -85,9 +85,9 @@ Ingredients:
 [Video](https://www.youtube.com/watch?v=IEaQYQrTRB4)
 
 Ingredients:
--
--
--
+- a
+- b
+- c
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
@@ -124,9 +124,9 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 [Video](https://www.youtube.com/watch?v=VrOPKty4JhQ)
 
 Ingredients:
--
--
--
+- a
+- b
+- c
 
 <!---separator separator separator separator -->-----
 
@@ -135,6 +135,11 @@ Ingredients:
 <!---separator separator separator separator -->-----
 
 [Video](https://www.youtube.com/watch?v=hsUHqEknOI4)
+
+Ingredients:
+- a
+- b
+- c
 
 <!---separator separator separator separator -->-----
 
@@ -145,8 +150,8 @@ Ingredients:
 [Video](https://www.youtube.com/watch?v=iDlrzEYdBPk)
 
 Ingredients:
-  - a
   - b
+  - a
 
 <!---
 SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR 
