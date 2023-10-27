@@ -343,6 +343,14 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 -----
 
 ### ★Japanese
+**Kansai-ben**
+- [YOUTUBE VIDEO 日本語の森 - 【ひきこ森ライブ】#03 関西人のうちが、関西弁教えたんで。](https://www.youtube.com/watch?v=QgOQTquX30I)
+- [YOUTUBE CHANNEL YouTube関西弁講座-大阪おっちゃんねる](https://www.youtube.com/@kansaiben)
+  - [YOUTUBE VIDEO 【奈良弁講座】奈良県の方言をご紹介します【方言女子】](https://www.youtube.com/watch?v=UMPGrZz-uzs)
+
+**Nara-ben**
+- [YOUTUBE CHANNEL 上岡ウルフの奈良弁ch](https://www.youtube.com/@naraben)
+
 **Books**
 - BOOK Minna no Nihongo Series
 - BOOK 日本語総まとめ　Nihongo soumatome series
