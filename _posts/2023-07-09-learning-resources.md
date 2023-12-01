@@ -144,6 +144,13 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 
 <!---separator separator separator separator -->-----
 
+### Programming Languages
+- BOOK Anthony Williams, 2019, C++ Concurrency in Action
+- [WEBSITE cppreference.com](https://en.cppreference.com/w/)
+- [WEBSITE C++11 FAQ](https://www.stroustrup.com/C++11FAQ.html)
+
+<!---separator separator separator separator -->-----
+
 ### Quantum Computing
 - [BOOTCAMP The Quantum Wave in Computing Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/quantum-2020-boot-camp)
   - [TALK Ewin Tang, Quantum-Inspired Classical Linear Algebra](https://www.youtube.com/watch?v=5yBtrX_jUIs)
