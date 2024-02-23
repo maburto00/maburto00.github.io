@@ -10,14 +10,15 @@ categories: research
 For more RL application oriented resources (which I would say you should learn at least a enough before going into theory) see Learning Resources -> RL in my other post.
 
 ## Books
-- RL Theory book
+- [RL Theory book (Available for free from the author)](https://rltheorybook.github.io/)
 - Puterman - MDPs
-- Bandit Algorithms
-- Morimura RL book (not as theoretical, but in the middle between theory and application)
+- [Bandit Algorithms (Available for free from the author)](https://tor-lattimore.com/downloads/book/book.pdf)
+- [Morimura RL book (not as theoretical, but in the middle between theory and application)](https://bookclub.kodansha.co.jp/product?item=0000275420)
 
 ## Papers
-- Jaakaal
-- Kakade Thesis
+- Q-learning convergence:
+  - Jaakaal
+  - Kakade Thesis
 
 ## Courses
 - Nan Jiang Statistical RL course
