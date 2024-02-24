@@ -5,9 +5,7 @@ date:   2024-02-23 16:23:00 +0900
 categories: research
 ---
 
-"WORK IN PROGRESS"
-
-For more RL application oriented resources (which I would suggest to learn first at least a bit before delving into theory) see the section [Reinforcement Learning in my post Learning resources](https://maburto00.github.io/learning-resources#reinforcement-learning).
+See also the section [Reinforcement Learning in my post of Learning resources](https://maburto00.github.io/learning-resources#reinforcement-learning).
 
 ## Books
 - [RL Theory book (Available for free from the author)](https://rltheorybook.github.io/)
@@ -18,8 +16,8 @@ For more RL application oriented resources (which I would suggest to learn first
 ## Papers
 - Q-learning convergence:
   - Jaakaal
-  - Kakade Thesis
-  - 
+  - Sham Kakade PhD Thesis
+    
 ## Courses 
 - [Nan Jiang RL course](https://nanjiang.cs.illinois.edu/cs443/)
   - NOTE: since this is a running course check the links inside the provided website to previous semesters for slides/notes
@@ -29,8 +27,8 @@ For more RL application oriented resources (which I would suggest to learn first
 
 # Others
 - [Theory of RL program](https://simons.berkeley.edu/programs/theory-reinforcement-learning)
-  - 
-
+  - [Theory of Reinforcement Learning Boot Camp](https://simons.berkeley.edu/workshops/theory-reinforcement-learning-boot-camp)
+  - [Deep Reinforcement Learning](https://simons.berkeley.edu/workshops/deep-reinforcement-learning#simons-tabs)
 ## YouTube
 - 2021 RL Theory Course [Website](https://rltheory.github.io/) [Youtube](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIx6_UVxwUBFca3cDnl9DrNW) 
 - 2022 RL Theory Course [Website](https://rltheory.github.io/) [Youtube](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC)
