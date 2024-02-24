@@ -16,10 +16,14 @@ See also the section [Reinforcement Learning in my post Learning resources](http
   - https://github.com/higgsfield/RL-Adventure
   - https://github.com/henanmemeda/RL-Adventure-2
 - See the papers cited in these website
-
-# Website
+  - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+  - 
+## Websites
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
-  - I think the library is outdated and it is better to use more modern libraries (dopamine; ray_rl; etc), although I might be wrong. The most important for me about this website is that it provides a good summary of the most important developments in Deep RL for value-based and policy gradient methods.
+- I think the library is outdated and it is better to use more modern libraries (dopamine; ray_rl; etc), although I might be wrong. The most important for me about this website is that it provides a good summary of the most important developments in Deep RL for value-based and policy gradient methods.
+
+## Workshops
+- [Deep RL Workshop](https://simons.berkeley.edu/workshops/deep-reinforcement-learning#simons-tabs)
 
 ## Courses 
 - Silver RL course
