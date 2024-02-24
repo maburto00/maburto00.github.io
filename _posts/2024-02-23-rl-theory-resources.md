@@ -25,9 +25,12 @@ See also the section [Reinforcement Learning in my post of Learning resources](h
   - NOTE: since this is a running course check the links inside the provided website to previous semesters for slides/notes
 - [Wen Sun and Sham Kakade - Foundations of RL course](https://wensun.github.io/CS6789_fall_2021.html)
 
-# Others
+# Workshops
 - [Theory of RL program](https://simons.berkeley.edu/programs/theory-reinforcement-learning)
   - [Theory of Reinforcement Learning Boot Camp](https://simons.berkeley.edu/workshops/theory-reinforcement-learning-boot-camp)
+  - [Mathematics of Online Decision Making](https://simons.berkeley.edu/workshops/mathematics-online-decision-making#simons-tabs)
+    - NOTE: these talks are not necessarily on RL methods but on algorithms that process data in an online manner (instead of on batches of fixed data) which is useful for example when the data is continually being updated or when it is so large that the whole batch cannot fit in the memory of the computer.
+  - [Reinforcement Learning from Batch Data and Simulation](
   - [Deep Reinforcement Learning](https://simons.berkeley.edu/workshops/deep-reinforcement-learning#simons-tabs)
 ## YouTube
 - 2021 RL Theory Course [Website](https://rltheory.github.io/) [Youtube](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIx6_UVxwUBFca3cDnl9DrNW) 
