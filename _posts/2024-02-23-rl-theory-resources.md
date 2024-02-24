@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RL Theory useful learning resources "
+title:  "RL theory learning resources "
 date:   2024-02-23 16:23:00 +0900
 categories: research
 ---
