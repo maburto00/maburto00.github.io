@@ -20,6 +20,8 @@ Here I wrote a brief explanation of how to install and use OCRmyPDF. You can see
 ### Installation on Ubuntu
 1. Install using the following command:
 ``sudo apt-get install ocrmypdf``
+``sudo apt install tesseract-ocr-jpn``
+``sudo apt install tesseract-ocr-jpn-vert``
 
 ### Installation on Windows
 My suggestion is to install "Ubuntu" from the Windows Store to have access to an Ubuntu terminal from Windows and install from there using the previous instructions. 
@@ -38,6 +40,7 @@ NOTE: when using Ubuntu from windows, the hard drive will be mounted on /mnt/c/ 
 3. For Japanese (or other languages) just add the option -l with the appropiate option
 
    `ocrmypdf -l jpn input.pdf --output-type pdf output.pdf`
+
 
 
 ## Reducing size of scanned PDFs (pdf2ps in Ubuntu)
