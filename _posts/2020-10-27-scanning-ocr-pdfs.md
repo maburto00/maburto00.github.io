@@ -11,7 +11,7 @@ vFlat  is an android app that makes it very fast to scan books to JPG and export
 https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US
 
 ## OCRmyPDF (Tool for making scanned PDFs searchable)
-I found this tool very useful so I want to share it here. This is just a brief explanation of how to install and use OCRmyPDF, you can see detailed instructions in [OCRmyPDF Documentation](https://ocrmypdf.readthedocs.io/en/latest/index.html)
+Here I wrote a brief explanation of how to install and use OCRmyPDF. You can see detailed instructions in [OCRmyPDF Documentation](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 
 ### Installation on Mac
 1. Install using the following command:

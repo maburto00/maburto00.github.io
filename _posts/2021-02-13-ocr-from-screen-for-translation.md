@@ -13,7 +13,7 @@ These tools are useful for cases when you cannot select and copy the text direct
 
 ## Windows
 - [★Capture2text](http://capture2text.sourceforge.net/)
-  - This is a very powerful tool. Please read the manual to really take out all its potential.
+  - This is a very powerful tool. Please read the manual to use at its full potential.
 
 ## Mac
 - [capture2text OCR Mac Alternative with Automator](https://www.youtube.com/watch?v=gf1c1RXzphE)
