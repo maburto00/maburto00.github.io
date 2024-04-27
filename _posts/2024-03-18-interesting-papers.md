@@ -8,7 +8,13 @@ comments: true
 
 I could use Zotero to classify and store them, but by having a post I can have quick access to those papers that have been more impactful to me, and review them if necessary. 
 
-Surprising
-- Pennycook, Gordon, et al. "On the reception and detection of pseudo-profound bullshit." Judgment and Decision making 10.6 (2015): 549-563.
-- Shannon, Claude E. "The bandwagon." IRE transactions on Information Theory 2.1 (1956): 3.
-- Sutton, Richard. "The bitter lesson." Incomplete Ideas (blog) 13.1 (2019): 38.
+## Thought provoking
+- Pennycook (2015). On the reception and detection of pseudo-profound bullshit.
+- Shannon (1956). The bandwagon.
+- Sutton (2019). The bitter lesson.
+- Skinner (1956), A case history in scientific method.
+
+## Information Geometry
+- Kakade (2001). A natural policy gradient.
+- Amari (1998). Natural gradient works efficiently in learning.
+- 
