@@ -50,6 +50,11 @@ I haven't tried in Mac, but must be possible. As for Windows, you can install th
    
    `ps2pdf -dPDFSETTINGS=/ebook BIGFILE.pdf SMALLFILE.pdf`
 
+## Reducing size of scanned PDFs (Even larger reduction)
+Reference: [https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-with-pdftk/](https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-with-pdftk/)
+`pdf2ps large.pdf very_large.ps`
+`ps2pdf very_large.ps small.pdf`
+
 
 
 ## References
