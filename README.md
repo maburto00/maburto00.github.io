@@ -3,7 +3,6 @@ Setup
 ```sudo apt-get update```
 ```sudo apt-get install ruby-full build-essential```
 ```sudo apt install nodejs```
-```bundle config set --local path 'vendor/bundle'```
 ```bundle install```
 
 udo apt-get install ruby-full build-essential zlib1g-dev

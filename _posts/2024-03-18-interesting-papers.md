@@ -6,9 +6,9 @@ categories: personal
 comments: true
 ---
 
-I could use Zotero to classify and store them, but by having a post I can have quick access to those papers that have been more impactful to me, and review them if necessary. 
+Some papers that have been impactful to my thinking.
 
-## Thought provoking
+## Thought-provoking
 - Pennycook (2015). On the reception and detection of pseudo-profound bullshit.
 - Shannon (1956). The bandwagon.
 - Sutton (2019). The bitter lesson.
@@ -17,4 +17,3 @@ I could use Zotero to classify and store them, but by having a post I can have q
 ## Information Geometry
 - Kakade (2001). A natural policy gradient.
 - Amari (1998). Natural gradient works efficiently in learning.
-- 

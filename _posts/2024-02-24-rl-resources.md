@@ -10,6 +10,10 @@ See also the section [Reinforcement Learning in my post of Learning resources](h
 - [COURSE DeepMind RL Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [YOUTUBE RL by the book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
 
+**Contents**
+* TOC
+{:toc}
+
 ## Theory
 
 ### Books
@@ -47,16 +51,16 @@ See also the section [Reinforcement Learning in my post of Learning resources](h
 
 ### Suggested learning roadmap
 1. Prerrequisites
-  1. Learn ML basics (regression; classification; NNs basics)
-  2. Learn RL basics (value iteration; policy iteration; td; q-learning)
-    a. Read Ch1-Ch4 of Sutton's book (do not take too long on small details for the first read)
-    b. Watch Silver's RL lectures, Levine's DRL lectures, Abbeel Foundations of RL lectures 
-    c. Implement Q-Learning in a simple environment (e.g. recycling robot in Sutton book; any gridworld from Sutton's book). A better suggestion is to try to replicate an experiment from Sutton's book and try to get the same discounted reward graph. You will notice you need to do a lot of debugging to make it work, and that the actual experiments have a lot of noise so that is why usually we average the results over many trials. In my opinion, only after implementing you can get a real understanding of the methods.
-  3. For people with no mathematical background (my case when starting PhD), I suggest reading
-    1. Real Analysis book (as much as needed; to be honest I still lack a lot of knowledge in this area). (e.g. Axler's MIRA supplementary material book which discusses supremum/infimum/ and other concepts that are used a lot in theory papers)
-    2. Linear Algebra, both the matrix setting (e.g. Gilbert Strange book/course) and vector space setting (e.g. Axler's Linear Algebra Done Right)
+    1. Learn ML basics (regression; classification; NNs basics)
+    2. Learn RL basics (value iteration; policy iteration; td; q-learning)
+        1. Read Ch1-Ch4 of Sutton's book (do not take too long on small details for the first read)
+        2. Watch Silver's RL lectures, Levine's DRL lectures, Abbeel Foundations of RL lectures 
+        3. Implement Q-Learning in a simple environment (e.g. recycling robot in Sutton book; any gridworld from Sutton's book). A better suggestion is to try to replicate an experiment from Sutton's book and try to get the same discounted reward graph. You will notice you need to do a lot of debugging to make it work, and that the actual experiments have a lot of noise so that is why usually we average the results over many trials. In my opinion, only after implementing you can get a real understanding of the methods.
+    3. For people with no mathematical background (my case when starting PhD), I suggest reading
+        1. Real Analysis book (as much as needed; to be honest I still lack a lot of knowledge in this area). (e.g. Axler's MIRA supplementary material book which discusses supremum/infimum/ and other concepts that are used a lot in theory papers)
+        2. Linear Algebra, both the matrix setting (e.g. Gilbert Strange book/course) and vector space setting (e.g. Axler's Linear Algebra Done Right)
 2. RL Theory (consult these resources is any order; try to complement what you do not understand from each other resource or cited papers)
-  1. Watch RL Theory Course from Szepesvari; Read Badint Algorithms sections suggested; 
+    1. Watch RL Theory Course from Szepesvari; Read Badint Algorithms sections suggested; 
 
 ## Application
 
@@ -70,7 +74,7 @@ See also the section [Reinforcement Learning in my post of Learning resources](h
   - https://github.com/henanmemeda/RL-Adventure-2
 - See the papers cited in these website
   - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
-  - 
+
 ### Websites
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 - I think the library is outdated and it is better to use more modern libraries (dopamine; ray_rl; etc), although I might be wrong. The most important for me about this website is that it provides a good summary of the most important developments in Deep RL for value-based and policy gradient methods.
