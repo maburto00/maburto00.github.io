@@ -14,11 +14,13 @@ comments: true
 - [Cheatsheet](http://mahjong-europe.org/portal/images/docs/riichi_scoresheet_EN.pdf)
 
 ## Where to play
+- [Mahjong Flash (play against basic AI player; no-humans)](https://en.mahjongflash.net/japanese-mahjong-64.html)
+    - No need to worry about  disturbing other people, since the other players are AI computer players (probably not very strong). Therefore, you can familiarize yourself with the game while learning the rules from tutorials like those described below.
 - [tenhou.net](https://tenhou.net/)
-    - Online platform
-    - Possible to run computer players there (not sure how yet though)
+    - Online platform to play agains other human players
+    - Possible to run computer players there (not sure how yet though) and play agains strong computer players (not sure how either)
 - [Mahjong soul (雀魂)](https://mahjongsoul.com/)
-    - iPhone/Android app
+    - iPhone/Android app with anime characters. It seems interesting, although it is in Japanese
 
 ## Tutorials
 - [BOOK English Riichi Book I](https://dainachiba.github.io/RiichiBooks/)
