@@ -7,6 +7,9 @@ comments: true
 ---
 
 
+## Cheatsheet
+- [Cheatsheet](http://mahjong-europe.org/portal/images/docs/riichi_scoresheet_EN.pdf)
+
 ## Where to play
 - [tenhou.net](https://tenhou.net/)
     - Online platform
@@ -15,10 +18,15 @@ comments: true
     - iPhone/Android app
 
 ## Tutorials
+- [BOOK English Riichi Book I](https://dainachiba.github.io/RiichiBooks/)
 - VIDEO English https://www.youtube.com/watch?v=hlnC2rgIPrc
 - VIDEO Japanese 
     - https://www.youtube.com/watch?v=tYoGPkSDZ0U
     - https://www.youtube.com/watch?v=YceKStjAGwA
+
+## Computer (AI) Mahjong Player
+- PAPER Mahjong https://arxiv.org/pdf/2003.13590
+
 ## References:
 - https://en.wikipedia.org/wiki/Mahjong_tiles
 - https://npmahjong.com/blog/riichi-mahjong-tools
