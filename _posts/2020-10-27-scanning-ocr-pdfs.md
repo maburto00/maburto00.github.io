@@ -6,6 +6,10 @@ categories: general
 comments: true
 ---
 
+**Contents**
+* TOC
+{:toc}
+
 ## Scanning documents to PDF (using vFlat)
 vFlat  is an android app that makes it very fast to scan books to JPG and export to PDF either in Color or Grayscale. I tried other apps, but this is the easiest and it is free. Compared to OfficeLens and GoogleScan, vFlat makes the process faster, especially for books.
 https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US
@@ -55,7 +59,11 @@ Reference: [https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-
 `pdf2ps large.pdf very_large.ps`
 `ps2pdf very_large.ps small.pdf`
 
+## Convert epub to pdf
 
+``sudo apt-get install calibre``
+
+``ebook-convert file.epub file.pdf``
 
 ## References
 1. https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US
