@@ -349,7 +349,12 @@ SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR SEPARATOR
 -----
 -----
 
+### English
+- [PDF - How to Read Figures, Mathematical Expressions and Equations,
+and Glossary - Sophia University - ](https://ocw.cc.sophia.ac.jp/wp-content/uploads/2019/02/2009SCT50900_1_01.pdf)
+
 ### ★Japanese
+
 **Kansai-ben**
 - [YOUTUBE VIDEO 日本語の森 - 【ひきこ森ライブ】#03 関西人のうちが、関西弁教えたんで。](https://www.youtube.com/watch?v=QgOQTquX30I)
 - [YOUTUBE CHANNEL YouTube関西弁講座-大阪おっちゃんねる](https://www.youtube.com/@kansaiben)
