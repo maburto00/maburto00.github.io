@@ -65,6 +65,17 @@ Reference: [https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-
 
 ``ebook-convert file.epub file.pdf``
 
+## Convert folder of jpg files to pdf (OCR and small pdf size)
+
+``convert *.jpg -resize 50% p50.pdf``
+
+``pdf2ps p50.pdf large.ps``
+
+``ps2pdf large.ps small.pdf``
+
+``ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf``
+
+
 ## References
 1. https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US
 1. [OCRmyPDF Documentation](https://ocrmypdf.readthedocs.io/en/latest/index.html)
