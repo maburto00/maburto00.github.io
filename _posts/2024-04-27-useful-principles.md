@@ -53,3 +53,24 @@ The principles listed here are useless without the context and details from thei
 1. Do **Fewer Things**
 2. Work at a **Natural Pace**
 3. Obsess Over **Quality**
+
+## Atomic habits (James Clear)
+**Laws**
+1. Make it obvious (**Cue**)
+2. Make it attractive (**Desire**)
+3. Make it easy (**Activity**)
+4. Make it rewarding (**Reward**)
+
+**Additional ideas** (11 lessons from 30 days of better habits mailing list)
+1. Identity based habits
+2. 2 minute rule
+3. Implementation intention. 
+   - I will do ACTIVITY at TIME in PLACE
+4. Environment design
+5. Reduce friction
+6. Prime the environment
+7. Temptation bundling; Commitment device
+8. Rewards aligned with identity (e.g. bubble bath after exercise)
+9. Habit tracker
+10. Role of family and friends
+11. Habit graduation
