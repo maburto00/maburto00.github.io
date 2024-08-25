@@ -76,6 +76,20 @@ Reference: [https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-
 ``ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf``
 
 
+# One-liners 
+- English
+
+``echo English; convert *.jpg -resize 50% p50.pdf; pdf2ps p50.pdf large.ps; ps2pdf large.ps small.pdf; ocrmypdf -l eng small.pdf --output-type pdf small-ocr.pdf``
+- Japanese
+
+{% include codeHeader.html %}
+``echo Japanese; convert *.jpg -resize 50% p50.pdf; pdf2ps p50.pdf large.ps; ps2pdf large.ps small.pdf; ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf``
+
+{% include codeHeader.html %}
+```someLanguage
+code goes in here!
+```
+
 ## References
 1. https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US
 1. [OCRmyPDF Documentation](https://ocrmypdf.readthedocs.io/en/latest/index.html)
