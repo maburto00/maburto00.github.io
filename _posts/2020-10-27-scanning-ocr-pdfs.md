@@ -67,6 +67,8 @@ Reference: [https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-
 
 ## Convert folder of jpg files to pdf (OCR and small pdf size)
 
+``for f in *; do num=$(echo "$f" | grep -o -E '[0-9]+'); newnum=$(printf "%03d" "$num"); mv "$f" "${f/$num/$newnum}"; done``
+
 ``convert *.jpg -resize 50% p50.pdf``
 
 ``pdf2ps p50.pdf large.ps``
