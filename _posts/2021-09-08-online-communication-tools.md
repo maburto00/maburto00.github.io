@@ -6,7 +6,9 @@ categories: general
 comments: true
 ---
 
-This is a list of tools for communicating online that I know, in no specific order. I think it can be useful to have them all listed when deciding what communication tools to use with a team.
+This is a list of tools for communicating online that I know, in no specific order. I made the list because I wanted to decide which tools to use with a team I was working with.
+
+I think finding a good balance between functionality and simplicity is important. Also, being flexible about the tools is important too, I used to get too attach/rigid about the usage, but the tools are means and not ends on themselves.
 
 # Coordinate Schedules
 - [Tonton](https://tonton.amaneku.co)

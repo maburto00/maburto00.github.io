@@ -8,13 +8,12 @@ comments: true
 
 Not working yet.
 
-<script src="/assets/scripts/copyCode.js"></script>
-
-
-{% include codeHeader.html %}
 ```bash
 mv file1 file2
 ```
 
+```
+print("hola")
+```
 
 Reference: [https://www.aleksandrhovhannisyan.com/blog/jekyll-copy-to-clipboard/](https://www.aleksandrhovhannisyan.com/blog/jekyll-copy-to-clipboard/)

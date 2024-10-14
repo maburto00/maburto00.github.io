@@ -6,7 +6,7 @@ categories: personal
 comments: true
 ---
 
-The principles listed here are useless without the context and details from their respective source reference. So, if your attention is drawn to any of them, I strongly recommend reading the source.
+The principles listed here are probably useless without the context and details from their respective sources. So, if your attention is drawn to any of them, I strongly recommend reading the source.
 
 **Contents**
 * TOC
@@ -20,8 +20,8 @@ The principles listed here are useless without the context and details from thei
 5. "**Serendipity**: the art of finding one thing while looking for something else": the thing you were trying to show may prove wrong/false in the end, but by pursuing that idea you may end up finding something interesting 
 
 ## Ultralearning (Scott H. Young)
-1. Meta-Learning (First draw a map)
-2. Focus (Sharpen your knife)
+1. Meta-Learning (first draw a map)
+2. Focus (sharpen your knife)
 3. **Directness** (go straight ahead)
 4. Drill (attack your weakest point)
 5. Retrieval (test to learn)
