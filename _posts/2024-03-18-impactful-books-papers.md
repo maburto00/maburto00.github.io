@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Impactuful articles and books"
+title:  "Impactful articles and books"
 date:   2024-03-18 13:07:00 +0900
 categories: personal
 comments: true
