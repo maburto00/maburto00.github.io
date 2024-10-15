@@ -96,6 +96,29 @@ for f in *; do num=$(echo "$f" | grep -o -E '[0-9]+'); newnum=$(printf "%03d" "$
 ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf
 ```
 
+# Fix problem with numbering 
+1. Rename to file.pdf
+2. Convert pdf to jpgs
+```
+convert file.pdf f-%d.jpg
+```
+3. Set numbering starting from 1 instead of 0
+```
+for i in {0..326}; do mv f-${i}.jpg g-$((i+1)).jpg; done
+```
+4. Rename names according to lexicographical order
+```
+i=1; for j in $(echo {1..327} | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done 
+```
+5. Rename with leading zeros
+```
+for i in {1..327}; do new_num=$(printf "%03d" i); mv h-${i}.jpg i-${new_num}.jpg; done
+```
+6. Convert to pdf again; reduce size; ocr (jpn in this case)
+```
+convert *.jpg p50.pdf; pdf2ps p50.pdf large.ps; ps2pdf large.ps small.pdf; ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf
+```
+
 ## References
 1. https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US
 1. [OCRmyPDF Documentation](https://ocrmypdf.readthedocs.io/en/latest/index.html)
