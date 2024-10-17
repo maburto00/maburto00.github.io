@@ -83,7 +83,7 @@ ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf
 ```
 
 
-# One-liners 
+## One-liners 
 This is the same code as above but in a single line. 
 - English
 ```
@@ -96,7 +96,7 @@ for f in *; do num=$(echo "$f" | grep -o -E '[0-9]+'); newnum=$(printf "%03d" "$
 ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf
 ```
 
-# Fix problem with numbering 
+## Fix problem with numbering 
 1. Rename to file.pdf
 2. Convert pdf to jpgs
 ```
