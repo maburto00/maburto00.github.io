@@ -36,6 +36,23 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
+  
+  <b>Comments</b>
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="f47273ee-042b-469e-a3d5-e22241a51d7d"
+    data-page-id="{{ PAGE_ID }}"
+    data-page-url="{{ PAGE_URL }}"
+    data-page-title="{{ PAGE_TITLE }}"
+    data-theme="auto">
+  </div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+  <script>window.addEventListener('load', function () {
+    setTimeout(() => {
+        let scrollHeight = document.querySelector("#cusdis_id_here iframe").contentWindow.document.body.scrollHeight;
+        document.querySelector("#cusdis_id_here iframe").style.height = scrollHeight + "px";
+    }, 3000);
+    });
+  </script>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

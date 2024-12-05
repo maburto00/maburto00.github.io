@@ -1,3 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
 .copy-button {
     background-color: #4CAF50;
     color: white;
@@ -7,6 +15,17 @@
     cursor: pointer;
     font-size: 0.9em;
     border-radius: 3px;
+}
+#cusdis_thread {
+    min-height: 800px; /* Set a comfortable minimum height */
+    max-height: 100%; /* Allow it to grow naturally */
+    overflow: hidden; /* Remove unnecessary scrollbars */
+    padding: 10px; /* Optional: Add padding to fit your design */
+}
+iframe[src*="cusdis.com"] {
+    width: 100%; /* Ensure it fits the container */
+    min-height: 800px; /* Set a comfortable minimum height */
+    border: none; /* Remove iframe border */
 }
 
 .copy-button:hover {

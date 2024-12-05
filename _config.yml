@@ -30,7 +30,7 @@ github_username:  maburto00
 linkedin_username: mario-eduardo-aburto-gutiérrez-19b233129
 google_analytics: UA-155260496-1
 disqus:
-  shortname: maburto00
+  shortname:
 # Build settings
 theme: minima
 plugins:
