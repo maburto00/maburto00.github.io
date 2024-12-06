@@ -104,15 +104,16 @@ convert file.pdf f-%d.jpg
 ```
 3. Set numbering starting from 1 instead of 0
 ```
-for i in {0..326}; do mv f-${i}.jpg g-$((i+1)).jpg; done
+NUM_PAGES=$(($(ls -1|wc -l)-1))
+for i in {0..$((NUM_PAGES-1))}; do mv f-${i}.jpg g-$((i+1)).jpg; done
 ```
 4. Rename names according to lexicographical order
 ```
-i=1; for j in $(echo {1..327} | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done 
+i=1; for j in $(echo {1..${NUM_PAGES}} | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done 
 ```
 5. Rename with leading zeros
 ```
-for i in {1..327}; do new_num=$(printf "%03d" i); mv h-${i}.jpg i-${new_num}.jpg; done
+for i in {1..${NUM_PAGES}}; do new_num=$(printf "%03d" i); mv h-${i}.jpg i-${new_num}.jpg; done
 ```
 6. Convert to pdf again; reduce size; ocr (jpn in this case)
 ```
