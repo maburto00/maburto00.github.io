@@ -104,21 +104,31 @@ convert file.pdf f-%d.jpg
 ```
 3. Set numbering starting from 1 instead of 0
 ```
-NUM_PAGES=$(($(ls -1|wc -l)-1))
-for i in {0..$((NUM_PAGES-1))}; do mv f-${i}.jpg g-$((i+1)).jpg; done
+NUM_PAGES=$(($(ls -1|wc -l)-1));
+for i in $(eval echo {0..$((NUM_PAGES-1))}); do mv f-${i}.jpg g-$((i+1)).jpg; done
 ```
 4. Rename names according to lexicographical order
 ```
-i=1; for j in $(echo {1..${NUM_PAGES}} | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done 
+i=1; for j in $(echo $(eval echo {1..${NUM_PAGES}}) | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done 
 ```
 5. Rename with leading zeros
 ```
-for i in {1..${NUM_PAGES}}; do new_num=$(printf "%03d" i); mv h-${i}.jpg i-${new_num}.jpg; done
+for i in $(eval echo {1..${NUM_PAGES}}); do new_num=$(printf "%03d" $i); mv h-${i}.jpg i-${new_num}.jpg; done
 ```
 6. Convert to pdf again; reduce size; ocr (jpn in this case)
 ```
 convert *.jpg p50.pdf; pdf2ps p50.pdf large.ps; ps2pdf large.ps small.pdf; ocrmypdf -l jpn small.pdf --output-type pdf small-ocr.pdf
 ```
+## Fix problem with numbering (single line command)
+- English
+```
+convert file.pdf f-%d.jpg; NUM_PAGES=$(($(ls -1|wc -l)-1)); for i in $(eval echo {0..$((NUM_PAGES-1))}); do mv f-${i}.jpg g-$((i+1)).jpg; done; i=1; for j in $(echo $(eval echo {1..${NUM_PAGES}}) | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done ; for i in $(eval echo {1..${NUM_PAGES}}); do new_num=$(printf "%03d" $i); mv h-${i}.jpg i-${new_num}.jpg; done; convert *.jpg p50.pdf; pdf2ps p50.pdf large.ps; ps2pdf large.ps small.pdf; ocrmypdf -l eng small.pdf --output-type pdf small-ocr-eng.pdf
+```
+- Japanese
+```
+convert file.pdf f-%d.jpg; NUM_PAGES=$(($(ls -1|wc -l)-1)); for i in $(eval echo {0..$((NUM_PAGES-1))}); do mv f-${i}.jpg g-$((i+1)).jpg; done; i=1; for j in $(echo $(eval echo {1..${NUM_PAGES}}) | tr ' ' '\n' | sort); do mv g-${i}.jpg h-${j}.jpg; i=$((i+1)); done ; for i in $(eval echo {1..${NUM_PAGES}}); do new_num=$(printf "%03d" $i); mv h-${i}.jpg i-${new_num}.jpg; done; convert *.jpg p50.pdf; pdf2ps p50.pdf large.ps; ps2pdf large.ps small.pdf; ocrmypdf -l jpn small.pdf --output-type pdf small-ocr-jpn.pdf
+```
+
 
 ## References
 1. https://play.google.com/store/apps/details?id=com.voyagerx.scanner&hl=en&gl=US

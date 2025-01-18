@@ -4,7 +4,6 @@ Reference: https://jekyllrb.com/docs/installation/macos/
 ```brew install nodejs```
 ```brew install chruby ruby-install xz```
 ```ruby-install ruby 3.1.3```
-```echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc```
 ```echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc```
 ```echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version```
 open and close terminal
@@ -15,20 +14,18 @@ open and close terminal
 ``bundle install``
 
 # Setup Ubuntu 
-```cd github/maburto00.github.io/```
-```sudo apt-get update```
-```sudo apt-get install ruby-full build-essential```
-```sudo apt install nodejs```
-```bundle install```
-
-sudo apt-get install ruby-full build-essential zlib1g-dev
-
-1. Setup .bashrc
+1. Install ruby nodejs etc
+```sudo apt update```
+```sudo apt install ruby-full build-essential ruby-bundler nodejs  zlib1g-dev```
+2. Setup .bashrc
 ```cd $HOME```
 ```echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc```
 ```echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc```
 ```echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc```
 ```source ~/.bashrc```
+3. Install gems with bundle
+```cd github/maburto00.github.io/```
+```bundle install```
 
 To publish site locally in Windows: 
 1. Open Start Command Prompt with Ruby
