@@ -19,7 +19,9 @@ Here I put a brief explanation of how to install and use OCRmyPDF, but you can s
 
 ### Installation on Mac
 1. Install using the following command:
-``brew install ocrmypdf``
+```
+brew install ocrmypdf
+```
 
 ### Installation on Ubuntu
 1. Install using the following command:
@@ -40,17 +42,17 @@ NOTE: when using Ubuntu from windows, the hard drive will be mounted on /mnt/c/ 
 
 ### Usage
 1. Change to the directory containing the file you want to convert
-
-   `cd DIRECTORY`
-
+```
+cd DIRECTORY
+```
 2. Execute OCRmyPDF with the following command (replace a.pdf and o.pdf with the appropiate names):
-    
-   `ocrmypdf input.pdf --output-type pdf output.pdf`
-
-3. For Japanese (or other languages) just add the option -l with the appropiate option
-
-   `ocrmypdf -l jpn input.pdf --output-type pdf output.pdf`
-
+```
+ocrmypdf input.pdf --output-type pdf output.pdf
+```
+4. For Japanese (or other languages) just add the option -l with the appropiate option
+```
+ocrmypdf -l jpn input.pdf --output-type pdf output.pdf
+```
 
 ## Reducing size of scanned PDFs
 Reference: [https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-with-pdftk/](https://pandemoniumillusion.wordpress.com/2008/05/07/compress-a-pdf-with-pdftk/)
