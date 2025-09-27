@@ -23,9 +23,9 @@ Here I put a brief explanation of how to install and use OCRmyPDF, but you can s
 
 ### Installation on Ubuntu
 1. Install using the following command:
-``sudo apt-get install ocrmypdf``
-``sudo apt install tesseract-ocr-jpn``
-``sudo apt install tesseract-ocr-jpn-vert``
+```sudo apt-get install ocrmypdf```
+```sudo apt install tesseract-ocr-jpn```
+```sudo apt install tesseract-ocr-jpn-vert```
 
 ### Installation on Windows
 Install "Ubuntu" (WSL) from the Windows Store to have access to an Ubuntu terminal from Windows and install from there using the previous instructions. 
