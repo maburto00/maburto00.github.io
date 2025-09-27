@@ -53,7 +53,9 @@ jobs:
         with:
           name: github-pages
           path: _site
-      
+       # 4. Clean previous build
+      - name: Clean _site
+        run: rm -rf _site
   # Deployment job
   deploy:
     environment:
