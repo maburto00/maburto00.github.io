@@ -36,7 +36,7 @@ bundle install
 ``
 
 # Setup Ubuntu 
-1. Install ruby nodejs etc
+1. Install ruby, nodejs, etc
 ```
 sudo apt update
 ```
